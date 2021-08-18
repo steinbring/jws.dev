@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/steinbring
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jws.dev
+  * I am steinbring (https://keybase.io/steinbring) on keybase.
+  * I have a public key ASCfW44eXdUZFteWbKxa_hcuruK_3wTK_Giq_CIywwIv5Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201d631ed11dc50e5c505ca439734d18aba78ce1499ac96a23d1491c8054422a420a",
+      "host": "keybase.io",
+      "kid": "01209f5b8e1e5dd51916d7966cac5afe172eaee2bfdf04cafc68aafc2232c3022fe50a",
+      "uid": "3d3ff128a6966f378e1bb35b96569919",
+      "username": "steinbring"
+    },
+    "merkle_root": {
+      "ctime": 1572019440,
+      "hash": "adae4450e75b5227d419326b2d8185f1e08026e6da0c5be541f689f2fd3bcc36e903e1689306fae34caf6ff2128df3a4def8b2165e1b0ba84b5dcd5264970a48",
+      "hash_meta": "d7799627ba4adbe43f89d253673e4c011a8a30dd11fe2bf33fff56e9088acd64",
+      "seqno": 8397014
+    },
+    "service": {
+      "entropy": "PF7wvmSt8l4+Unskyy+XZQax",
+      "hostname": "jws.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.0"
+  },
+  "ctime": 1572019364,
+  "expire_in": 504576000,
+  "prev": "f187da476d6ed1e6900f56df55fe04b8821d230d0ebc2410b4c98bef2b0daf26",
+  "seqno": 47,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgn1uOHl3VGRbXlmysWv4XLq7iv98EyvxoqvwiMsMCL+UKp3BheWxvYWTESpcCL8Qg8YfaR21u0eaQD1bfVf4EuIIdIw0OvCQQtMmL7ysNrybEIHLKuvqiP89IyuZFqr3TLHCz4ZX+rL1LEG9iQl1pE3KRAgHCo3NpZ8RA8gPgs9KsSbCPPr+x0EAB/P36xOoUfd88drfWaInOUg0cu/oXxIwbl03Vp+bcvJAnkRM+ZjLJAumMO5yT0BhDDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM7mxWuGeIopELUCwPN79sphjfH5YjxVtMfY9zT99Wrlo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/steinbring
+
+==================================================================
