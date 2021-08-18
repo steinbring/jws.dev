@@ -69,6 +69,7 @@ title: 'About'
 * <a rel="me" href="https://github.com/steinbring/">GitHub</a>
 * <a rel="me" href="https://dev.to/steinbring/">Dev.to</a>
 * <a rel="me" href="https://uwm.edu/~josephs7">UWM Website</a>
+* <a ref="me" href="https://keybase.io/steinbring">Keybase</a>
 
 ### Stuff I don't use
 
@@ -81,6 +82,6 @@ title: 'About'
 
 ## About this site
 
-This website ([jws.dev](https://jws.dev)) is hosted on [Keybase](https://keybase.io/docs/server_security).  All files in it have been [cryptographically signed](https://keybase.pub/steinbring/).  You can additionally visit my [Keybase proof of identity](https://keybase.io/steinbring) ([Tor URL for Keybase proof](http://keybase5wmilwokqirssclfnsqrjdsi7jdir5wy7y7iu3tanwmtp6oid.onion/steinbring)) to verify the fact that this site is mine.  This site uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.
+This website ([jws.dev](https://jws.dev)) was hosted on Keybase but is now hosted on Render. This site uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.
 
-Updated:  [2020-08-01](https://web.archive.org/web/*/https://jws.dev)
+Updated:  [2020-08-17](https://web.archive.org/web/*/https://jws.dev)
