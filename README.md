@@ -68,7 +68,6 @@ title: 'About'
 * <a rel="me" href="https://www.linkedin.com/in/steinbring/">LinkedIn</a>
 * <a rel="me" href="https://github.com/steinbring/">GitHub</a>
 * <a rel="me" href="https://dev.to/steinbring/">Dev.to</a>
-* <a rel="me" href="https://uwm.edu/~josephs7">UWM Website</a>
 * <a ref="me" href="https://keybase.io/steinbring">Keybase</a>
 
 ### Stuff I don't use
