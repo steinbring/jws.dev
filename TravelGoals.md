@@ -5,7 +5,7 @@ title: 'Travel Goals'
 
 ## Africa
 
-* <s>Morocco</s>([2019](https://travels.jws.app/tagged/Morocco/))
+* <s>Morocco</s> ([2019](https://travels.jws.app/tagged/Morocco/))
 	* <s>The Rif Mountains</s>
 	* Marrakesh
 * Egypt
@@ -13,7 +13,7 @@ title: 'Travel Goals'
 
 ## Asia
 
-* <s>China</s>([2018](https://travels.jws.app/tagged/China))
+* <s>China</s> ([2018](https://travels.jws.app/tagged/China))
 * South Korea
 	* The DMZ
 * Japan
@@ -37,22 +37,22 @@ title: 'Travel Goals'
 
 ## Europe
 
-* <s>England</s>([2019](https://travels.jws.app/tagged/England))
-	* <s>Stonehenge</s>([2019](https://travels.jws.app/tagged/Stonehenge))
+* <s>England</s> ([2019](https://travels.jws.app/tagged/England))
+	* <s>Stonehenge</s> ([2019](https://travels.jws.app/tagged/Stonehenge))
 	* Land's End to John O'Groats
-* <s>France</s>([2002](https://travels.jws.app/tagged/France), [2019](https://photos.jws.app/search/label/France))
+* <s>France</s> ([2002](https://travels.jws.app/tagged/France), [2019](https://photos.jws.app/search/label/France))
 * Azores
-* <s>Germany</s>([2019](https://travels.jws.app/tagged/Germany))
+* <s>Germany</s> ([2019](https://travels.jws.app/tagged/Germany))
 * Turkey
 	* The Blue Mosque
-* <s>Switzerland</s>([2019](https://photos.jws.app/search/label/Switzerland))
+* <s>Switzerland</s> ([2019](https://photos.jws.app/search/label/Switzerland))
 * Russia
 	* Trans-Siberian Railway (or Trans-Mongolian Railway?)
 * Italy
 	* Rome
 	* Venice
 * Scotland
-* <s>Spain</s>([2019](https://photos.jws.app/search/label/Spain))
+* <s>Spain</s> ([2019](https://photos.jws.app/search/label/Spain))
 	* <s>Basílica de la Sagrada Família</s>
 * Greece
 	* Delphi
@@ -127,8 +127,8 @@ title: 'Travel Goals'
 				* Adams County
 					* Roche-a-Cri State Park
 				* Ashland County
-					* Big Bay State Park
-					* Copper Falls State Park
+					* <s>Big Bay State Park</s> ([2021](https://photos.jws.app/2021/08/park-966-big-bay-state-park.html))
+					* <s>Copper Falls State Park</s> ([2021](https://photos.jws.app/2021/08/park-866-copper-falls-state-park.html))
 				* Brown County
 					* Heritage Hill State Historical Park
 				* Buffalo County
@@ -153,8 +153,8 @@ title: 'Travel Goals'
 					* Rock Island State Park
 					* Whitefish Dunes State Park
 				* Douglas County
-					* Amnicon Falls State Park
-					* Pattison State Park
+					* <s>Amnicon Falls State Park</s> ([2021](https://photos.jws.app/2021/08/park-1066-amnicon-falls-state-park.html))
+					* <s>Pattison State Park</s> ([2021](https://photos.jws.app/2021/08/park-1166-pattison-state-park.html))
 				* Dunn County
 					* Hoffman Hills State Recreation Area
 				* Fond du Lac County
@@ -169,22 +169,22 @@ title: 'Travel Goals'
 					* Governor Dodge State Park
 					* Tower Hill State Park
 				* Jefferson County
-					* <s>Aztalan State Park</s>([2021](https://photos.jws.app/search/label/Aztalan%20State%20Park))
+					* <s>Aztalan State Park</s> ([2021](https://photos.jws.app/search/label/Aztalan%20State%20Park))
 					* Holzhueter Farm Conservation Park
 				* Juneau County
 					* Buckhorn State Park
 					* Rocky Arbor State Park
 				* Kenosha County
-					* <s>Richard Bong State Recreation Area</s>([2021](https://photos.jws.app/2021/05/park-266-richard-bong-state-recreation.html))
+					* <s>Richard Bong State Recreation Area</s> ([2021](https://photos.jws.app/2021/05/park-266-richard-bong-state-recreation.html))
 				* Lafayette County
 					* Belmont Mound State Park
 					* Yellowstone Lake State Park
 				* Lincoln County
-					* Council Grounds State Park
+					* <s>Council Grounds State Park</s> ([2021](https://photos.jws.app/2021/08/park-766-council-grounds-state-park.html))
 				* Manitowoc County
 					* Fischer Creek State Recreation Area
 				* Marathon County
-					* Rib Mountain State Park
+					* <s>Rib Mountain State Park</s> ([2021](https://photos.jws.app/2021/08/park-666-rib-mountain-state-park.html))
 				* Marinette County
 					* Governor Thompson State Park
 					* Menominee River State Park and Recreation Area
@@ -204,9 +204,9 @@ title: 'Travel Goals'
 				* Sauk County
 					* Devil's Lake State Park
 					* Mirror Lake State Park
-					* <s>Natural Bridge State Park</s>([2021](https://photos.jws.app/2021/05/park-366-natural-bridge-state-park.html))
+					* <s>Natural Bridge State Park</s> ([2021](https://photos.jws.app/2021/05/park-366-natural-bridge-state-park.html))
 				* Sheboygan County
-					* <s>Kohler-Andrae State Park</s>([2021](https://photos.jws.app/2021/06/park-466-kohler-andrae-state-park.html))
+					* <s>Kohler-Andrae State Park</s> ([2021](https://photos.jws.app/2021/06/park-466-kohler-andrae-state-park.html))
 				* St. Croix County
 					* Willow River State Park
 				* Trempealeau County
