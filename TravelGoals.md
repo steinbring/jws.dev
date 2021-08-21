@@ -127,8 +127,8 @@ title: 'Travel Goals'
 				* Adams County
 					* Roche-a-Cri State Park
 				* Ashland County
-					* <s>Big Bay State Park</s> ([2021](https://photos.jws.app/2021/08/park-966-big-bay-state-park.html))
-					* <s>Copper Falls State Park</s> ([2021](https://photos.jws.app/2021/08/park-866-copper-falls-state-park.html))
+					* <s>Big Bay State Park</s> ([2021](https://photos.jws.app/search/label/BigBayStatePark))
+					* <s>Copper Falls State Park</s> ([2021](https://photos.jws.app/search/label/CopperFallsStatePark))
 				* Brown County
 					* Heritage Hill State Historical Park
 				* Buffalo County
@@ -144,7 +144,7 @@ title: 'Travel Goals'
 					* Capital Springs State Recreation Area
 					* Cross Plains State Park
 					* Governor Nelson State Park
-					* Lake Kegonsa State Park
+					* <s>Lake Kegonsa State Park</s> ([2021](https://photos.jws.app/search/label/LakeKegonsaStatePark))
 				* Door County
 					* Grand Traverse Island State Park
 					* Newport State Park
@@ -153,8 +153,8 @@ title: 'Travel Goals'
 					* Rock Island State Park
 					* Whitefish Dunes State Park
 				* Douglas County
-					* <s>Amnicon Falls State Park</s> ([2021](https://photos.jws.app/2021/08/park-1066-amnicon-falls-state-park.html))
-					* <s>Pattison State Park</s> ([2021](https://photos.jws.app/2021/08/park-1166-pattison-state-park.html))
+					* <s>Amnicon Falls State Park</s> ([2021](https://photos.jws.app/search/label/AmniconFallsStatePark))
+					* <s>Pattison State Park</s> ([2021](https://photos.jws.app/search/label/PattisonStatePark))
 				* Dunn County
 					* Hoffman Hills State Recreation Area
 				* Fond du Lac County
@@ -175,16 +175,16 @@ title: 'Travel Goals'
 					* Buckhorn State Park
 					* Rocky Arbor State Park
 				* Kenosha County
-					* <s>Richard Bong State Recreation Area</s> ([2021](https://photos.jws.app/2021/05/park-266-richard-bong-state-recreation.html))
+					* <s>Richard Bong State Recreation Area</s> ([2021](https://photos.jws.app/search/label/Richard%20Bong%20State%20Recreation%20Area))
 				* Lafayette County
 					* Belmont Mound State Park
 					* Yellowstone Lake State Park
 				* Lincoln County
-					* <s>Council Grounds State Park</s> ([2021](https://photos.jws.app/2021/08/park-766-council-grounds-state-park.html))
+					* <s>Council Grounds State Park</s> ([2021](https://photos.jws.app/search/label/CouncilGroundsStatePark))
 				* Manitowoc County
 					* Fischer Creek State Recreation Area
 				* Marathon County
-					* <s>Rib Mountain State Park</s> ([2021](https://photos.jws.app/2021/08/park-666-rib-mountain-state-park.html))
+					* <s>Rib Mountain State Park</s> ([2021](https://photos.jws.app/search/label/RibMountainStatePark))
 				* Marinette County
 					* Governor Thompson State Park
 					* Menominee River State Park and Recreation Area
@@ -204,9 +204,9 @@ title: 'Travel Goals'
 				* Sauk County
 					* Devil's Lake State Park
 					* Mirror Lake State Park
-					* <s>Natural Bridge State Park</s> ([2021](https://photos.jws.app/2021/05/park-366-natural-bridge-state-park.html))
+					* <s>Natural Bridge State Park</s> ([2021](https://photos.jws.app/search/label/Natural%20Bridge%20State%20Park))
 				* Sheboygan County
-					* <s>Kohler-Andrae State Park</s> ([2021](https://photos.jws.app/2021/06/park-466-kohler-andrae-state-park.html))
+					* <s>Kohler-Andrae State Park</s> ([2021](https://photos.jws.app/search/label/KohlerAndraeStatePark))
 				* St. Croix County
 					* Willow River State Park
 				* Trempealeau County
