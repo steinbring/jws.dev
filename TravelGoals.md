@@ -134,7 +134,7 @@ title: 'Travel Goals'
 				* Buffalo County
 					* Merrick State Park
 				* Calumet County
-					* High Cliff State Park
+					* <s>High Cliff State Park</s> ([2021](https://photos.jws.app/search/label/HighCliffStatePark))
 				* Chippewa County
 					* Brunet Island State Park
 					* Chippewa Moraine State Recreation Area
