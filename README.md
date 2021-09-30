@@ -17,7 +17,7 @@ title: 'About'
 * I have two [dogs](https://blog.jws.app/tag/dogs/) and a [cat](https://blog.jws.app/tag/cat/).
 * I enjoy [international travel](TravelGoals.html).
 	* I enjoy travel hacking, too (it is how I afford the trip).
-	* I hope to travel internationally in 2021 (maybe India ~~and Nepal~~?).
+	* I am planning to visit Italy in 2022.
 * I am a web application developer.
 	* I have worked for [Bader Rutter](https://baderrutter.com/) since July 2021.
 	* I previously worked for [QM Quality Matters](https://www.qualitymatters.org/), [Starkmedia](https://www.starkmedia.com/), [Experis](http://www.experis.com/), and [UWM](https://uwm.edu).
@@ -26,6 +26,8 @@ title: 'About'
 		* I don't really do [ColdFusion](https://cfdocs.org/) anymore.
 	* These days (at work) I use:
 		* [Vue.JS](https://blog.jws.app/tag/vue-js/)
+		* [Nuxt](https://nuxtjs.org/)
+		* [Marketo](https://www.marketo.com/)
 	* When I write code for fun, I mainly use:
 		* [Vue.JS](https://blog.jws.app/tag/vue-js/)
 		* [VuePress](https://blog.jws.app/tag/vuepress/) (what this site uses)
@@ -35,9 +37,8 @@ title: 'About'
 	* I tend to enjoy front-end development more than back-end development. ;)
 * In 2005, I recieved a BBA in Management Information Systems from the [University of Wisconsin-Milwaukee - Lubar School of Business](https://uwm.edu/business/).
 * In 2012, I recieved a MBA from [Cardinal Stritch University](https://www.stritch.edu/academics/programs/badgm).
-* Conferences that I will be at in 2021:
-	* ~~[That Conference](https://www.thatconference.com/wi/2021)~~ (I hope to be back in 2022)
-	* ~~[Cyphercon 5.2](https://cyphercon.com/)~~ (I'll be at [Cyphercon 5.3](https://cyphercon.com/) in 2022)
+* Conferences that I will be at in 2022:
+	* [Cyphercon 5.3](https://cyphercon.com/)
 * I post to [my blog](https://blog.jws.app/) fairly often.
 	* It tends to be 80% coding topics and 20% other topics.
 	* Posts go up on Tuesdays and Thursdays.
@@ -83,4 +84,4 @@ title: 'About'
 
 This website ([jws.dev](https://jws.dev)) was hosted on Keybase but is now hosted on Render. This site uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.  The source code is available on [github](https://github.com/steinbring/jws.dev).
 
-Updated:  [2020-08-23](https://web.archive.org/web/*/https://jws.dev)
+Updated:  [2020-10-30](https://web.archive.org/web/*/https://jws.dev)
