@@ -28,6 +28,7 @@ title: 'About'
 		* [Vue.JS](https://blog.jws.app/tag/vue-js/)
 		* [Nuxt](https://nuxtjs.org/)
 		* [Marketo](https://www.marketo.com/)
+		* [Pitcher](https://www.pitcher.com/)
 	* When I write code for fun, I mainly use:
 		* [Vue.JS](https://blog.jws.app/tag/vue-js/)
 		* [VuePress](https://blog.jws.app/tag/vuepress/) (what this site uses)
@@ -39,6 +40,7 @@ title: 'About'
 * In 2012, I recieved a MBA from [Cardinal Stritch University](https://www.stritch.edu/academics/programs/badgm).
 * Conferences that I will be at in 2022:
 	* [Cyphercon 5.3](https://cyphercon.com/)
+	* [That Conference](https://that.us/events/wi/2022/) (Hopefully, if I can manage it)
 * I post to [my blog](https://blog.jws.app/) fairly often.
 	* It tends to be 80% coding topics and 20% other topics.
 	* Posts go up on Tuesdays and Thursdays.
@@ -84,4 +86,4 @@ title: 'About'
 
 This website ([jws.dev](https://jws.dev)) was hosted on Keybase but is now hosted on Render. This site uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.  The source code is available on [github](https://github.com/steinbring/jws.dev).
 
-Updated:  [2020-10-30](https://web.archive.org/web/*/https://jws.dev)
+Updated:  [2021-10-12](https://web.archive.org/web/*/https://jws.dev)
