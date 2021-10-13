@@ -141,7 +141,7 @@ title: 'Travel Goals'
 					* Lake Wissota State Park
 				* Dane County
 					* Blue Mound State Park
-					* Capital Springs State Recreation Area
+					* <s>Capital Springs State Recreation Area</s> ([2021](https://photos.jws.app/search/label/CapitalSpringsStatePark))
 					* Cross Plains State Park
 					* Governor Nelson State Park
 					* <s>Lake Kegonsa State Park</s> ([2021](https://photos.jws.app/search/label/LakeKegonsaStatePark))
