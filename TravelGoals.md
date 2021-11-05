@@ -140,7 +140,7 @@ title: 'Travel Goals'
 					* Chippewa Moraine State Recreation Area
 					* Lake Wissota State Park
 				* Dane County
-					* Blue Mound State Park
+					* <s>Blue Mound State Park</s> ([2021](https://photos.jws.app/search/label/BlueMound))
 					* <s>Capital Springs State Recreation Area</s> ([2021](https://photos.jws.app/search/label/CapitalSpringsStatePark))
 					* Cross Plains State Park
 					* Governor Nelson State Park
@@ -160,8 +160,8 @@ title: 'Travel Goals'
 				* Fond du Lac County
 					* Campbellsport Drumlins State Park
 				* Grant County
-					* Nelson Dewey State Park
-					* Wyalusing State Park
+					* <s>Nelson Dewey State Park</s> ([2021](https://photos.jws.app/search/label/NelsonDewey))
+					* <s>Wyalusing State Park</s> ([2021](https://photos.jws.app/search/label/Wyalusing))
 				* Green County
 					* Cadiz Springs State Recreation Area
 					* New Glarus Woods State Park
@@ -177,7 +177,7 @@ title: 'Travel Goals'
 				* Kenosha County
 					* <s>Richard Bong State Recreation Area</s> ([2021](https://photos.jws.app/search/label/Richard%20Bong%20State%20Recreation%20Area))
 				* Lafayette County
-					* Belmont Mound State Park
+					* <s>Belmont Mound State Park</s> ([2021](https://photos.jws.app/search/label/BelmontMound))
 					* Yellowstone Lake State Park
 				* Lincoln County
 					* <s>Council Grounds State Park</s> ([2021](https://photos.jws.app/search/label/CouncilGroundsStatePark))
