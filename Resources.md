@@ -27,14 +27,19 @@ Every now and then, I find something interesting that I want to share.
 
 ### Services
 
-- [Saucelabs](https://saucelabs.com/) -- Allows you to test against a lot of browsers / operating systems through your browser
 - [Render](https://render.com/) -- How I host a lot of my stuff
 - [Heroku](https://heroku.com/)
-- [Mailtrap](https://mailtrap.io/) -- Great for testing how emails go out, in your development environment
 - [Github](https://github.com/) -- I know that a lot of people like Gitlab but there are more people on Github
 - [Cloudflare](https://www.cloudflare.com/) -- A freemium reverse proxy service that does a lot to protect your websites
 - [IFTTT](https://ifttt.com) -- Good for connecting services like twitter, RSS feeds, wordpress, etc together
 - [Jetpack](https://jetpack.com/) -- Running [wordpress](https://wordpress.com/)?  You would be stupid to not use this.
+
+### Testing
+
+- [Saucelabs](https://saucelabs.com/) -- Allows you to test against a lot of browsers / operating systems through your browser
+- [BrowserStack](https://www.browserstack.com/) -- This is very similar to [BrowserStack](https://www.browserstack.com/) and also allows you to test live or with something like selenium
+- [Mailtrap](https://mailtrap.io/) -- Great for testing how emails go out, in your development environment
+- [Section 508 Testing Methods](https://www.section508.gov/test/testing-overview/) -- This is the official guidance from the general services administration on section 508 automated, manual, and hybrid testing practices.
 
 ### Learning Resources
 
