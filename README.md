@@ -20,6 +20,7 @@ title: 'About'
 	* I am planning to visit Italy in 2022.
 * I am a web application developer.
 	* I have worked for [Bader Rutter](https://baderrutter.com/) since July 2021.
+		* BR clients include Zoetis, Corteva Agriscience, and Brevant® seeds
 	* I previously worked for [QM Quality Matters](https://www.qualitymatters.org/), [Starkmedia](https://www.starkmedia.com/), [Experis](http://www.experis.com/), and [UWM](https://uwm.edu).
 	* I have written a lot of [ColdFusion](https://en.wikipedia.org/wiki/ColdFusion_Markup_Language) since 2006.
 		* I do not recommend that anybody install [Adobe ColdFusion](https://www.adobe.com/products/coldfusion-family.html) when [Lucee](https://lucee.org/) is available.
