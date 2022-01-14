@@ -37,7 +37,7 @@ Every now and then, I find something interesting that I want to share.
 ### Testing
 
 - [Saucelabs](https://saucelabs.com/) -- Allows you to test against a lot of browsers / operating systems through your browser
-- [BrowserStack](https://www.browserstack.com/) -- This is very similar to [BrowserStack](https://www.browserstack.com/) and also allows you to test live or with something like selenium
+- [BrowserStack](https://www.browserstack.com/) -- This is very similar to [Saucelabs](https://saucelabs.com/) and also allows you to test live or with something like selenium
 - [Mailtrap](https://mailtrap.io/) -- Great for testing how emails go out, in your development environment
 - [Section 508 Testing Methods](https://www.section508.gov/test/testing-overview/) -- This is the official guidance from the general services administration on section 508 automated, manual, and hybrid testing practices
 - [ANDI (Accessible Name & Description Inspector)](https://www.ssa.gov/accessibility/andi/help/install.html) -- A free accessibility testing tool that was developed by the Social Security Administration
