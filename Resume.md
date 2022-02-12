@@ -11,6 +11,10 @@ title: 'Resume'
 
 July 2021 - Present:   **Senior Full-Stack Developer**
 
+* I maintain an internal sales tool that is used by [Zoetis](https://www.zoetis.com/).  It uses [Vue.js](https://vuejs.org/), [Pitcher](https://www.pitcher.com/), and [Salesforce](https://www.salesforce.com/).
+* I maintain and develop enhancements for [Brevant.com](https://brevant.com/) using [Vue.js](https://vuejs.org/), [Nuxt.JS](https://nuxtjs.org/), [Marketo](https://www.marketo.com/), and [Strapi](https://strapi.io/).
+* I maintain and develop enhancements for [phytogencottonseed.com](https://phytogencottonseed.com/) using [.NET](https://dotnet.microsoft.com/en-us/), [Vue.js](https://vuejs.org/), and [Eloqua](https://www.oracle.com/cx/marketing/automation/).
+* I regularly research and present new technical concepts to the agency's development team.
 
 
 ### [University of Wisconsin, Milwaukee](https://uwm.edu/)
@@ -18,14 +22,14 @@ July 2021 - Present:   **Senior Full-Stack Developer**
 June 2016 - July 2021:   **Web Application Engineer**
 
 * The [Office of Information Technology and Analysis](https://uwm.edu/graduateschool/ita/) serves both the [Office of Research](https://uwm.edu/officeofresearch/) and the [Graduate School](https://uwm.edu/graduateschool/).
-* I maintain the [WordPress](https://wordpress.org)-based websites used by both the [Office of Research](https://uwm.edu/officeofresearch/) and the [Graduate School](https://uwm.edu/graduateschool/).
-* I assist the centers that are under the [Office of Research](https://uwm.edu/officeofresearch/) with their web needs.
-* I maintain the business automation systems behind the Fellowship Competition, Doctoral Milestones, the Graduation Application, and more.
+* I maintained the [WordPress](https://wordpress.org)-based websites used by both the [Office of Research](https://uwm.edu/officeofresearch/) and the [Graduate School](https://uwm.edu/graduateschool/).
+* I assisted the centers that are under the [Office of Research](https://uwm.edu/officeofresearch/) with their web needs.
+* I maintained the business automation systems behind the Fellowship Competition, Doctoral Milestones, the Graduation Application, and more.
 	* At the point where I was hired, all business automation systems where [cfwheels](https://cfwheels.org/)-based [ColdFusion](https://blog.jws.app/tag/coldfusion/) applications, using an [Oracle RDBMS](https://en.wikipedia.org/wiki/Oracle_Database) database.
 	* After joining the ITA office, I helped create [UWM Shared Web Application Hosting Environment](https://uwm.edu/swapp/), which allows [UWM](https://uwm.edu/) units to host [PHP](https://blog.jws.app/tag/php/) / [MariaDB](https://mariadb.com/) applications.
 	* Once the [PHP environment](https://uwm.edu/swapp/purpose/) became available, I started rewriting all of the business automation systems to use [Laravel](https://laravel.com/), [Vue.JS](https://blog.jws.app/tag/vue-js/), and [Bulma](https://blog.jws.app/tag/bulma/).
 * In 2019, I started a 3-year term as a [representative](https://uwm.edu/secu/wp-content/uploads/sites/122/2019/10/ASSenateRoster.pdf) on the [UWM](https://uwm.edu) [Academic Staff Senate](https://uwm.edu/secu/as/senate/).
-* I am a member of the Office of Research's Talent Management Working Group.
+* I was a member of the Office of Research's Talent Management Working Group.
 
 
 ### [QM Quality Matters](https://www.qualitymatters.org/)

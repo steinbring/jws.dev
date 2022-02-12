@@ -20,7 +20,7 @@ title: 'About'
 	* I am planning to visit Italy in 2022.
 * I am a web application developer.
 	* I have worked for [Bader Rutter](https://baderrutter.com/) since July 2021.
-		* BR clients include Zoetis, Corteva Agriscience, and Brevant® seeds
+		* BR clients include Zoetis, Corteva Agriscience, PhytoGen cottonseed, and Brevant seeds
 	* I previously worked for [QM Quality Matters](https://www.qualitymatters.org/), [Starkmedia](https://www.starkmedia.com/), [Experis](http://www.experis.com/), and [UWM](https://uwm.edu).
 	* I have written a lot of [ColdFusion](https://en.wikipedia.org/wiki/ColdFusion_Markup_Language) since 2006.
 		* I do not recommend that anybody install [Adobe ColdFusion](https://www.adobe.com/products/coldfusion-family.html) when [Lucee](https://lucee.org/) is available.
@@ -36,7 +36,7 @@ title: 'About'
 		* [Bulma](https://blog.jws.app/tag/bulma/) (I had issues with [Bootstrap](https://getbootstrap.com/) previously)
 		* [WordPress](https://wordpress.org/)
 		* [Google Cloud Platform](https://cloud.google.com/)
-	* I tend to enjoy front-end development more than back-end development. ;)
+	* I tend to enjoy front-end development more than back-end development.
 * In 2005, I recieved a BBA in Management Information Systems from the [University of Wisconsin-Milwaukee - Lubar School of Business](https://uwm.edu/business/).
 * In 2012, I recieved a MBA from [Cardinal Stritch University](https://www.stritch.edu/academics/programs/badgm).
 * Conferences that I will be at in 2022:
@@ -87,4 +87,4 @@ title: 'About'
 
 This website ([jws.dev](https://jws.dev)) was hosted on Keybase but is now hosted on Render. This site uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.  The source code is available on [github](https://github.com/steinbring/jws.dev).
 
-Updated:  [2022-01-14](https://web.archive.org/web/*/https://jws.dev)
+Updated:  [2022-02-12](https://web.archive.org/web/*/https://jws.dev)
