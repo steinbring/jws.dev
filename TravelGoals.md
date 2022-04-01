@@ -48,9 +48,9 @@ title: 'Travel Goals'
 * <s>Switzerland</s> ([2019](https://photos.jws.app/search/label/Switzerland))
 * Russia
 	* Trans-Siberian Railway (or Trans-Mongolian Railway?)
-* Italy
-	* Rome
-	* Venice
+* <s>Italy</s> ([2022](https://photos.jws.app/search/label/Italy))
+	* <s>Rome</s> ([2022](https://photos.jws.app/search/label/Rome))
+	* <s>Venice</s> ([2022](https://photos.jws.app/search/label/Venice))
 * Scotland
 * <s>Spain</s> ([2019](https://photos.jws.app/search/label/Spain))
 	* <s>Basílica de la Sagrada Família</s>
