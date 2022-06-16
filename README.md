@@ -17,7 +17,7 @@ title: 'About'
 * I have two [dogs](https://blog.jws.app/tag/dogs/) and a [cat](https://blog.jws.app/tag/cat/).
 * I enjoy [international travel](TravelGoals.html).
 	* I enjoy travel hacking, too (it is how I afford the trip).
-	* I am planning to visit Italy in 2022.
+	* I am planning to visit [Italy](https://photos.jws.app/search/label/Italy), India, and Nepal in 2022.
 * I am a web application developer.
 	* I have worked for [Bader Rutter](https://baderrutter.com/) since July 2021.
 		* BR clients include Zoetis, Corteva Agriscience, PhytoGen cottonseed, and Brevant seeds
@@ -41,12 +41,12 @@ title: 'About'
 * In 2012, I recieved a MBA from [Cardinal Stritch University](https://www.stritch.edu/academics/programs/badgm).
 * Conferences that I will be at in 2022:
 	* [Cyphercon 5.3](https://cyphercon.com/)
-	* [That Conference](https://that.us/events/wi/2022/) (Hopefully, if I can manage it)
+	* [That Conference (I'm a Counselor, this year)](https://that.us/activities/4CYljqsNWFJrs70dvEp6)
 * I post to [my blog](https://blog.jws.app/) fairly often.
 	* It tends to be 80% coding topics and 20% other topics.
 	* Posts go up on Tuesdays and Thursdays.
 * I am a Lord under the house of Pierpont-Archer per [LordJosephSteinbringCertificate.pdf](/pdf/LordJosephSteinbringCertificate.pdf), I guess.
-* If you want to send me money for something, you can use: [https://paypal.me/joesteinbring](https://paypal.me/joesteinbring)
+* If you want to send me money for something, you can use: [https://paypal.me/joesteinbring](https://paypal.me/joesteinbring) or [https://account.venmo.com/u/Joe-Steinbring](https://account.venmo.com/u/Joe-Steinbring)
 * I have another website at <a rel="me" href="https://jws.app">jws.app</a>.
 * When I post something on <a rel="me" href="https://www.instagram.com/joesteinbring/">Instagram</a>, I try to also post the same thing on the <a rel="me" href="https://photos.jws.app">Photo Blog</a>.
 * I have a [travel tumblr](https://travels.jws.app/) for random travel photos.  It has it's own [twitter feed](https://twitter.com/JWSTravels).
@@ -87,4 +87,4 @@ title: 'About'
 
 This website ([jws.dev](https://jws.dev)) was hosted on Keybase but is now hosted on Render. This site uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.  The source code is available on [github](https://github.com/steinbring/jws.dev).
 
-Updated:  [2022-04-01](https://web.archive.org/web/*/https://jws.dev)
+Updated:  [2022-06-16](https://web.archive.org/web/*/https://jws.dev)
