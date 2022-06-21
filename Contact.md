@@ -3,7 +3,7 @@ title: 'Contact'
 ---
 # Contact
 
-Need to get ahold of me?  You can message me on [Twitter](https://twitter.com/steinbring) (my DMs are open) or [Keybase](https://keybase.io/steinbring).  
+Need to get ahold of me?  You can message me on [Twitter](https://twitter.com/steinbring) (my DMs are open) or Signal.  
 
 Looking for my email address?  It is my first name at this domain name.
 
