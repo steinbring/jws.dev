@@ -60,6 +60,7 @@ title: 'About'
 * <a rel="me" href="https://twitter.com/steinbring">Twitter</a>
 * <a rel="me" href="https://www.instagram.com/joesteinbring/">Instagram</a>
 * <a rel="me" href="https://codepen.io/steinbring">CodePen</a>
+* <a href="https://www.signal.org/">Signal</a> (DM me somewhere for my number)
 
 ### Fed by bots
 
@@ -72,7 +73,6 @@ title: 'About'
 * <a rel="me" href="https://www.linkedin.com/in/steinbring/">LinkedIn</a>
 * <a rel="me" href="https://github.com/steinbring/">GitHub</a>
 * <a rel="me" href="https://dev.to/steinbring/">Dev.to</a>
-* <a ref="me" href="https://keybase.io/steinbring">Keybase</a>
 
 ### Stuff I don't use
 
@@ -80,11 +80,11 @@ title: 'About'
 * 500px
 * TikTok
 * WeChat
-* Signal
+* Keybase
 * Byte
 
 ## About this site
 
 This website ([jws.dev](https://jws.dev)) was hosted on Keybase but is now hosted on Render. This site uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.  The source code is available on [github](https://github.com/steinbring/jws.dev).
 
-Updated:  [2022-06-16](https://web.archive.org/web/*/https://jws.dev)
+Updated:  [2022-06-21](https://web.archive.org/web/*/https://jws.dev)
