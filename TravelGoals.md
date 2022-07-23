@@ -149,9 +149,9 @@ title: 'Travel Goals'
 					* Grand Traverse Island State Park
 					* Newport State Park
 					* Peninsula State Park
-					* Potawatomi State Park
-					* Rock Island State Park
-					* Whitefish Dunes State Park
+					* <s>Potawatomi State Park</s>([2022](https://photos.jws.app/2022/07/park-2363-potawatomi-state-park.html))
+					* <s>Rock Island State Park</s>([2022](https://photos.jws.app/2022/07/park-2162-rock-island-state-park.html))
+					* <s>Whitefish Dunes State Park</s>([2022](https://photos.jws.app/2022/07/park-2262-whitefish-dunes-state-park.html))
 				* Douglas County
 					* <s>Amnicon Falls State Park</s> ([2021](https://photos.jws.app/search/label/AmniconFallsStatePark))
 					* <s>Pattison State Park</s> ([2021](https://photos.jws.app/search/label/PattisonStatePark))
