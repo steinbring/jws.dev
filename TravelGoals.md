@@ -19,21 +19,15 @@ title: 'Travel Goals'
 * Japan
 * Thailand
 * Vietnam
-* India
-	* Taj Mahal
-* Nepal
-	* Kathmandu
+* <s>India</s> ([2022](https://photos.jws.app/search/label/India))
+	* <s>Taj Mahal</s> ([2022](https://photos.jws.app/search/label/Agra))
+* <s>Nepal</s> ([2022](https://photos.jws.app/search/label/Nepal))
+	* <s>Kathmandu</s> ([2022](https://photos.jws.app/search/label/Kathmandu))
 * Jordan
 	* Petra
-* Hong Kong
 * Singapore
 * Cambodia
 	* Angkor Wat
-
-## Australia
-
-* Australia
-	* Indian Pacific Railway
 
 ## Europe
 
@@ -41,12 +35,11 @@ title: 'Travel Goals'
 	* <s>Stonehenge</s> ([2019](https://travels.jws.app/tagged/Stonehenge))
 	* Land's End to John O'Groats
 * <s>France</s> ([2002](https://travels.jws.app/tagged/France), [2019](https://photos.jws.app/search/label/France))
-* Azores
 * <s>Germany</s> ([2019](https://travels.jws.app/tagged/Germany))
+* Austria
 * Turkey
 	* The Blue Mosque
 * <s>Switzerland</s> ([2019](https://photos.jws.app/search/label/Switzerland))
-* Russia
 	* Trans-Siberian Railway (or Trans-Mongolian Railway?)
 * <s>Italy</s> ([2022](https://photos.jws.app/search/label/Italy))
 	* <s>Rome</s> ([2022](https://photos.jws.app/search/label/Rome))
@@ -69,7 +62,6 @@ title: 'Travel Goals'
 ## North America
 
 * <s>Canada</s>
-	* Take a train across Canada
 * Cuba
 * US States
 	* Take a train across the US
