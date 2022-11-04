@@ -64,7 +64,7 @@ title: 'About'
 
 ### Fed by bots
 
-* <a rel="me" href="https://mastodon.social/@steinbring">Mastodon</a>
+* <a rel="me" href="https://toot.works/@joe">Mastodon</a>
 * <a rel="me" href="https://steinbring.jws.app/">Tumblr</a>
 * <a rel="me" href="https://www.flickr.com/photos/joesteinbring/">Flickr</a>
 
@@ -87,4 +87,4 @@ title: 'About'
 
 This website ([jws.dev](https://jws.dev)) was hosted on Keybase but is now hosted on Render. This site uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.  The source code is available on [github](https://github.com/steinbring/jws.dev).
 
-Updated:  [2022-09-26](https://web.archive.org/web/*/https://jws.dev)
+Updated:  [2022-11-03](https://web.archive.org/web/*/https://jws.dev)
