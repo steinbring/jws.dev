@@ -57,14 +57,13 @@ title: 'About'
 
 * <a rel="me" href="https://blog.jws.app">Blog</a>
 * <a rel="me" href="https://photos.jws.app">Photo Blog</a>
-* <a rel="me" href="https://twitter.com/steinbring">Twitter</a>
+* <a rel="me" href="https://toot.works/@joe">Mastodon</a>
 * <a rel="me" href="https://www.instagram.com/joesteinbring/">Instagram</a>
 * <a rel="me" href="https://codepen.io/steinbring">CodePen</a>
 * <a href="https://www.signal.org/">Signal</a> (DM me somewhere for my number)
 
 ### Fed by bots
 
-* <a rel="me" href="https://toot.works/@joe">Mastodon</a>
 * <a rel="me" href="https://steinbring.jws.app/">Tumblr</a>
 * <a rel="me" href="https://www.flickr.com/photos/joesteinbring/">Flickr</a>
 
@@ -77,6 +76,7 @@ title: 'About'
 ### Stuff I don't use
 
 * Facebook
+* Twitter
 * 500px
 * TikTok
 * WeChat
@@ -87,4 +87,4 @@ title: 'About'
 
 This website ([jws.dev](https://jws.dev)) was hosted on Keybase but is now hosted on Render. This site uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.  The source code is available on [github](https://github.com/steinbring/jws.dev).
 
-Updated:  [2022-11-03](https://web.archive.org/web/*/https://jws.dev)
+Updated:  [2022-11-10](https://web.archive.org/web/*/https://jws.dev)
