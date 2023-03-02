@@ -39,24 +39,22 @@ title: 'About'
 	* I tend to enjoy front-end development more than back-end development.
 * In 2005, I recieved a BBA in Management Information Systems from the [University of Wisconsin-Milwaukee - Lubar School of Business](https://uwm.edu/business/).
 * In 2012, I recieved a MBA from [Cardinal Stritch University](https://www.stritch.edu/academics/programs/badgm).
-* Conferences that I was at in 2022:
-	* [Cyphercon 5.3](https://cyphercon.com/)
-	* [That Conference](https://that.us/activities/4CYljqsNWFJrs70dvEp6)
+* Conferences that I will be at in 2023:
+	* [Cyphercon 6.0](https://cyphercon.com/)
 * I post to [my blog](https://blog.jws.app/) fairly often.
 	* It tends to be 80% coding topics and 20% other topics.
 	* Posts go up on Tuesdays and Thursdays.
 * I am a Lord under the house of Pierpont-Archer per [LordJosephSteinbringCertificate.pdf](/pdf/LordJosephSteinbringCertificate.pdf), I guess.
 * If you want to send me money for something, you can use: [https://paypal.me/joesteinbring](https://paypal.me/joesteinbring) or [https://account.venmo.com/u/Joe-Steinbring](https://account.venmo.com/u/Joe-Steinbring)
 * I have another website at <a rel="me" href="https://jws.app">jws.app</a>.
-* When I post something on <a rel="me" href="https://www.instagram.com/joesteinbring/">Instagram</a>, I try to also post the same thing on the <a rel="me" href="https://photos.jws.app">Photo Blog</a>.
-* I have a [travel tumblr](https://travels.jws.app/) for random travel photos.  It has it's own [twitter feed](https://twitter.com/JWSTravels).
+* I have a [travel tumblr](https://travels.jws.app/) for random travel photos.  It has it's own [mastodon feed](https://toot.works/@JoeTravels).
 
 ## Where to find me online
 
 ### Fed by Joe
 
 * <a rel="me" href="https://blog.jws.app">Blog</a>
-* <a rel="me" href="https://photos.jws.app">Photo Blog</a>
+* <a rel="me" href="https://pixelfed.social/i/web/profile/11244">Pixelfed</a>
 * <a rel="me" href="https://toot.works/@joe">Mastodon</a>
 * <a rel="me" href="https://www.instagram.com/joesteinbring/">Instagram</a>
 * <a rel="me" href="https://codepen.io/steinbring">CodePen</a>
@@ -64,6 +62,7 @@ title: 'About'
 
 ### Fed by bots
 
+* <a rel="me" href="https://photos.jws.app">Photo Blog</a>
 * <a rel="me" href="https://steinbring.jws.app/">Tumblr</a>
 * <a rel="me" href="https://www.flickr.com/photos/joesteinbring/">Flickr</a>
 
@@ -87,4 +86,4 @@ title: 'About'
 
 This website ([jws.dev](https://jws.dev)) was hosted on Keybase but is now hosted on Render. This site uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.  The source code is available on [github](https://github.com/steinbring/jws.dev).
 
-Updated:  [2022-11-10](https://web.archive.org/web/*/https://jws.dev)
+Updated:  [2023-03-02](https://web.archive.org/web/*/https://jws.dev)
