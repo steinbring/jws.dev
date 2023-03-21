@@ -17,7 +17,7 @@ title: 'About'
 * I have two [dogs](https://blog.jws.app/tag/dogs/) and a [cat](https://blog.jws.app/tag/cat/).
 * I enjoy [international travel](TravelGoals.html).
 	* I enjoy travel hacking, too (it is how I afford the trip).
-	* I visited [Italy](https://photos.jws.app/search/label/Italy), [India](https://photos.jws.app/search/label/India), and [Nepal](https://photos.jws.app/search/label/Nepal) in 2022.
+	* I am planning on visiting Ireland, Northern Ireland, and Scotland in 2023.
 * I am a web application developer.
 	* I have worked for [Bader Rutter](https://baderrutter.com/) since July 2021.
 		* BR clients include Zoetis, Corteva Agriscience, PhytoGen cottonseed, and Brevant seeds
@@ -28,7 +28,7 @@ title: 'About'
 	* These days (at work) I use:
 		* [Vue.JS](https://blog.jws.app/tag/vue-js/)
 		* [Nuxt](https://nuxtjs.org/)
-		* [Marketo](https://www.marketo.com/)
+		* [Marketo]([https://business.adobe.com/products/marketo/adobe-marketo.html](https://business.adobe.com/products/marketo/adobe-marketo.html))
 		* [Pitcher](https://www.pitcher.com/)
 	* When I write code for fun, I mainly use:
 		* [Vue.JS](https://blog.jws.app/tag/vue-js/)
@@ -86,4 +86,4 @@ title: 'About'
 
 This website ([jws.dev](https://jws.dev)) was hosted on Keybase but is now hosted on Render. This site uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.  The source code is available on [github](https://github.com/steinbring/jws.dev).
 
-Updated:  [2023-03-02](https://web.archive.org/web/*/https://jws.dev)
+Updated:  [2023-03-21](https://web.archive.org/web/*/https://jws.dev)
