@@ -40,7 +40,6 @@ title: 'Travel Goals'
 * Turkey
 	* The Blue Mosque
 * <s>Switzerland</s> ([2019](https://photos.jws.app/search/label/Switzerland))
-	* Trans-Siberian Railway (or Trans-Mongolian Railway?)
 * <s>Italy</s> ([2022](https://photos.jws.app/search/label/Italy))
 	* <s>Rome</s> ([2022](https://photos.jws.app/search/label/Rome))
 	* <s>Venice</s> ([2022](https://photos.jws.app/search/label/Venice))
