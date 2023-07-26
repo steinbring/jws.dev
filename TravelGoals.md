@@ -43,13 +43,13 @@ title: 'Travel Goals'
 * <s>Italy</s> ([2022](https://photos.jws.app/search/label/Italy))
 	* <s>Rome</s> ([2022](https://photos.jws.app/search/label/Rome))
 	* <s>Venice</s> ([2022](https://photos.jws.app/search/label/Venice))
-* Scotland
+* <s>Scotland</s> ([2023](https://pixelfed.social/c/568169192088963448))
 * <s>Spain</s> ([2019](https://photos.jws.app/search/label/Spain))
 	* <s>Basílica de la Sagrada Família</s>
 * Greece
 	* Delphi
 	* Athens
-* Ireland
+* <s>Ireland</s> ([2023](https://pixelfed.social/c/575151286070983645))
 
 ## South America
 
