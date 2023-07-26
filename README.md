@@ -17,7 +17,7 @@ title: 'About'
 * I have two [dogs](https://blog.jws.app/tag/dogs/) and a [cat](https://blog.jws.app/tag/cat/).
 * I enjoy [international travel](TravelGoals.html).
 	* I enjoy travel hacking, too (it is how I afford the trip).
-	* I am planning on visiting Ireland, Northern Ireland, and Scotland in 2023.
+	* I visited Ireland, Northern Ireland, and Scotland this year.
 * I am a web application developer.
 	* I have worked for [Bader Rutter](https://baderrutter.com/) since July 2021.
 		* BR clients include Zoetis, Corteva Agriscience, PhytoGen cottonseed, and Brevant seeds
@@ -41,6 +41,7 @@ title: 'About'
 * In 2012, I recieved a MBA from [Cardinal Stritch University](https://www.stritch.edu/academics/programs/badgm).
 * Conferences that I will be at in 2023:
 	* [Cyphercon 6.0](https://cyphercon.com/)
+	* [DevCon Midwest](https://www.devconmidwest.com/)
 * I post to [my blog](https://blog.jws.app/) fairly often.
 	* It tends to be 80% coding topics and 20% other topics.
 	* Posts go up on Tuesdays and Thursdays.
@@ -58,19 +59,21 @@ title: 'About'
 * <a rel="me" href="https://toot.works/@joe">Mastodon</a>
 * <a rel="me" href="https://www.instagram.com/joesteinbring/">Instagram</a>
 * <a rel="me" href="https://codepen.io/steinbring">CodePen</a>
+* <a rel="me" href="https://kbin.social/u/steinbring">kbin</a>
 * <a href="https://www.signal.org/">Signal</a> (DM me somewhere for my number)
 
 ### Fed by bots
 
-* <a rel="me" href="https://photos.jws.app">Photo Blog</a>
-* <a rel="me" href="https://steinbring.jws.app/">Tumblr</a>
-* <a rel="me" href="https://www.flickr.com/photos/joesteinbring/">Flickr</a>
+[ None at the moment ]
 
 ### Rarely used
 
 * <a rel="me" href="https://www.linkedin.com/in/steinbring/">LinkedIn</a>
 * <a rel="me" href="https://github.com/steinbring/">GitHub</a>
 * <a rel="me" href="https://dev.to/steinbring/">Dev.to</a>
+* <a rel="me" href="https://photos.jws.app">Photo Blog</a>
+* <a rel="me" href="https://steinbring.jws.app/">Tumblr</a>
+* <a rel="me" href="https://www.flickr.com/photos/joesteinbring/">Flickr</a>
 
 ### Stuff I don't use
 
@@ -81,9 +84,12 @@ title: 'About'
 * WeChat
 * Keybase
 * Byte
+* BlueSky
+* Threads
+* t2
 
 ## About this site
 
 This website ([jws.dev](https://jws.dev)) was hosted on Keybase but is now hosted on Render. This site uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.  The source code is available on [github](https://github.com/steinbring/jws.dev).
 
-Updated:  [2023-03-21](https://web.archive.org/web/*/https://jws.dev)
+Updated:  [2023-07-26](https://web.archive.org/web/*/https://jws.dev)
