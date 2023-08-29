@@ -11,9 +11,10 @@ title: 'Resume'
 
 July 2021 - Present:   **Senior Full-Stack Developer**
 
-* I maintain an internal sales tool that is used by [Zoetis](https://www.zoetis.com/).  It uses [Vue.js](https://vuejs.org/), [Pitcher](https://www.pitcher.com/), and [Salesforce](https://www.salesforce.com/).
+* I maintain an internal sales tool that is used by [Zoetis](https://www.zoetis.com/).  It uses [Vue.js](https://vuejs.org/), [Pitcher](https://www.pitcher.com/), [Salesforce](https://www.salesforce.com/), and [Crownpeak](https://www.crownpeak.com/).
 * I maintain and develop enhancements for [Brevant.com](https://brevant.com/) using [Vue.js](https://vuejs.org/), [Nuxt.JS](https://nuxtjs.org/), [Marketo](https://www.marketo.com/), and [Strapi](https://strapi.io/).
 * I maintain and develop enhancements for [phytogencottonseed.com](https://phytogencottonseed.com/) using [.NET](https://dotnet.microsoft.com/en-us/), [Vue.js](https://vuejs.org/), and [Eloqua](https://www.oracle.com/cx/marketing/automation/).
+* I maintain and develop systems for [Douglas Products](https://douglasproducts.com/) using [Vue.js](https://vuejs.org/) and [Firebase](https://firebase.google.com/).
 * I regularly research and present new technical concepts to the agency's development team.
 
 
