@@ -39,7 +39,7 @@ title: 'About'
 	* I tend to enjoy front-end development more than back-end development.
 * In 2005, I recieved a BBA in Management Information Systems from the [University of Wisconsin-Milwaukee - Lubar School of Business](https://uwm.edu/business/).
 * In 2012, I recieved a MBA from [Cardinal Stritch University](https://www.stritch.edu/academics/programs/badgm).
-* Conferences that I will be at in 2023:
+* Conferences that I was at in 2023:
 	* [Cyphercon 6.0](https://cyphercon.com/)
 	* [DevCon Midwest](https://www.devconmidwest.com/)
 * I post to [my blog](https://blog.jws.app/) fairly often.
@@ -64,7 +64,7 @@ title: 'About'
 
 ### Fed by bots
 
-[ None at the moment ]
+* <a rel="me" href="https://steinbring.jws.app/">Tumblr</a>
 
 ### Rarely used
 
@@ -72,7 +72,6 @@ title: 'About'
 * <a rel="me" href="https://github.com/steinbring/">GitHub</a>
 * <a rel="me" href="https://dev.to/steinbring/">Dev.to</a>
 * <a rel="me" href="https://photos.jws.app">Photo Blog</a>
-* <a rel="me" href="https://steinbring.jws.app/">Tumblr</a>
 * <a rel="me" href="https://www.flickr.com/photos/joesteinbring/">Flickr</a>
 
 ### Stuff I don't use
@@ -92,4 +91,4 @@ title: 'About'
 
 This website ([jws.dev](https://jws.dev)) was hosted on Keybase but is now hosted on Render. This site uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.  The source code is available on [github](https://github.com/steinbring/jws.dev).
 
-Updated:  [2023-07-26](https://web.archive.org/web/*/https://jws.dev)
+Updated:  [2023-08-29](https://web.archive.org/web/*/https://jws.dev)
