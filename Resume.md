@@ -16,6 +16,7 @@ July 2021 - Present:   **Senior Full-Stack Developer**
 * I maintain and develop enhancements for [phytogencottonseed.com](https://phytogencottonseed.com/) using [.NET](https://dotnet.microsoft.com/en-us/), [Vue.js](https://vuejs.org/), and [Eloqua](https://www.oracle.com/cx/marketing/automation/).
 * I maintain and develop systems for [Douglas Products](https://douglasproducts.com/) using [Vue.js](https://vuejs.org/) and [Firebase](https://firebase.google.com/).
 * I regularly research and present new technical concepts to the agency's development team.
+* I serve on a team with the mandate to standardize agency development practices.
 
 
 ### [University of Wisconsin, Milwaukee](https://uwm.edu/)

@@ -7,8 +7,6 @@ Like many professional web developers, most of what I write is not public and is
 
 ## Websites
 * In addition to this website, I also have [jws.app](https://jws.app).  Where [jws.dev](https://jws.dev) is using [a static site generator](https://vuepress.vuejs.org/), [jws.app](https://jws.app) is all scratch built.  [Jws.app](https://jws.app) is meant as a place to [play with some concepts](https://blog.jws.app/tag/jws-app/).
-* I am working on building an app to explore Wisconsin State Parks.  You can follow my [progress on the blog](https://blog.jws.app/tag/state-parks-app/).
-* The website [joes.app](https://joes.app) is hosted on four Raspberry Pi 3s.  It is meant to be a place to play with some concepts.  It might not always be live or particularly stable.
 
 ## Android Applications
 * [Once upon a time](https://github.com/steinbring?utf8=%E2%9C%93&tab=repositories&q=&type=archived&language=), I wrote a number of [AngularJS](https://angularjs.org/) / [Bootstrap](https://getbootstrap.com/) / [PhoneGap](https://phonegap.com/) apps.  The code is [still on GitHub](https://github.com/steinbring/PocketSteinbring) but it hasn't been updated in years and the apps are not available on the play store anymore.

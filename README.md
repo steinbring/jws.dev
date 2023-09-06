@@ -13,35 +13,33 @@ title: 'About'
 * I live in [Glendale, Wisconsin](http://www.glendale-wi.org/).
 	* It is a subburb of [Milwaukee](https://city.milwaukee.gov/).
 	* [Glendale](https://en.wikipedia.org/wiki/Glendale,_Wisconsin) is a lovely place to live.
-* I am a habitual hobby collector ([photography](https://photos.jws.app/), ukulele, lock picking, etc).
+* I am a habitual hobby collector ([photography](https://photos.jws.app/), motorcycling, lock picking, etc).
 * I have two [dogs](https://blog.jws.app/tag/dogs/) and a [cat](https://blog.jws.app/tag/cat/).
 * I enjoy [international travel](TravelGoals.html).
 	* I enjoy travel hacking, too (it is how I afford the trip).
-	* I visited Ireland, Northern Ireland, and Scotland this year.
+	* I want to go somewhere in Asia in 2024.
 * I am a web application developer.
 	* I have worked for [Bader Rutter](https://baderrutter.com/) since July 2021.
-		* BR clients include Zoetis, Corteva Agriscience, PhytoGen cottonseed, and Brevant seeds
+		* BR clients include Zoetis, Corteva Agriscience, Douglas Products, and McCain Foods
 	* I previously worked for [QM Quality Matters](https://www.qualitymatters.org/), [Starkmedia](https://www.starkmedia.com/), [Experis](http://www.experis.com/), and [UWM](https://uwm.edu).
 	* I have written a lot of [ColdFusion](https://en.wikipedia.org/wiki/ColdFusion_Markup_Language) since 2006.
 		* I do not recommend that anybody install [Adobe ColdFusion](https://www.adobe.com/products/coldfusion-family.html) when [Lucee](https://lucee.org/) is available.
 		* I don't really do [ColdFusion](https://cfdocs.org/) anymore.
 	* These days (at work) I use:
 		* [Vue.JS](https://blog.jws.app/tag/vue-js/)
-		* [Nuxt](https://nuxtjs.org/)
-		* [Marketo]([https://business.adobe.com/products/marketo/adobe-marketo.html](https://business.adobe.com/products/marketo/adobe-marketo.html))
-		* [Pitcher](https://www.pitcher.com/)
+		* [Crownpeak](https://www.crownpeak.com/)
+		* [Firebase](https://firebase.google.com/)
+		* [Vuetify](https://vuetifyjs.com/en/)
+		* [dotnet](https://dotnet.microsoft.com/en-us/)
 	* When I write code for fun, I mainly use:
 		* [Vue.JS](https://blog.jws.app/tag/vue-js/)
 		* [VuePress](https://blog.jws.app/tag/vuepress/) (what this site uses)
-		* [Bulma](https://blog.jws.app/tag/bulma/) (I had issues with [Bootstrap](https://getbootstrap.com/) previously)
 		* [WordPress](https://wordpress.org/)
-		* [Google Cloud Platform](https://cloud.google.com/)
 	* I tend to enjoy front-end development more than back-end development.
 * In 2005, I recieved a BBA in Management Information Systems from the [University of Wisconsin-Milwaukee - Lubar School of Business](https://uwm.edu/business/).
 * In 2012, I recieved a MBA from [Cardinal Stritch University](https://www.stritch.edu/academics/programs/badgm).
-* Conferences that I was at in 2023:
-	* [Cyphercon 6.0](https://cyphercon.com/)
-	* [DevCon Midwest](https://www.devconmidwest.com/)
+* Conferences that I intend to be at in 2024:
+	* [Cyphercon 7.0](https://cyphercon.com/)
 * I post to [my blog](https://blog.jws.app/) fairly often.
 	* It tends to be 80% coding topics and 20% other topics.
 	* Posts go up on Tuesdays and Thursdays.
@@ -89,6 +87,6 @@ title: 'About'
 
 ## About this site
 
-This website ([jws.dev](https://jws.dev)) was hosted on Keybase but is now hosted on Render. This site uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.  The source code is available on [github](https://github.com/steinbring/jws.dev).
+This website ([jws.dev](https://jws.dev)) is hosted on Render. It uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.  The source code is available on [github](https://github.com/steinbring/jws.dev).
 
-Updated:  [2023-08-29](https://web.archive.org/web/*/https://jws.dev)
+Updated:  [2023-09-06](https://web.archive.org/web/*/https://jws.dev)
