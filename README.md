@@ -63,14 +63,14 @@ title: 'About'
 ### Fed by bots
 
 * <a rel="me" href="https://steinbring.jws.app/">Tumblr</a>
+* <a rel="me" href="https://photos.jws.app">Photo Blog</a>
+* <a rel="me" href="https://www.flickr.com/photos/joesteinbring/">Flickr</a>
 
 ### Rarely used
 
 * <a rel="me" href="https://www.linkedin.com/in/steinbring/">LinkedIn</a>
 * <a rel="me" href="https://github.com/steinbring/">GitHub</a>
 * <a rel="me" href="https://dev.to/steinbring/">Dev.to</a>
-* <a rel="me" href="https://photos.jws.app">Photo Blog</a>
-* <a rel="me" href="https://www.flickr.com/photos/joesteinbring/">Flickr</a>
 
 ### Stuff I don't use
 
