@@ -34,6 +34,7 @@ title: 'About'
 	* When I write code for fun, I mainly use:
 		* [Vue.JS](https://blog.jws.app/tag/vue-js/)
 		* [VuePress](https://blog.jws.app/tag/vuepress/) (what this site uses)
+  		* [Firebase](https://firebase.google.com/)
 		* [WordPress](https://wordpress.org/)
 	* I tend to enjoy front-end development more than back-end development.
 * In 2005, I recieved a BBA in Management Information Systems from the [University of Wisconsin-Milwaukee - Lubar School of Business](https://uwm.edu/business/).
@@ -42,7 +43,7 @@ title: 'About'
 	* [Cyphercon 7.0](https://cyphercon.com/)
 * I post to [my blog](https://blog.jws.app/) fairly often.
 	* It tends to be 80% coding topics and 20% other topics.
-	* Posts go up on Tuesdays and Thursdays.
+	* Posts traditionally go up on Tuesdays and Thursdays.
 * I am a Lord under the house of Pierpont-Archer per [LordJosephSteinbringCertificate.pdf](/pdf/LordJosephSteinbringCertificate.pdf), I guess.
 * If you want to send me money for something, you can use: [https://paypal.me/joesteinbring](https://paypal.me/joesteinbring) or [https://account.venmo.com/u/Joe-Steinbring](https://account.venmo.com/u/Joe-Steinbring)
 * I have another website at <a rel="me" href="https://jws.app">jws.app</a>.
@@ -75,7 +76,7 @@ title: 'About'
 ### Stuff I don't use
 
 * Facebook
-* Twitter
+* Twitter/X
 * 500px
 * TikTok
 * WeChat
@@ -89,4 +90,4 @@ title: 'About'
 
 This website ([jws.dev](https://jws.dev)) is hosted on Render. It uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.  The source code is available on [github](https://github.com/steinbring/jws.dev).
 
-Updated:  [2023-09-06](https://web.archive.org/web/*/https://jws.dev)
+Updated:  [2023-10-23](https://web.archive.org/web/*/https://jws.dev)
