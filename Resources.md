@@ -99,11 +99,7 @@ Every now and then, I find something interesting that I want to share.
 
 ### Learning Resources
 
-- [ITProTV](https://itpro.tv/) -- I bought a year of this during a black friday sale, a while back.  It's nice.
-
-### Pets
-
-- [Bivvy (Pet Insurance)](https://bivvy.com/) -- It costs $10/pet/month and is seriously a game-changer.
+- [ACI Learning [ITPRO]](https://itpro.tv/) -- I bought a year of this during a black friday sale, a while back.  It's nice.
 
 ### Travel Hacking
 
