@@ -49,7 +49,7 @@ Every now and then, I find something interesting that I want to share.
 - [MilwaukeeJS](https://www.meetup.com/milwaukeejs/)
 - [That Conference
 ](https://www.thatconference.com)
-- [Milwaukee Code Camp](https://www.milwaukeecodecamp.com/)
+- [Hack and Tell](https://hackandtell.rocks/)
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [Laracasts](https://laracasts.com/) -- A great resource if you are a [lavavel](https://laravel.com/) developer
 - [Pluralsight](https://pluralsight.com/)
