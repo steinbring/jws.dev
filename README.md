@@ -53,7 +53,7 @@ title: 'About'
 
 ### Fed by Joe
 
-* <a rel="me" href="https://blog.jws.app">Blog</a>
+* <a rel="me" href="https://jws.news">Blog</a>
 * <a rel="me" href="https://pixelfed.social/i/web/profile/11244">Pixelfed</a>
 * <a rel="me" href="https://toot.works/@joe">Mastodon</a>
 * <a rel="me" href="https://www.instagram.com/joesteinbring/">Instagram</a>
@@ -90,4 +90,4 @@ title: 'About'
 
 This website ([jws.dev](https://jws.dev)) is hosted on Render. It uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.  The source code is available on [github](https://github.com/steinbring/jws.dev).
 
-Updated:  [2023-10-30](https://web.archive.org/web/*/https://jws.dev)
+Updated:  [2023-11-05](https://web.archive.org/web/*/https://jws.dev)
