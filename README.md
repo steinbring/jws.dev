@@ -46,7 +46,6 @@ title: 'About'
 	* Posts traditionally go up on Tuesdays and Thursdays.
 * I am a Lord under the house of Pierpont-Archer per [LordJosephSteinbringCertificate.pdf](/pdf/LordJosephSteinbringCertificate.pdf), I guess.
 * If you want to send me money for something, you can use: [https://paypal.me/joesteinbring](https://paypal.me/joesteinbring) or [https://account.venmo.com/u/Joe-Steinbring](https://account.venmo.com/u/Joe-Steinbring)
-* I have a [travel tumblr](https://travels.jws.app/) for random travel photos.  It has it's own [mastodon feed](https://toot.works/@JoeTravels).
 * I ride a [2023 Honda Navi](https://powersports.honda.com/motorcycle/minimoto/navi) and really like it.
 
 ## Where to find me online
@@ -84,10 +83,9 @@ title: 'About'
 * Byte
 * BlueSky
 * Threads
-* t2
 
 ## About this site
 
 This website ([jws.dev](https://jws.dev)) is hosted on Render. It uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.  The source code is available on [github](https://github.com/steinbring/jws.dev).
 
-Updated:  [2023-11-05](https://web.archive.org/web/*/https://jws.dev)
+Updated:  [2023-11-10](https://web.archive.org/web/*/https://jws.dev)
