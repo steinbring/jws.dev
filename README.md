@@ -14,7 +14,7 @@ title: 'About'
 	* It is a subburb of [Milwaukee](https://city.milwaukee.gov/).
 	* [Glendale](https://en.wikipedia.org/wiki/Glendale,_Wisconsin) is a lovely place to live.
 * I am a habitual hobby collector ([photography](https://photos.jws.app/), motorcycling, lock picking, etc).
-* I have two [dogs](https://blog.jws.app/tag/dogs/) and a [cat](https://blog.jws.app/tag/cat/).
+* I have two [dogs](https://jws.news/tag/dogs/) and a [cat](https://jws.news/tag/cat/).
 * I enjoy [international travel](TravelGoals.html).
 	* I enjoy travel hacking, too (it is how I afford the trip).
 	* I want to go somewhere in Asia in 2024.
@@ -41,7 +41,7 @@ title: 'About'
 * In 2012, I recieved a MBA from [Cardinal Stritch University](https://www.stritch.edu/academics/programs/badgm).
 * Conferences that I intend to be at in 2024:
 	* [Cyphercon 7.0](https://cyphercon.com/)
-* I post to [my blog](https://blog.jws.app/) fairly often.
+* I post to [my blog](https://jws.news/) fairly often.
 	* It tends to be 80% coding topics and 20% other topics.
 	* Posts traditionally go up on Tuesdays and Thursdays.
 * I am a Lord under the house of Pierpont-Archer per [LordJosephSteinbringCertificate.pdf](/pdf/LordJosephSteinbringCertificate.pdf), I guess.
