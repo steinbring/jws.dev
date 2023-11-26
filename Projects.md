@@ -13,4 +13,4 @@ Like many professional web developers, most of what I write is not public and is
 
 ## Publications
 
-* I post coding-related stuff to [blog.jws](https://blog.jws.app/category/coding/) and [DEV](https://dev.to/steinbring/).  [Blog.jws](https://blog.jws.app/category/coding/) also contains a lot of non-coding content.
+* I post coding-related stuff to [jws.news](https://jws.news/category/coding/) and [DEV](https://dev.to/steinbring/).  [jws.news](https://jws.news) also contains a lot of non-coding content.
