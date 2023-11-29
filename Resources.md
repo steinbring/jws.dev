@@ -19,6 +19,7 @@ Every now and then, I find something interesting that I want to share.
 - [MacDown](https://macdown.uranusjr.com/) -- My go-to markdown editor
 - [Duet](https://www.duetdisplay.com/) -- How I use my iPad as a second monitor for work (Yes, I know that [Sidecar](https://support.apple.com/en-us/HT210380) exists)
 - [iTerm2](https://iterm2.com/) -- A really good upgrade from the native macOS terminal
+- [CSV to JSON / JSON to CSV Converter](https://apps.apple.com/ma/app/csv-json-two-way-converter/id1608602049) -- Worth the $4 if you need to convert a large JSON file to CSV
 
 ### Hardware
 
