@@ -69,6 +69,7 @@ title: 'About'
 ### Rarely used
 
 * <a rel="me" href="https://www.linkedin.com/in/steinbring/">LinkedIn</a>
+* <a rel="me" href="https://huggingface.co/steinbring">Hugging Face</a>
 * <a rel="me" href="https://github.com/steinbring/">GitHub</a>
 * <a rel="me" href="https://dev.to/steinbring/">Dev.to</a>
 
