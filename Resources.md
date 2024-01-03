@@ -22,6 +22,7 @@ Every now and then, I find something interesting that I want to share.
 - [CSV to JSON / JSON to CSV Converter](https://apps.apple.com/ma/app/csv-json-two-way-converter/id1608602049) -- Worth the $4 if you need to convert a large JSON file to CSV
 - [Ollama](https://ollama.ai/) -- A good way of running LLMs locally on your mac
 - [Noiselith](https://noiselith.com/) -- A good way of running Stable Diffusion XL locally on your mac
+- [VitePress](https://vitepress.dev/) -- The spiritual successor to VuePress
 
 ### Hardware
 
