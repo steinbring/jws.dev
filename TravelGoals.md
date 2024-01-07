@@ -5,7 +5,7 @@ title: 'Travel Goals'
 
 ## Africa
 
-* <s>Morocco</s> ([2019](https://travels.jws.app/tagged/Morocco/))
+* <s>Morocco</s> ([2019](https://pixelfed.social/c/540011672155301680))
 	* <s>The Rif Mountains</s>
 	* Marrakesh
 * Egypt
@@ -13,15 +13,15 @@ title: 'Travel Goals'
 
 ## Asia
 
-* <s>China</s> ([2018](https://travels.jws.app/tagged/China))
+* <s>China</s> ([2018](https://pixelfed.social/c/536397307579209415))
 * South Korea
 	* The DMZ
 * Japan
 * Thailand
 * Vietnam
-* <s>India</s> ([2022](https://photos.jws.app/search/label/India))
+* <s>India</s> ([2022](https://pixelfed.social/c/535890454923960601))
 	* <s>Taj Mahal</s> ([2022](https://photos.jws.app/search/label/Agra))
-* <s>Nepal</s> ([2022](https://photos.jws.app/search/label/Nepal))
+* <s>Nepal</s> ([2022](https://pixelfed.social/c/536753354915262382))
 	* <s>Kathmandu</s> ([2022](https://photos.jws.app/search/label/Kathmandu))
 * Jordan
 	* Petra
@@ -31,20 +31,20 @@ title: 'Travel Goals'
 
 ## Europe
 
-* <s>England</s> ([2019](https://travels.jws.app/tagged/England))
+* <s>England</s> ([2019](https://pixelfed.social/c/596429501190810259))
 	* <s>Stonehenge</s> ([2019](https://travels.jws.app/tagged/Stonehenge))
 	* Land's End to John O'Groats
-* <s>France</s> ([2002](https://travels.jws.app/tagged/France), [2019](https://photos.jws.app/search/label/France))
-* <s>Germany</s> ([2019](https://travels.jws.app/tagged/Germany))
+* <s>France</s> ([2002](https://pixelfed.social/c/537062566510881076), [2019](https://photos.jws.app/search/label/France))
+* <s>Germany</s> ([2019](https://pixelfed.social/c/596914411264046472))
 * Austria
 * Turkey
 	* The Blue Mosque
-* <s>Switzerland</s> ([2019](https://photos.jws.app/search/label/Switzerland))
-* <s>Italy</s> ([2022](https://photos.jws.app/search/label/Italy))
+* <s>Switzerland</s> ([2019](https://pixelfed.social/c/597277454147143087))
+* <s>Italy</s> ([2022](https://pixelfed.social/c/543205290128654233))
 	* <s>Rome</s> ([2022](https://photos.jws.app/search/label/Rome))
 	* <s>Venice</s> ([2022](https://photos.jws.app/search/label/Venice))
 * <s>Scotland</s> ([2023](https://pixelfed.social/c/568169192088963448))
-* <s>Spain</s> ([2019](https://photos.jws.app/search/label/Spain))
+* <s>Spain</s> ([2019](https://pixelfed.social/c/598521093481351910))
 	* <s>Basílica de la Sagrada Família</s>
 * Greece
 	* Delphi

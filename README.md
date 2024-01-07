@@ -13,7 +13,7 @@ title: 'About'
 * I live in [Glendale, Wisconsin](http://www.glendale-wi.org/).
 	* It is a subburb of [Milwaukee](https://city.milwaukee.gov/).
 	* [Glendale](https://en.wikipedia.org/wiki/Glendale,_Wisconsin) is a lovely place to live.
-* I am a habitual hobby collector ([photography](https://photos.jws.app/), motorcycling, lock picking, etc).
+* I am a habitual hobby collector ([photography](https://pixelfed.social/steinbring), motorcycling, lock picking, etc).
 * I have two [dogs](https://jws.news/tag/dogs/) and a [cat](https://jws.news/tag/cat/).
 * I enjoy [international travel](TravelGoals.html).
 	* I enjoy travel hacking, too (it is how I afford the trip).
@@ -89,4 +89,4 @@ title: 'About'
 
 This website ([jws.dev](https://jws.dev)) is hosted on Render. It uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.  The source code is available on [github](https://github.com/steinbring/jws.dev).
 
-Updated:  [2024-01-03](https://web.archive.org/web/*/https://jws.dev)
+Updated:  [2024-01-07](https://web.archive.org/web/*/https://jws.dev)
