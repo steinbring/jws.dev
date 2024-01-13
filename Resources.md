@@ -23,6 +23,9 @@ Every now and then, I find something interesting that I want to share.
 - [Ollama](https://ollama.ai/) -- A good way of running LLMs locally on your mac
 - [Noiselith](https://noiselith.com/) -- A good way of running Stable Diffusion XL locally on your mac
 - [VitePress](https://vitepress.dev/) -- The spiritual successor to VuePress
+- [MacGPT](https://www.macgpt.com/) -- A graphical ChatGPT client for the mac
+- [Ollamac](https://github.com/kevinhermawan/Ollamac) -- A graphical Ollama client for the mac
+- [Ollama Web UI](https://github.com/ollama-webui/ollama-webui) -- A ChatGPT-Style Web Interface for Ollama that runs locally in [Docker](https://docs.docker.com/docker-for-mac/install/)
 
 ### Hardware
 
