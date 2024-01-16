@@ -89,4 +89,4 @@ title: 'About'
 
 This website ([jws.dev](https://jws.dev)) is hosted on Render. It uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.  The source code is available on [github](https://github.com/steinbring/jws.dev).
 
-Updated:  [2024-01-07](https://web.archive.org/web/*/https://jws.dev)
+Updated:  [2024-01-16](https://web.archive.org/web/*/https://jws.dev)

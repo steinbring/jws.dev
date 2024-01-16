@@ -25,11 +25,12 @@ Every now and then, I find something interesting that I want to share.
 - [VitePress](https://vitepress.dev/) -- The spiritual successor to VuePress
 - [MacGPT](https://www.macgpt.com/) -- A graphical ChatGPT client for the mac
 - [Ollamac](https://github.com/kevinhermawan/Ollamac) -- A graphical Ollama client for the mac
+- [MindMac](https://mindmac.app/) -- I think that this is a better alternative to [Ollamac](https://github.com/kevinhermawan/Ollamac) and [MacGPT](https://www.macgpt.com/). It is a graphical interface for both Ollama and ChatGPT. It can also do image generation using things like Dall-E.
 - [Ollama Web UI](https://github.com/ollama-webui/ollama-webui) -- A ChatGPT-Style Web Interface for Ollama that runs locally in [Docker](https://docs.docker.com/docker-for-mac/install/)
 
 ### Hardware
 
-- [Macbook Pro](https://www.apple.com/macbook-pro/) -- It is what I use for both my job and my side work
+- [Macbook Pro](https://www.apple.com/macbook-pro/) -- It is what I use for both my job and my side work. For LLM work, get at least an M1Pro and 32gb of RAM. You will thank me later.
 - [Microsoft Sculpt Ergonomic Mouse](https://smile.amazon.com/Microsoft-Sculpt-Ergonomic-Mouse-L6V-00001/dp/B00D68ZVY8) -- Ergonomics is super important in this field
 
 ### Services
