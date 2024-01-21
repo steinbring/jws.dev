@@ -20,13 +20,18 @@ Every now and then, I find something interesting that I want to share.
 - [Duet](https://www.duetdisplay.com/) -- How I use my iPad as a second monitor for work (Yes, I know that [Sidecar](https://support.apple.com/en-us/HT210380) exists)
 - [iTerm2](https://iterm2.com/) -- A really good upgrade from the native macOS terminal
 - [CSV to JSON / JSON to CSV Converter](https://apps.apple.com/ma/app/csv-json-two-way-converter/id1608602049) -- Worth the $4 if you need to convert a large JSON file to CSV
-- [Ollama](https://ollama.ai/) -- A good way of running LLMs locally on your mac
-- [Noiselith](https://noiselith.com/) -- A good way of running Stable Diffusion XL locally on your mac
 - [VitePress](https://vitepress.dev/) -- The spiritual successor to VuePress
+
+#### AI / ML Software
+
 - [MacGPT](https://www.macgpt.com/) -- A graphical ChatGPT client for the mac
 - [Ollamac](https://github.com/kevinhermawan/Ollamac) -- A graphical Ollama client for the mac
 - [MindMac](https://mindmac.app/) -- I think that this is a better alternative to [Ollamac](https://github.com/kevinhermawan/Ollamac) and [MacGPT](https://www.macgpt.com/). It is a graphical interface for both Ollama and ChatGPT. It can also do image generation using things like Dall-E.
 - [Ollama Web UI](https://github.com/ollama-webui/ollama-webui) -- A ChatGPT-Style Web Interface for Ollama that runs locally in [Docker](https://docs.docker.com/docker-for-mac/install/)
+- [Ollama](https://ollama.ai/) -- A good way of running LLMs locally on your mac
+- [Liner](https://liner.ai/) -- A free tool that lets you train your ML models
+- <s>[Noiselith](https://noiselith.com/) -- A good way of running Stable Diffusion XL locally on your Mac </s> (It sounds like they shut down support)
+- [DiffusionBee](https://diffusionbee.com/) -- An easy way to generate AI art on your computer with Stable Diffusion
 
 ### Hardware
 
