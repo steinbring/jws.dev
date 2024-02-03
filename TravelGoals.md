@@ -23,6 +23,7 @@ title: 'Travel Goals'
 	* <s>Taj Mahal</s> ([2022](https://photos.jws.app/search/label/Agra))
 * <s>Nepal</s> ([2022](https://pixelfed.social/c/536753354915262382))
 	* <s>Kathmandu</s> ([2022](https://photos.jws.app/search/label/Kathmandu))
+* Taiwan
 * Jordan
 	* Petra
 * Singapore

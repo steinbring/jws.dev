@@ -17,7 +17,7 @@ title: 'About'
 * I have two [dogs](https://jws.news/tag/dogs/) and a [cat](https://jws.news/tag/cat/).
 * I enjoy [international travel](TravelGoals.html).
 	* I enjoy travel hacking, too (it is how I afford the trip).
-	* I want to go somewhere in Asia in 2024.
+	* I plan on seeing Taiwan, Japan, and South Korea in 2024.
 * I am a web application developer.
 	* I have worked for [Bader Rutter](https://baderrutter.com/) since July 2021.
 		* BR clients include Zoetis, Corteva Agriscience, Douglas Products, and McCain Foods
@@ -89,4 +89,4 @@ title: 'About'
 
 This website ([jws.dev](https://jws.dev)) is hosted on Render. It uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.  The source code is available on [github](https://github.com/steinbring/jws.dev).
 
-Updated:  [2024-01-21](https://web.archive.org/web/*/https://jws.dev)
+Updated:  [2024-02-03](https://web.archive.org/web/*/https://jws.dev)
