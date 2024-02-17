@@ -30,8 +30,7 @@ Every now and then, I find something interesting that I want to share.
 - [Ollama Web UI](https://github.com/ollama-webui/ollama-webui) -- A ChatGPT-Style Web Interface for Ollama that runs locally in [Docker](https://docs.docker.com/docker-for-mac/install/)
 - [Ollama](https://ollama.ai/) -- A good way of running LLMs locally on your mac
 - [Liner](https://liner.ai/) -- A free tool that lets you train your ML models
-- <s>[Noiselith](https://noiselith.com/) -- A good way of running Stable Diffusion XL locally on your Mac </s> (It sounds like they shut down support)
-- [DiffusionBee](https://diffusionbee.com/) -- An easy way to generate AI art on your computer with Stable Diffusion
+- [Pinokio](https://pinokio.computer/) -- You can use this to run things like ComfyUI and Stable Cascade locally
 
 ### Hardware
 

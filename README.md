@@ -30,6 +30,7 @@ title: 'About'
 		* [Crownpeak](https://www.crownpeak.com/)
 		* [Firebase](https://firebase.google.com/)
 		* [Vuetify](https://vuetifyjs.com/en/)
+		* [Node.js](https://nodejs.org/)
 		* [dotnet](https://dotnet.microsoft.com/en-us/)
 	* When I write code for fun, I mainly use:
 		* [Vue.JS](https://blog.jws.app/tag/vue-js/)
@@ -89,4 +90,4 @@ title: 'About'
 
 This website ([jws.dev](https://jws.dev)) is hosted on Render. It uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.  The source code is available on [github](https://github.com/steinbring/jws.dev).
 
-Updated:  [2024-02-03](https://web.archive.org/web/*/https://jws.dev)
+Updated:  [2024-02-17](https://web.archive.org/web/*/https://jws.dev)
