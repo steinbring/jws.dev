@@ -11,7 +11,7 @@ title: 'About'
 ## Who am I?
 
 * I live in [Glendale, Wisconsin](http://www.glendale-wi.org/).
-	* It is a subburb of [Milwaukee](https://city.milwaukee.gov/).
+	* It is a suburb of [Milwaukee](https://city.milwaukee.gov/).
 	* [Glendale](https://en.wikipedia.org/wiki/Glendale,_Wisconsin) is a lovely place to live.
 * I am a habitual hobby collector ([photography](https://pixelfed.social/steinbring), motorcycling, lock picking, etc).
 * I have two [dogs](https://jws.news/tag/dogs/) and a [cat](https://jws.news/tag/cat/).
@@ -19,8 +19,10 @@ title: 'About'
 	* I enjoy travel hacking, too (it is how I afford the trip).
 	* I plan on seeing Taiwan, Japan, and South Korea in 2024.
 * I am a web application developer.
-	* I have worked for [Bader Rutter](https://baderrutter.com/) since July 2021.
-		* BR clients include Zoetis, Corteva Agriscience, Douglas Products, and McCain Foods
+	* I worked for [Bader Rutter](https://baderrutter.com/) from July 2021 until February 2024.
+		* BR clients included Zoetis, Corteva Agriscience, Douglas Products, and McCain Foods.
+		* I served on an AI working group where I introduced the agency to Ollama.
+		* I served on a team with the mandate to standardize agency development practices.
 	* I previously worked for [QM Quality Matters](https://www.qualitymatters.org/), [Starkmedia](https://www.starkmedia.com/), [Experis](http://www.experis.com/), and [UWM](https://uwm.edu).
 	* I have written a lot of [ColdFusion](https://en.wikipedia.org/wiki/ColdFusion_Markup_Language) since 2006.
 		* I do not recommend that anybody install [Adobe ColdFusion](https://www.adobe.com/products/coldfusion-family.html) when [Lucee](https://lucee.org/) is available.
@@ -31,15 +33,14 @@ title: 'About'
 		* [Firebase](https://firebase.google.com/)
 		* [Vuetify](https://vuetifyjs.com/en/)
 		* [Node.js](https://nodejs.org/)
-		* [dotnet](https://dotnet.microsoft.com/en-us/)
 	* When I write code for fun, I mainly use:
 		* [Vue.JS](https://blog.jws.app/tag/vue-js/)
 		* [VuePress](https://blog.jws.app/tag/vuepress/) (what this site uses)
   		* [Firebase](https://firebase.google.com/)
 		* [WordPress](https://wordpress.org/)
 	* I tend to enjoy front-end development more than back-end development.
-* In 2005, I recieved a BBA in Management Information Systems from the [University of Wisconsin-Milwaukee - Lubar School of Business](https://uwm.edu/business/).
-* In 2012, I recieved a MBA from [Cardinal Stritch University](https://www.stritch.edu/academics/programs/badgm).
+* In 2005, I received a BBA in Management Information Systems from the [University of Wisconsin-Milwaukee - Lubar School of Business](https://uwm.edu/business/).
+* In 2012, I received an MBA from [Cardinal Stritch University](https://www.stritch.edu/academics/programs/badgm).
 * Conferences that I intend to be at in 2024:
 	* [Cyphercon 7.0](https://cyphercon.com/)
 * I post to [my blog](https://jws.news/) fairly often.
@@ -90,4 +91,4 @@ title: 'About'
 
 This website ([jws.dev](https://jws.dev)) is hosted on Render. It uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.  The source code is available on [github](https://github.com/steinbring/jws.dev).
 
-Updated:  [2024-02-17](https://web.archive.org/web/*/https://jws.dev)
+Updated:  [2024-02-24](https://web.archive.org/web/*/https://jws.dev)
