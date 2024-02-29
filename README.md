@@ -60,7 +60,7 @@ title: 'About'
 * <a rel="me" href="https://www.instagram.com/joesteinbring/">Instagram</a>
 * <a rel="me" href="https://codepen.io/steinbring">CodePen</a>
 * <a rel="me" href="https://kbin.social/u/steinbring">kbin</a>
-* <a href="https://www.signal.org/">Signal</a> (DM me somewhere for my number)
+* <a rel="me" href="https://signal.me/#eu/wYx/v3zx0aPCt1RvLXBtCTcrKGWK0hJiIw2JpsQatK5UCSN9YMpDurXTeZ11atLj">Signal</a>
 
 ### Fed by bots
 
@@ -91,4 +91,4 @@ title: 'About'
 
 This website ([jws.dev](https://jws.dev)) is hosted on Render. It uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.  The source code is available on [github](https://github.com/steinbring/jws.dev).
 
-Updated:  [2024-02-24](https://web.archive.org/web/*/https://jws.dev)
+Updated:  [2024-02-29](https://web.archive.org/web/*/https://jws.dev)
