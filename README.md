@@ -28,16 +28,18 @@ title: 'About'
 		* I do not recommend that anybody install [Adobe ColdFusion](https://www.adobe.com/products/coldfusion-family.html) when [Lucee](https://lucee.org/) is available.
 		* I don't really do [ColdFusion](https://cfdocs.org/) anymore.
 	* These days (at work) I use:
-		* [Vue.JS](https://blog.jws.app/tag/vue-js/)
+		* [Vue.JS](https://jws.news/tag/vue-js/)
 		* [Crownpeak](https://www.crownpeak.com/)
-		* [Firebase](https://firebase.google.com/)
+		* [Firebase](https://jws.news/tag/firebase/)
 		* [Vuetify](https://vuetifyjs.com/en/)
-		* [Node.js](https://nodejs.org/)
+		* [Node.js](https://jws.news/tag/node-js/)
 	* When I write code for fun, I mainly use:
-		* [Vue.JS](https://blog.jws.app/tag/vue-js/)
-		* [VuePress](https://blog.jws.app/tag/vuepress/) (what this site uses)
-  		* [Firebase](https://firebase.google.com/)
-		* [WordPress](https://wordpress.org/)
+		* [Vue.JS](https://jws.news/tag/vue-js/)
+		* [React](https://jws.news/tag/react/)
+		* [VuePress](https://jws.news/tag/vuepress/) (what this site uses)
+  		* [Firebase](https://jws.news/tag/firebase/)
+  		* [Ionic](https://ionicframework.com/)
+		* [WordPress](https://jws.news/tag/wordpress/)
 	* I tend to enjoy front-end development more than back-end development.
 * In 2005, I received a BBA in Management Information Systems from the [University of Wisconsin-Milwaukee - Lubar School of Business](https://uwm.edu/business/).
 * In 2012, I received an MBA from [Cardinal Stritch University](https://www.stritch.edu/academics/programs/badgm).
@@ -91,4 +93,4 @@ title: 'About'
 
 This website ([jws.dev](https://jws.dev)) is hosted on Render. It uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.  The source code is available on [github](https://github.com/steinbring/jws.dev).
 
-Updated:  [2024-02-29](https://web.archive.org/web/*/https://jws.dev)
+Updated:  [2024-03-11](https://web.archive.org/web/*/https://jws.dev)
