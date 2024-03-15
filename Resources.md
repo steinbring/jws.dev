@@ -79,6 +79,10 @@ Every now and then, I find something interesting that I want to share.
 
 - [Google Fonts](https://fonts.google.com/)
 
+### Data
+
+- [Lists of Countries, States, and Cities](https://github.com/dr5hn/countries-states-cities-database)
+
 ### Photos
 
 - [Unsplash](https://unsplash.com/) -- A good colection of free stock photos
