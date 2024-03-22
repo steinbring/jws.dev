@@ -26,7 +26,7 @@ title: 'About'
 	* I previously worked for [QM Quality Matters](https://www.qualitymatters.org/), [Starkmedia](https://www.starkmedia.com/), [Experis](http://www.experis.com/), and [UWM](https://uwm.edu).
 	* I have written a lot of [ColdFusion](https://en.wikipedia.org/wiki/ColdFusion_Markup_Language) since 2006.
 		* I do not recommend that anybody install [Adobe ColdFusion](https://www.adobe.com/products/coldfusion-family.html) when [Lucee](https://lucee.org/) is available.
-		* I don't really do [ColdFusion](https://cfdocs.org/) anymore.
+		* I don't do [ColdFusion](https://cfdocs.org/) anymore.
 	* These days (at work) I use:
 		* [Vue.JS](https://jws.news/tag/vue-js/)
 		* [Crownpeak](https://www.crownpeak.com/)
@@ -93,4 +93,4 @@ title: 'About'
 
 This website ([jws.dev](https://jws.dev)) is hosted on Render. It uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.  The source code is available on [github](https://github.com/steinbring/jws.dev).
 
-Updated:  [2024-03-11](https://web.archive.org/web/*/https://jws.dev)
+Updated:  [2024-03-22](https://web.archive.org/web/*/https://jws.dev)
