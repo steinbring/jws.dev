@@ -38,11 +38,11 @@ title: 'About'
 		* [React](https://jws.news/tag/react/)
 		* [VuePress](https://jws.news/tag/vuepress/) (what this site uses)
   		* [Firebase](https://jws.news/tag/firebase/)
-  		* [Ionic](https://ionicframework.com/)
+  		* [Shoelace](https://jws.news/tag/web-awesome/)
 		* [WordPress](https://jws.news/tag/wordpress/)
 	* I tend to enjoy front-end development more than back-end development.
 * In 2005, I received a BBA in Management Information Systems from the [University of Wisconsin-Milwaukee - Lubar School of Business](https://uwm.edu/business/).
-* In 2012, I received an MBA from [Cardinal Stritch University](https://www.stritch.edu/academics/programs/badgm).
+* In 2012, I received an MBA from [Cardinal Stritch University](https://stritch.edu/).
 * Conferences that I intend to be at in 2024:
 	* [Cyphercon 7.0](https://cyphercon.com/)
 * I post to [my blog](https://jws.news/) fairly often.
@@ -93,4 +93,4 @@ title: 'About'
 
 This website ([jws.dev](https://jws.dev)) is hosted on Render. It uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.  The source code is available on [github](https://github.com/steinbring/jws.dev).
 
-Updated:  [2024-03-22](https://web.archive.org/web/*/https://jws.dev)
+Updated:  [2024-03-28](https://web.archive.org/web/*/https://jws.dev)

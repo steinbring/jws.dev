@@ -48,7 +48,7 @@ Jan 2015 - June 2016:   **Application Developer**
 
 June 2012 - Oct 2014:   **Senior Application Developer**
 
-* I mainly made systems that allowed [Starkmedia](https://www.starkmedia.com/)'s clients to update their own websites.  Clients that I worked with included [Red Arrow](https://www.redarrowusa.com/), [Artisan Partners](https://www.artisanpartners.com/), [Mandel Group](https://mandelgroup.com/), and [Calf-Tel](https://www.calftel.com/en).  Very few of my projects were [greenfield](https://en.wikipedia.org/wiki/Greenfield_project) but I was able to introduce some innovations and tweak how things were done.
+* I mainly made systems that allowed [Starkmedia](https://www.starkmedia.com/)'s clients to update their own websites.  Clients that I worked with included Red Arrow, [Artisan Partners](https://www.artisanpartners.com/), [Mandel Group](https://mandelgroup.com/), and [Calf-Tel](https://www.calftel.com/en).  Very few of my projects were [greenfield](https://en.wikipedia.org/wiki/Greenfield_project) but I was able to introduce some innovations and tweak how things were done.
 	* [Starkmedia](https://www.starkmedia.com/) mainly used [ColdFusion](https://coldfusion.adobe.com/) and [MS SQL Server](https://www.microsoft.com/en-us/sql-server/default.aspx).  I introduced [AngularJS](https://angularjs.org/) 1.x, [PhoneGap](https://jws.news/tag/phonegap/), and [Git](https://git-scm.com/) into the organization while I was there.
 
 ### [Experis](http://www.experis.com/)
@@ -70,6 +70,6 @@ Feb 2006 - May 2011:   **Web Application Developer**
 
 ## Education
 
-2009-2012:   **MBA, Business Administration**; [Cardinal Stritch University](https://www.stritch.edu/academics/programs/badgm) (Glendale, WI)
+2009-2012:   **MBA, Business Administration**; [Cardinal Stritch University](https://stritch.edu/) (Glendale, WI)
 
 2001-2005:   **BBA, Management Information Systems**; [University of Wisconsin-Milwaukee - Lubar School of Business](https://uwm.edu/business/) (Milwaukee, WI)
