@@ -35,15 +35,16 @@ title: 'About'
 		* [Node.js](https://jws.news/tag/node-js/)
 	* When I write code for fun, I mainly use:
 		* [Vue.JS](https://jws.news/tag/vue-js/)
-		* [React](https://jws.news/tag/react/)
-		* [VuePress](https://jws.news/tag/vuepress/) (what this site uses)
+		* [Python](https://jws.news/tag/python/)
   		* [Firebase](https://jws.news/tag/firebase/)
   		* [Shoelace](https://jws.news/tag/web-awesome/)
 		* [WordPress](https://jws.news/tag/wordpress/)
+  		* [Lit](https://jws.news/tag/lit/)
+    		* [Ollama](https://jws.news/tag/ollama/)
 	* I tend to enjoy front-end development more than back-end development.
 * In 2005, I received a BBA in Management Information Systems from the [University of Wisconsin-Milwaukee - Lubar School of Business](https://uwm.edu/business/).
 * In 2012, I received an MBA from [Cardinal Stritch University](https://stritch.edu/).
-* Conferences that I intend to be at in 2024:
+* Conferences that I was at in 2024:
 	* [Cyphercon 7.0](https://cyphercon.com/)
 * I post to [my blog](https://jws.news/) fairly often.
 	* It tends to be 80% coding topics and 20% other topics.
@@ -66,7 +67,6 @@ title: 'About'
 
 ### Fed by bots
 
-* <a rel="me" href="https://steinbring.jws.app/">Tumblr</a>
 * <a rel="me" href="https://photos.jws.app">Photo Blog</a>
 * <a rel="me" href="https://www.flickr.com/photos/joesteinbring/">Flickr</a>
 
@@ -93,4 +93,4 @@ title: 'About'
 
 This website ([jws.dev](https://jws.dev)) is hosted on Render. It uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.  The source code is available on [github](https://github.com/steinbring/jws.dev).
 
-Updated:  [2024-03-28](https://web.archive.org/web/*/https://jws.dev)
+Updated:  [2024-04-25](https://web.archive.org/web/*/https://jws.dev)
