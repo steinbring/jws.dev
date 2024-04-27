@@ -24,13 +24,12 @@ Every now and then, I find something interesting that I want to share.
 
 #### AI / ML Software
 
-- [MacGPT](https://www.macgpt.com/) -- A graphical ChatGPT client for the mac
-- [Ollamac](https://github.com/kevinhermawan/Ollamac) -- A graphical Ollama client for the mac
 - [MindMac](https://mindmac.app/) -- I think that this is a better alternative to [Ollamac](https://github.com/kevinhermawan/Ollamac) and [MacGPT](https://www.macgpt.com/). It is a graphical interface for both Ollama and ChatGPT. It can also do image generation using things like Dall-E.
-- [Ollama Web UI](https://github.com/ollama-webui/ollama-webui) -- A ChatGPT-Style Web Interface for Ollama that runs locally in [Docker](https://docs.docker.com/docker-for-mac/install/)
+- [Open WebUI](https://github.com/ollama-webui/ollama-webui) -- A ChatGPT-Style Web Interface for Ollama that runs locally in [Docker](https://docs.docker.com/docker-for-mac/install/)
 - [Ollama](https://ollama.ai/) -- A good way of running LLMs locally on your mac
 - [Liner](https://liner.ai/) -- A free tool that lets you train your ML models
 - [Pinokio](https://pinokio.computer/) -- You can use this to run things like ComfyUI and Stable Cascade locally
+- [Scikit-learn](https://scikit-learn.org/stable/index.html) -- If you are trying to train an ML model in Python, this is a great tool.
 
 ### Hardware
 

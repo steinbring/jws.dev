@@ -19,6 +19,7 @@ title: 'About'
 	* I enjoy travel hacking, too (it is how I afford the trip).
 	* I plan on seeing Taiwan, Japan, and South Korea in 2024.
 * I am a web application developer.
+	* I am looking for a job in web application development or machine learning in Milwaukee or remote.
 	* I worked for [Bader Rutter](https://baderrutter.com/) from July 2021 until February 2024.
 		* BR clients included Zoetis, Corteva Agriscience, Douglas Products, and McCain Foods.
 		* I served on an AI working group where I introduced the agency to Ollama.
@@ -40,7 +41,7 @@ title: 'About'
   		* [Shoelace](https://jws.news/tag/web-awesome/)
 		* [WordPress](https://jws.news/tag/wordpress/)
   		* [Lit](https://jws.news/tag/lit/)
-    		* [Ollama](https://jws.news/tag/ollama/)
+    	* [Ollama](https://jws.news/tag/ollama/)
 	* I tend to enjoy front-end development more than back-end development.
 * In 2005, I received a BBA in Management Information Systems from the [University of Wisconsin-Milwaukee - Lubar School of Business](https://uwm.edu/business/).
 * In 2012, I received an MBA from [Cardinal Stritch University](https://stritch.edu/).
@@ -93,4 +94,4 @@ title: 'About'
 
 This website ([jws.dev](https://jws.dev)) is hosted on Render. It uses [VuePress](https://vuepress.vuejs.org/) (a [Vue](https://vuejs.org/)-powered static site generator) and uses no tracking code or cookies.  The source code is available on [github](https://github.com/steinbring/jws.dev).
 
-Updated:  [2024-04-25](https://web.archive.org/web/*/https://jws.dev)
+Updated:  [2024-04-27](https://web.archive.org/web/*/https://jws.dev)
