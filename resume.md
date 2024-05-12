@@ -3,7 +3,7 @@ title: 'Resume'
 prev: false
 next: false
 ---
-[PDF Version](resume.pdf) | <a href="resume.docx">Word Version</a> | [TXT Version](resume.txt)
+[PDF Version](resume.pdf) | [TXT Version](resume.txt)
 
 # Joe Steinbring, MBA
 <br />
