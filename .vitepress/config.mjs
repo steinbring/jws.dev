@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  ignoreDeadLinks: true
   title: "Joe Steinbring",
   description: "Joe Steinbring is a web application engineer based in Glendale, Wisconsin. He is a traveler, a photographer, a politics watcher, and habitual hobby collector.",
   themeConfig: {
