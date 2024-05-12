@@ -1,5 +1,5 @@
 #!/usr/bin/env sh
 
-yarn add vuepress
+yarn add vitepress
 
-vuepress build
+yarn vitepress build

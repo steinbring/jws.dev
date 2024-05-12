@@ -1,5 +1,7 @@
 ---
 title: 'Projects'
+prev: false
+next: false
 ---
 # Projects
 

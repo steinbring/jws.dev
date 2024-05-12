@@ -1,5 +1,7 @@
 ---
 title: 'Resources'
+prev: false
+next: false
 ---
 # Resources
 
@@ -33,22 +35,22 @@ Every now and then, I find something interesting that I want to share.
 
 ### Hardware
 
-- [Macbook Pro](https://www.apple.com/macbook-pro/) -- It is what I use for both my job and my side work. For LLM work, get at least an M1Pro and 32gb of RAM. You will thank me later.
+- [Macbook Pro](https://www.apple.com/macbook-pro/) -- It is what I use for both my job and my side work. For LLM work, get at least an M1Pro and 32 GB of RAM. You will thank me later.
 - [Microsoft Sculpt Ergonomic Mouse](https://smile.amazon.com/Microsoft-Sculpt-Ergonomic-Mouse-L6V-00001/dp/B00D68ZVY8) -- Ergonomics is super important in this field
 
 ### Services
 
 - [Render](https://render.com/) -- How I host a lot of my stuff
 - [Heroku](https://heroku.com/)
-- [Github](https://github.com/) -- I know that a lot of people like Gitlab but there are more people on Github
+- [Github](https://github.com/) -- I know that a lot of people like Gitlab but there are more people on GitHub
 - [Cloudflare](https://www.cloudflare.com/) -- A freemium reverse proxy service that does a lot to protect your websites
-- [IFTTT](https://ifttt.com) -- Good for connecting services like twitter, RSS feeds, wordpress, etc together
+- [IFTTT](https://ifttt.com) -- Good for connecting services like Twitter, RSS feeds, WordPress, etc together
 - [Pipedream](https://pipedream.com/) -- It is kind of better than IFTTT
 - [Jetpack](https://jetpack.com/) -- Running [wordpress](https://wordpress.com/)?  You would be stupid to not use this.
 
 ### Testing
 
-- [Saucelabs](https://saucelabs.com/) -- Allows you to test against a lot of browsers / operating systems through your browser
+- [Saucelabs](https://saucelabs.com/) -- Allows you to test against a lot of browsers/operating systems through your browser
 - [BrowserStack](https://www.browserstack.com/) -- This is very similar to [Saucelabs](https://saucelabs.com/) and also allows you to test live or with something like selenium
 - [Mailtrap](https://mailtrap.io/) -- Great for testing how emails go out, in your development environment
 - [Section 508 Testing Methods](https://www.section508.gov/test/testing-overview/) -- This is the official guidance from the general services administration on section 508 automated, manual, and hybrid testing practices
