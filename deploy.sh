@@ -1,5 +1,5 @@
 #!/usr/bin/env sh
 
-yarn add vitepress
+npm add -D vitepress
 
-yarn vitepress build
+npm run docs:build
