@@ -32,11 +32,11 @@ next: false
 
 * I maintained an internal sales tool that is used by [Zoetis](https://www.zoetis.com/).  It used [Vue.js](https://vuejs.org/), [Pitcher](https://www.pitcher.com/), [Salesforce](https://www.salesforce.com/), and [Crownpeak](https://www.crownpeak.com/).
 * I maintained and developed enhancements for [Brevant.com](https://brevant.com/) using [Vue.js](https://vuejs.org/), [Nuxt.JS](https://nuxtjs.org/), [Marketo](https://www.marketo.com/), and [Strapi](https://strapi.io/).
-* I maintained and developed enhancements for [phytogencottonseed.com](https://phytogencottonseed.com/) using [.NET](https://dotnet.microsoft.com/en-us/), [Vue.js](https://vuejs.org/), and [Eloqua](https://www.oracle.com/cx/marketing/automation/).
-* I maintained and developed systems for [Douglas Products](https://douglasproducts.com/) using [Vue.js](https://vuejs.org/) and [Firebase](https://firebase.google.com/).
+* I enhanced and maintained [phytogencottonseed.com](https://phytogencottonseed.com/) using [.NET](https://dotnet.microsoft.com/en-us/), [Vue.js](https://vuejs.org/), and [Eloqua](https://www.oracle.com/cx/marketing/automation/).
+* I designed and developed a progressive web application for [Douglas Products](https://douglasproducts.com/) using [Vue.js](https://vuejs.org/) and [Firebase](https://firebase.google.com/).
 * I regularly researched and presented new technical concepts to the agency's development team.
 * I served on a team with the mandate to standardize agency development practices.
-* I served on an AI working group where I introduced the agency to Ollama.
+* I served on an AI working group where developed a retrieval-augmented generation system for the agency.
 * I introduced the company to the use of Microsoft Entra ID for cloud-based identity and access management with web applications.
 
 ### Web Application Engineer
@@ -102,7 +102,11 @@ next: false
     </span>
     <span class="tech-item">
         <svg xmlns="http://www.w3.org/2000/svg" height="14" width="17.5" viewBox="0 0 640 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="var(--vp-c-text-1)" d="M320 104.5c171.4 0 303.2 72.2 303.2 151.5S491.3 407.5 320 407.5c-171.4 0-303.2-72.2-303.2-151.5S148.7 104.5 320 104.5m0-16.8C143.3 87.7 0 163 0 256s143.3 168.3 320 168.3S640 349 640 256 496.7 87.7 320 87.7zM218.2 242.5c-7.9 40.5-35.8 36.3-70.1 36.3l13.7-70.6c38 0 63.8-4.1 56.4 34.3zM97.4 350.3h36.7l8.7-44.8c41.1 0 66.6 3 90.2-19.1 26.1-24 32.9-66.7 14.3-88.1-9.7-11.2-25.3-16.7-46.5-16.7h-70.7L97.4 350.3zm185.7-213.6h36.5l-8.7 44.8c31.5 0 60.7-2.3 74.8 10.7 14.8 13.6 7.7 31-8.3 113.1h-37c15.4-79.4 18.3-86 12.7-92-5.4-5.8-17.7-4.6-47.4-4.6l-18.8 96.6h-36.5l32.7-168.6zM505 242.5c-8 41.1-36.7 36.3-70.1 36.3l13.7-70.6c38.2 0 63.8-4.1 56.4 34.3zM384.2 350.3H421l8.7-44.8c43.2 0 67.1 2.5 90.2-19.1 26.1-24 32.9-66.7 14.3-88.1-9.7-11.2-25.3-16.7-46.5-16.7H417l-32.8 168.7z"/></svg>
-        <span>PHP</span>
+        <span>PHP,</span>
+    </span>
+    <span class="tech-item">
+        <svg xmlns="http://www.w3.org/2000/svg" height="14" width="12.25" viewBox="0 0 448 512"><!--!Font Awesome Pro 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2024 Fonticons, Inc.--><path d="M432 432c0 4.5-2.5 11-11.9 18.9c-9.3 7.9-23.8 15.7-43.1 22.6C338.6 487.2 284.5 496 224 496s-114.6-8.8-153-22.5c-19.3-6.9-33.7-14.7-43.1-22.6C18.5 443 16 436.5 16 432V341.7c18.6 12 44.3 22 74.2 29.3c38.2 9.4 84.2 14.9 133.8 14.9s95.6-5.5 133.8-14.9c30-7.4 55.6-17.3 74.2-29.3V432zm0-234.3V322.1c-16.1 13.1-43.1 24.9-78.1 33.5c-36.8 9-81.5 14.4-129.9 14.4s-93.2-5.3-129.9-14.4c-35-8.6-61.9-20.4-78.1-33.5V197.7c18.6 12 44.3 22 74.2 29.3c38.2 9.4 84.2 14.9 133.8 14.9s95.6-5.5 133.8-14.9c30-7.4 55.6-17.3 74.2-29.3zm0-19.7c-16.1 13.1-43.1 24.9-78.1 33.5c-36.8 9-81.5 14.4-129.9 14.4s-93.2-5.3-129.9-14.4c-35-8.6-61.9-20.4-78.1-33.5V80c0-4.5 2.5-11 11.9-18.9C37.3 53.2 51.7 45.4 71 38.5C109.4 24.8 163.5 16 224 16s114.6 8.8 153 22.5c19.3 6.9 33.7 14.7 43.1 22.6C429.5 69 432 75.5 432 80v98.1zM448 432V80C448 35.8 347.7 0 224 0S0 35.8 0 80V432c0 44.2 100.3 80 224 80s224-35.8 224-80z"/></svg>
+        <span>SQL</span>
     </span>
 </div>
 
