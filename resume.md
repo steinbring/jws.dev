@@ -36,8 +36,8 @@ next: false
 * I designed and developed a progressive web application for [Douglas Products](https://douglasproducts.com/) using [Vue.js](https://vuejs.org/) and [Firebase](https://firebase.google.com/).
 * I regularly researched and presented new technical concepts to the agency's development team.
 * I served on a team with the mandate to standardize agency development practices.
-* I served on an AI working group where developed a retrieval-augmented generation system for the agency.
-* I introduced the company to the use of Microsoft Entra ID for cloud-based identity and access management with web applications.
+* I served on an AI working group where I developed a retrieval-augmented generation system for the agency.
+* I introduced the company to using Microsoft Entra ID for cloud-based identity and access management with web applications.
 
 ### Web Application Engineer
 **University of Wisconsin, Milwaukee** | June 2016 - July 2021
@@ -49,7 +49,7 @@ next: false
 	* At the point where I was hired, all business automation systems where [cfwheels](https://cfwheels.org/)-based [ColdFusion](https://jws.news/tag/coldfusion/) applications, using an [Oracle RDBMS](https://en.wikipedia.org/wiki/Oracle_Database) database.
 	* After joining the ITA office, I helped create [UWM Shared Web Application Hosting Environment](https://uwm.edu/swapp/), which allows [UWM](https://uwm.edu/) units to host [PHP](https://jws.news/tag/php/) / [MariaDB](https://mariadb.com/) applications.
 	* Once the [PHP environment](https://uwm.edu/swapp/purpose/) became available, I started rewriting all of the business automation systems to use [Laravel](https://laravel.com/), [Vue.JS](https://jws.news/tag/vue-js/), and [Bulma](https://jws.news/tag/bulma/).
-* In 2019, I started a 3-year term as a [representative](https://uwm.edu/secu/wp-content/uploads/sites/122/2019/10/ASSenateRoster.pdf) on the [UWM](https://uwm.edu) [Academic Staff Senate](https://uwm.edu/secu/as/senate/).
+* In 2019, I started a 3-year term as a representative on the [UWM](https://uwm.edu) [Academic Staff Senate](https://uwm.edu/secu/as/senate/).
 * I was a member of the Office of Research's Talent Management Working Group.
 
 ### Application Developer
@@ -85,28 +85,28 @@ next: false
 <div class="tech-row">
     <span class="tech-label"><strong>Programming Languages:</strong></span>
     <span class="tech-item">
-        <svg xmlns="http://www.w3.org/2000/svg" height="14" width="12.25" viewBox="0 0 448 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="var(--vp-c-text-1)" d="M439.8 200.5c-7.7-30.9-22.3-54.2-53.4-54.2h-40.1v47.4c0 36.8-31.2 67.8-66.8 67.8H172.7c-29.2 0-53.4 25-53.4 54.3v101.8c0 29 25.2 46 53.4 54.3 33.8 9.9 66.3 11.7 106.8 0 26.9-7.8 53.4-23.5 53.4-54.3v-40.7H226.2v-13.6h160.2c31.1 0 42.6-21.7 53.4-54.2 11.2-33.5 10.7-65.7 0-108.6zM286.2 404c11.1 0 20.1 9.1 20.1 20.3 0 11.3-9 20.4-20.1 20.4-11 0-20.1-9.2-20.1-20.4 .1-11.3 9.1-20.3 20.1-20.3zM167.8 248.1h106.8c29.7 0 53.4-24.5 53.4-54.3V91.9c0-29-24.4-50.7-53.4-55.6-35.8-5.9-74.7-5.6-106.8 .1-45.2 8-53.4 24.7-53.4 55.6v40.7h106.9v13.6h-147c-31.1 0-58.3 18.7-66.8 54.2-9.8 40.7-10.2 66.1 0 108.6 7.6 31.6 25.7 54.2 56.8 54.2H101v-48.8c0-35.3 30.5-66.4 66.8-66.4zm-6.7-142.6c-11.1 0-20.1-9.1-20.1-20.3 .1-11.3 9-20.4 20.1-20.4 11 0 20.1 9.2 20.1 20.4s-9 20.3-20.1 20.3z"/></svg>
-        <span>Python,</span>
+        <a href="experience.html#python"><svg xmlns="http://www.w3.org/2000/svg" height="14" width="12.25" viewBox="0 0 448 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="var(--vp-c-text-1)" d="M439.8 200.5c-7.7-30.9-22.3-54.2-53.4-54.2h-40.1v47.4c0 36.8-31.2 67.8-66.8 67.8H172.7c-29.2 0-53.4 25-53.4 54.3v101.8c0 29 25.2 46 53.4 54.3 33.8 9.9 66.3 11.7 106.8 0 26.9-7.8 53.4-23.5 53.4-54.3v-40.7H226.2v-13.6h160.2c31.1 0 42.6-21.7 53.4-54.2 11.2-33.5 10.7-65.7 0-108.6zM286.2 404c11.1 0 20.1 9.1 20.1 20.3 0 11.3-9 20.4-20.1 20.4-11 0-20.1-9.2-20.1-20.4 .1-11.3 9.1-20.3 20.1-20.3zM167.8 248.1h106.8c29.7 0 53.4-24.5 53.4-54.3V91.9c0-29-24.4-50.7-53.4-55.6-35.8-5.9-74.7-5.6-106.8 .1-45.2 8-53.4 24.7-53.4 55.6v40.7h106.9v13.6h-147c-31.1 0-58.3 18.7-66.8 54.2-9.8 40.7-10.2 66.1 0 108.6 7.6 31.6 25.7 54.2 56.8 54.2H101v-48.8c0-35.3 30.5-66.4 66.8-66.4zm-6.7-142.6c-11.1 0-20.1-9.1-20.1-20.3 .1-11.3 9-20.4 20.1-20.4 11 0 20.1 9.2 20.1 20.4s-9 20.3-20.1 20.3z"/></svg></a>
+        <span><a href="experience.html#python">Python</a>,</span>
     </span>
     <span class="tech-item">
-        <svg xmlns="http://www.w3.org/2000/svg" height="14" width="12.25" viewBox="0 0 448 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="var(--vp-c-text-1)" d="M0 32v448h448V32H0zm243.8 349.4c0 43.6-25.6 63.5-62.9 63.5-33.7 0-53.2-17.4-63.2-38.5l34.3-20.7c6.6 11.7 12.6 21.6 27.1 21.6 13.8 0 22.6-5.4 22.6-26.5V237.7h42.1v143.7zm99.6 63.5c-39.1 0-64.4-18.6-76.7-43l34.3-19.8c9 14.7 20.8 25.6 41.5 25.6 17.4 0 28.6-8.7 28.6-20.8 0-14.4-11.4-19.5-30.7-28l-10.5-4.5c-30.4-12.9-50.5-29.2-50.5-63.5 0-31.6 24.1-55.6 61.6-55.6 26.8 0 46 9.3 59.8 33.7L368 290c-7.2-12.9-15-18-27.1-18-12.3 0-20.1 7.8-20.1 18 0 12.6 7.8 17.7 25.9 25.6l10.5 4.5c35.8 15.3 55.9 31 55.9 66.2 0 37.8-29.8 58.6-69.7 58.6z"/></svg>
-        <span>JavaScript,</span>
+        <a href="experience.html#javascript"><svg xmlns="http://www.w3.org/2000/svg" height="14" width="12.25" viewBox="0 0 448 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="var(--vp-c-text-1)" d="M0 32v448h448V32H0zm243.8 349.4c0 43.6-25.6 63.5-62.9 63.5-33.7 0-53.2-17.4-63.2-38.5l34.3-20.7c6.6 11.7 12.6 21.6 27.1 21.6 13.8 0 22.6-5.4 22.6-26.5V237.7h42.1v143.7zm99.6 63.5c-39.1 0-64.4-18.6-76.7-43l34.3-19.8c9 14.7 20.8 25.6 41.5 25.6 17.4 0 28.6-8.7 28.6-20.8 0-14.4-11.4-19.5-30.7-28l-10.5-4.5c-30.4-12.9-50.5-29.2-50.5-63.5 0-31.6 24.1-55.6 61.6-55.6 26.8 0 46 9.3 59.8 33.7L368 290c-7.2-12.9-15-18-27.1-18-12.3 0-20.1 7.8-20.1 18 0 12.6 7.8 17.7 25.9 25.6l10.5 4.5c35.8 15.3 55.9 31 55.9 66.2 0 37.8-29.8 58.6-69.7 58.6z"/></svg></a>
+        <span><a href="experience.html#javascript">JavaScript</a>,</span>
     </span>
     <span class="tech-item">
-        <svg xmlns="http://www.w3.org/2000/svg" height="14" width="10.5" viewBox="0 0 384 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="var(--vp-c-text-1)" d="M0 32l34.9 395.8L191.5 480l157.6-52.2L384 32H0zm308.2 127.9H124.4l4.1 49.4h175.6l-13.6 148.4-97.9 27v.3h-1.1l-98.7-27.3-6-75.8h47.7L138 320l53.5 14.5 53.7-14.5 6-62.2H84.3L71.5 112.2h241.1l-4.4 47.7z"/></svg>
-        <span>HTML,</span>
+        <a href="experience.html#html"><svg xmlns="http://www.w3.org/2000/svg" height="14" width="10.5" viewBox="0 0 384 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="var(--vp-c-text-1)" d="M0 32l34.9 395.8L191.5 480l157.6-52.2L384 32H0zm308.2 127.9H124.4l4.1 49.4h175.6l-13.6 148.4-97.9 27v.3h-1.1l-98.7-27.3-6-75.8h47.7L138 320l53.5 14.5 53.7-14.5 6-62.2H84.3L71.5 112.2h241.1l-4.4 47.7z"/></svg></a>
+        <span><a href="experience.html#html">HTML</a>,</span>
     </span>
     <span class="tech-item">
-        <svg xmlns="http://www.w3.org/2000/svg" height="14" width="10.5" viewBox="0 0 384 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="var(--vp-c-text-1)" d="M0 32l34.9 395.8L192 480l157.1-52.2L384 32H0zm313.1 80l-4.8 47.3L193 208.6l-.3 .1h111.5l-12.8 146.6-98.2 28.7-98.8-29.2-6.4-73.9h48.9l3.2 38.3 52.6 13.3 54.7-15.4 3.7-61.6-166.3-.5v-.1l-.2 .1-3.6-46.3L193.1 162l6.5-2.7H76.7L70.9 112h242.2z"/></svg>
-        <span>CSS,</span>
+        <a href="experience.html#css"><svg xmlns="http://www.w3.org/2000/svg" height="14" width="10.5" viewBox="0 0 384 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="var(--vp-c-text-1)" d="M0 32l34.9 395.8L192 480l157.1-52.2L384 32H0zm313.1 80l-4.8 47.3L193 208.6l-.3 .1h111.5l-12.8 146.6-98.2 28.7-98.8-29.2-6.4-73.9h48.9l3.2 38.3 52.6 13.3 54.7-15.4 3.7-61.6-166.3-.5v-.1l-.2 .1-3.6-46.3L193.1 162l6.5-2.7H76.7L70.9 112h242.2z"/></svg></a>
+        <span><a href="experience.html#css">CSS</a>,</span>
     </span>
     <span class="tech-item">
-        <svg xmlns="http://www.w3.org/2000/svg" height="14" width="17.5" viewBox="0 0 640 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="var(--vp-c-text-1)" d="M320 104.5c171.4 0 303.2 72.2 303.2 151.5S491.3 407.5 320 407.5c-171.4 0-303.2-72.2-303.2-151.5S148.7 104.5 320 104.5m0-16.8C143.3 87.7 0 163 0 256s143.3 168.3 320 168.3S640 349 640 256 496.7 87.7 320 87.7zM218.2 242.5c-7.9 40.5-35.8 36.3-70.1 36.3l13.7-70.6c38 0 63.8-4.1 56.4 34.3zM97.4 350.3h36.7l8.7-44.8c41.1 0 66.6 3 90.2-19.1 26.1-24 32.9-66.7 14.3-88.1-9.7-11.2-25.3-16.7-46.5-16.7h-70.7L97.4 350.3zm185.7-213.6h36.5l-8.7 44.8c31.5 0 60.7-2.3 74.8 10.7 14.8 13.6 7.7 31-8.3 113.1h-37c15.4-79.4 18.3-86 12.7-92-5.4-5.8-17.7-4.6-47.4-4.6l-18.8 96.6h-36.5l32.7-168.6zM505 242.5c-8 41.1-36.7 36.3-70.1 36.3l13.7-70.6c38.2 0 63.8-4.1 56.4 34.3zM384.2 350.3H421l8.7-44.8c43.2 0 67.1 2.5 90.2-19.1 26.1-24 32.9-66.7 14.3-88.1-9.7-11.2-25.3-16.7-46.5-16.7H417l-32.8 168.7z"/></svg>
-        <span>PHP,</span>
+        <a href="experience.html#php"><svg xmlns="http://www.w3.org/2000/svg" height="14" width="17.5" viewBox="0 0 640 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="var(--vp-c-text-1)" d="M320 104.5c171.4 0 303.2 72.2 303.2 151.5S491.3 407.5 320 407.5c-171.4 0-303.2-72.2-303.2-151.5S148.7 104.5 320 104.5m0-16.8C143.3 87.7 0 163 0 256s143.3 168.3 320 168.3S640 349 640 256 496.7 87.7 320 87.7zM218.2 242.5c-7.9 40.5-35.8 36.3-70.1 36.3l13.7-70.6c38 0 63.8-4.1 56.4 34.3zM97.4 350.3h36.7l8.7-44.8c41.1 0 66.6 3 90.2-19.1 26.1-24 32.9-66.7 14.3-88.1-9.7-11.2-25.3-16.7-46.5-16.7h-70.7L97.4 350.3zm185.7-213.6h36.5l-8.7 44.8c31.5 0 60.7-2.3 74.8 10.7 14.8 13.6 7.7 31-8.3 113.1h-37c15.4-79.4 18.3-86 12.7-92-5.4-5.8-17.7-4.6-47.4-4.6l-18.8 96.6h-36.5l32.7-168.6zM505 242.5c-8 41.1-36.7 36.3-70.1 36.3l13.7-70.6c38.2 0 63.8-4.1 56.4 34.3zM384.2 350.3H421l8.7-44.8c43.2 0 67.1 2.5 90.2-19.1 26.1-24 32.9-66.7 14.3-88.1-9.7-11.2-25.3-16.7-46.5-16.7H417l-32.8 168.7z"/></svg></a>
+        <span><a href="experience.html#php">PHP</a>,</span>
     </span>
     <span class="tech-item">
-        <svg xmlns="http://www.w3.org/2000/svg" height="14" width="12.25" viewBox="0 0 448 512"><!--!Font Awesome Pro 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2024 Fonticons, Inc.--><path fill="var(--vp-c-text-1)" d="M432 432c0 4.5-2.5 11-11.9 18.9c-9.3 7.9-23.8 15.7-43.1 22.6C338.6 487.2 284.5 496 224 496s-114.6-8.8-153-22.5c-19.3-6.9-33.7-14.7-43.1-22.6C18.5 443 16 436.5 16 432V341.7c18.6 12 44.3 22 74.2 29.3c38.2 9.4 84.2 14.9 133.8 14.9s95.6-5.5 133.8-14.9c30-7.4 55.6-17.3 74.2-29.3V432zm0-234.3V322.1c-16.1 13.1-43.1 24.9-78.1 33.5c-36.8 9-81.5 14.4-129.9 14.4s-93.2-5.3-129.9-14.4c-35-8.6-61.9-20.4-78.1-33.5V197.7c18.6 12 44.3 22 74.2 29.3c38.2 9.4 84.2 14.9 133.8 14.9s95.6-5.5 133.8-14.9c30-7.4 55.6-17.3 74.2-29.3zm0-19.7c-16.1 13.1-43.1 24.9-78.1 33.5c-36.8 9-81.5 14.4-129.9 14.4s-93.2-5.3-129.9-14.4c-35-8.6-61.9-20.4-78.1-33.5V80c0-4.5 2.5-11 11.9-18.9C37.3 53.2 51.7 45.4 71 38.5C109.4 24.8 163.5 16 224 16s114.6 8.8 153 22.5c19.3 6.9 33.7 14.7 43.1 22.6C429.5 69 432 75.5 432 80v98.1zM448 432V80C448 35.8 347.7 0 224 0S0 35.8 0 80V432c0 44.2 100.3 80 224 80s224-35.8 224-80z"/></svg>
-        <span>SQL</span>
+        <a href="experience.html#sql"><svg xmlns="http://www.w3.org/2000/svg" height="14" width="12.25" viewBox="0 0 448 512"><!--!Font Awesome Pro 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2024 Fonticons, Inc.--><path fill="var(--vp-c-text-1)" d="M432 432c0 4.5-2.5 11-11.9 18.9c-9.3 7.9-23.8 15.7-43.1 22.6C338.6 487.2 284.5 496 224 496s-114.6-8.8-153-22.5c-19.3-6.9-33.7-14.7-43.1-22.6C18.5 443 16 436.5 16 432V341.7c18.6 12 44.3 22 74.2 29.3c38.2 9.4 84.2 14.9 133.8 14.9s95.6-5.5 133.8-14.9c30-7.4 55.6-17.3 74.2-29.3V432zm0-234.3V322.1c-16.1 13.1-43.1 24.9-78.1 33.5c-36.8 9-81.5 14.4-129.9 14.4s-93.2-5.3-129.9-14.4c-35-8.6-61.9-20.4-78.1-33.5V197.7c18.6 12 44.3 22 74.2 29.3c38.2 9.4 84.2 14.9 133.8 14.9s95.6-5.5 133.8-14.9c30-7.4 55.6-17.3 74.2-29.3zm0-19.7c-16.1 13.1-43.1 24.9-78.1 33.5c-36.8 9-81.5 14.4-129.9 14.4s-93.2-5.3-129.9-14.4c-35-8.6-61.9-20.4-78.1-33.5V80c0-4.5 2.5-11 11.9-18.9C37.3 53.2 51.7 45.4 71 38.5C109.4 24.8 163.5 16 224 16s114.6 8.8 153 22.5c19.3 6.9 33.7 14.7 43.1 22.6C429.5 69 432 75.5 432 80v98.1zM448 432V80C448 35.8 347.7 0 224 0S0 35.8 0 80V432c0 44.2 100.3 80 224 80s224-35.8 224-80z"/></svg></a>
+        <span><a href="experience.html#sql">SQL</a></span>
     </span>
 </div>
 
@@ -129,7 +129,7 @@ University of Wisconsin-Milwaukee - Lubar School of Business, Milwaukee, WI | 20
 	    display: flex;
 	    align-items: center; /* Vertically centers the items in the container */
 	    gap: 10px;           /* Provides space between the icon and the text */
-	    margin-bottom: 10px; /* Optional: adds space between each item for better readability */
+	    margin-bottom: 10px;
 	}
 
 	.info-item svg {
@@ -152,6 +152,6 @@ University of Wisconsin-Milwaukee - Lubar School of Business, Milwaukee, WI | 20
     }
 
     .tech-label {
-        margin-right: 5px; /* Optional, adds right margin to the label for separation */
+        margin-right: 5px;
     }
 </style>
