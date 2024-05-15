@@ -32,7 +32,7 @@ next: false
 
 * I maintained an internal sales tool that is used by [Zoetis](https://www.zoetis.com/).  It used [Vue.js](https://vuejs.org/), [Pitcher](https://www.pitcher.com/), [Salesforce](https://www.salesforce.com/), and [Crownpeak](https://www.crownpeak.com/).
 * I maintained and developed enhancements for [Brevant.com](https://brevant.com/) using [Vue.js](https://vuejs.org/), [Nuxt.JS](https://nuxtjs.org/), [Marketo](https://www.marketo.com/), and [Strapi](https://strapi.io/).
-* I enhanced and maintained [phytogencottonseed.com](https://phytogencottonseed.com/) using [.NET](https://dotnet.microsoft.com/en-us/), [Vue.js](https://vuejs.org/), and [Eloqua](https://www.oracle.com/cx/marketing/automation/).
+* I enhanced and maintained phytogencottonseed.com using [.NET](https://dotnet.microsoft.com/en-us/), [Vue.js](https://vuejs.org/), and [Eloqua](https://www.oracle.com/cx/marketing/automation/).
 * I designed and developed a progressive web application for [Douglas Products](https://douglasproducts.com/) using [Vue.js](https://vuejs.org/) and [Firebase](https://firebase.google.com/).
 * I regularly researched and presented new technical concepts to the agency's development team.
 * I served on a team with the mandate to standardize agency development practices.

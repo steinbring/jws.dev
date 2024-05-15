@@ -107,8 +107,8 @@ Every now and then, I find something interesting that I want to share.
 
 ### Hardware
 
-- [Pinebook Pro](https://www.pine64.org/pinebook-pro/) -- I have the non-pro version of this
-- [Pinephone](https://www.pine64.org/pinephone/) -- I've been super tempted by this thing.
+- [Pinebook Pro](https://pine64.org/devices/pinebook_pro/) -- I have the non-pro version of this
+- [Pinephone Pro](https://pine64.org/devices/pinephone_pro/) -- I've been super tempted by this thing.
 
 ### Services
 
