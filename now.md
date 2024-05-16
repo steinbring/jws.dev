@@ -25,6 +25,12 @@ next: false
 * [React](https://jws.news/tag/React/)
 * [Shoelace / Web Awesome](https://jws.news/tag/web-awesome/)
 
+### Other
+
+* I have been spending a lot of time learning AI over the past six months.  On May 31 and June 28th, I am giving a quick talk about what Retrieval-Augmented Generation is, and how to use it with your Python project.
+	* [🦙 Crafting Intelligent Python Apps with Retrieval-Augmented Generation](https://that.us/activities/Z1OU4WMZonDxDDk2L1t2) -- May 31
+	* [🦙 Crafting Intelligent Python Apps with Retrieval-Augmented Generation](https://that.us/activities/5EI62c1gogbMFYMqilkP) -- June 28
+
 ## Projects
 
 * Since being laid off in February, I have been spending a lot of time learning new things.
