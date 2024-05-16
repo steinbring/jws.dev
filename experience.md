@@ -34,10 +34,6 @@ next: false
 
 - I have 15 years of experience writing HTML.
 
-## CSS
-
-- I have 15 years of experience writing CSS.
-
 ## Relational Databases
 
 - I have experience with Oracle RDBMS, MySQL / MariaDB, SQL Server, and PostgreSQL.

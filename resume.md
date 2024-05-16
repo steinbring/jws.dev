@@ -42,7 +42,7 @@ next: false
 ### Web Application Engineer
 **University of Wisconsin, Milwaukee** | June 2016 - July 2021
 
-* The [Office of Information Technology and Analysis](https://uwm.edu/graduateschool/ita/) serves both the [Office of Research](https://uwm.edu/officeofresearch/) and the [Graduate School](https://uwm.edu/graduateschool/).
+* The Office of Information Technology and Analysis served both the [Office of Research](https://uwm.edu/officeofresearch/) and the [Graduate School](https://uwm.edu/graduateschool/).
 * I maintained the [WordPress](https://wordpress.org)-based websites used by both the [Office of Research](https://uwm.edu/officeofresearch/) and the [Graduate School](https://uwm.edu/graduateschool/).
 * I assisted the centers under the [Office of Research](https://uwm.edu/officeofresearch/) with their web needs.
 * I maintained the business automation systems behind the Fellowship Competition, Doctoral Milestones, the Graduation Application, and more.
