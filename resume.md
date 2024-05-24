@@ -27,13 +27,21 @@ next: false
 
 ## Work Experience
 
+### Software Engineer/Developer IV
+**University of Wisconsin, Milwaukee** | June 2024 - Present
+
+* I conduct system analysis, review, and interpret system requirements, and develop
+detailed system design specifications for system integration and upgrades.
+* I lead application development, integration upgrades, and maintenance projects.
+* I design and develop well-integrated applications that meet present and future business needs.
+
 ### Senior Full-Stack Developer
 **Bader Rutter** | July 2021 - February 2024
 
-* I maintained an internal sales tool that is used by [Zoetis](https://www.zoetis.com/).  It used [Vue.js](https://vuejs.org/), [Pitcher](https://www.pitcher.com/), [Salesforce](https://www.salesforce.com/), and [Crownpeak](https://www.crownpeak.com/).
-* I maintained and developed enhancements for [Brevant.com](https://brevant.com/) using [Vue.js](https://vuejs.org/), [Nuxt.JS](https://nuxtjs.org/), [Marketo](https://www.marketo.com/), and [Strapi](https://strapi.io/).
-* I enhanced and maintained phytogencottonseed.com using [.NET](https://dotnet.microsoft.com/en-us/), [Vue.js](https://vuejs.org/), and [Eloqua](https://www.oracle.com/cx/marketing/automation/).
-* I designed and developed a progressive web application for [Douglas Products](https://douglasproducts.com/) using [Vue.js](https://vuejs.org/) and [Firebase](https://firebase.google.com/).
+* I maintained an internal sales tool that is used by Zoetis.  It used Vue.js, Pitcher, Salesforce, and Crownpeak.
+* I maintained and developed enhancements for Brevant.com using Vue.js, Nuxt.JS, Marketo, and Strapi.
+* I enhanced and maintained phytogencottonseed.com using .NET, Vue.js, and Eloqua.
+* I designed and developed a progressive web application for Douglas Products using Vue.js and Firebase.
 * I regularly researched and presented new technical concepts to the agency's development team.
 * I served on a team with the mandate to standardize agency development practices.
 * I served on an AI working group where I developed a retrieval-augmented generation system for the agency.
@@ -42,41 +50,41 @@ next: false
 ### Web Application Engineer
 **University of Wisconsin, Milwaukee** | June 2016 - July 2021
 
-* The Office of Information Technology and Analysis served both the [Office of Research](https://uwm.edu/officeofresearch/) and the [Graduate School](https://uwm.edu/graduateschool/).
-* I maintained the [WordPress](https://wordpress.org)-based websites used by both the [Office of Research](https://uwm.edu/officeofresearch/) and the [Graduate School](https://uwm.edu/graduateschool/).
-* I assisted the centers under the [Office of Research](https://uwm.edu/officeofresearch/) with their web needs.
+* The Office of Information Technology and Analysis served both the Office of Research and the Graduate School.
+* I maintained the WordPress-based websites used by both the Office of Research and the Graduate School.
+* I assisted the centers under the Office of Research with their web needs.
 * I maintained the business automation systems behind the Fellowship Competition, Doctoral Milestones, the Graduation Application, and more.
-	* At the point where I was hired, all business automation systems where [cfwheels](https://cfwheels.org/)-based [ColdFusion](https://jws.news/tag/coldfusion/) applications, using an [Oracle RDBMS](https://en.wikipedia.org/wiki/Oracle_Database) database.
-	* After joining the ITA office, I helped create [UWM Shared Web Application Hosting Environment](https://uwm.edu/swapp/), which allows [UWM](https://uwm.edu/) units to host [PHP](https://jws.news/tag/php/) / [MariaDB](https://mariadb.com/) applications.
-	* Once the [PHP environment](https://uwm.edu/swapp/purpose/) became available, I started rewriting all of the business automation systems to use [Laravel](https://laravel.com/), [Vue.JS](https://jws.news/tag/vue-js/), and [Bulma](https://jws.news/tag/bulma/).
-* In 2019, I started a 3-year term as a representative on the [UWM](https://uwm.edu) [Academic Staff Senate](https://uwm.edu/secu/as/senate/).
+	* At the point where I was hired, all business automation systems were cfwheels-based ColdFusion applications, using an Oracle RDBMS database.
+	* After joining the ITA office, I helped create the UWM Shared Web Application Hosting Environment, which allows UWM units to host PHP / MariaDB applications.
+	* Once the PHP environment became available, I started rewriting all of the business automation systems to use Laravel, Vue.JS, and Bulma.
+* In 2019, I started a 3-year term as a representative on the UWM Academic Staff Senate.
 * I was a member of the Office of Research's Talent Management Working Group.
 
 ### Application Developer
 **QM Quality Matters** | January 2015 - June 2016
 
-* I mainly worked on the [MyQM](https://www.qmprogram.org/myqm/), [CRMS](https://www.qualitymatters.org/qm-membership/faqs/course-review-management-system), and [MyCR](https://www.qmprogram.org/mycr/) systems.
-	* The systems were custom built using [ColdFusion](https://jws.news/tag/coldfusion/) and [MS SQL Server](https://www.microsoft.com/en-us/sql-server/default.aspx). The client-side code that they used when I got there was using a lot of [jQuery](https://jquery.com/).  I introduced them to [Rivets.js](https://jws.news/tag/rivets-js/) and rewrote a lot of their dashboards to use it.
+* I mainly worked on the MyQM, CRMS, and MyCR systems.
+	* The systems were custom-built using ColdFusion and MS SQL Server. The client-side code that they used when I got there was using a lot of jQuery.  I introduced them to Rivets.js and rewrote a lot of their dashboards to use it.
 	* The organization funds itself through sales of memberships, so most of my work isn't publicly accessible.
 
 ### Senior Application Developer
 **Starkmedia** | June 2012 - October 2014
 
-* I mainly made systems that allowed [Starkmedia](https://www.starkmedia.com/)'s clients to update their own websites.  Clients that I worked with included Red Arrow, [Artisan Partners](https://www.artisanpartners.com/), [Mandel Group](https://mandelgroup.com/), and [Calf-Tel](https://www.calftel.com/en).  Very few of my projects were [greenfield](https://en.wikipedia.org/wiki/Greenfield_project) but I was able to introduce some innovations and tweak how things were done.
-	* [Starkmedia](https://www.starkmedia.com/) mainly used [ColdFusion](https://coldfusion.adobe.com/) and [MS SQL Server](https://www.microsoft.com/en-us/sql-server/default.aspx).  I introduced [AngularJS](https://angularjs.org/) 1.x, [PhoneGap](https://jws.news/tag/phonegap/), and [Git](https://git-scm.com/) into the organization while I was there.
+* I mainly made systems that allowed Starkmedia's clients to update their own websites.  Clients that I worked with included Red Arrow, Artisan Partners, Mandel Group, and Calf-Tel.  Very few of my projects were greenfield but I was able to introduce some innovations and tweak how things were done.
+	* Starkmedia mainly used ColdFusion and MS SQL Server.  I introduced AngularJS 1.x, PhoneGap, and Git into the organization while I was there.
 
 ### ColdFusion Developer
 **Experis at Kohler Co.** | May 2011 - June 2012
 
-* I developed enhancements for an internal corporate transaction tracking system.  It was an intranet application that handled vetting of all corporate expenditures at [Kohler](http://www.kohlercompany.com/) (everything from new hires to the opening of a new production facility or the resurfacing of a parking lot).
-	* The system used [ColdFusion](https://coldfusion.adobe.com/) and [Oracle RDBMS](https://en.wikipedia.org/wiki/Oracle_Database).
+* I developed enhancements for an internal corporate transaction tracking system.  It was an intranet application that handled the vetting of all corporate expenditures at Kohler (everything from new hires to the opening of a new production facility or the resurfacing of a parking lot).
+	* The system used ColdFusion and Oracle RDBMS.
 
 ### Web Application Developer
 **University of Wisconsin, Milwaukee** | Feb 2006 - May 2011
 
-* I developed and maintained the [College of Letters and Science](https://uwm.edu/letters-science/)' portfolio of custom business automation systems.
-	* They used [ColdFusion](https://coldfusion.adobe.com/) and [Oracle RDBMS](https://en.wikipedia.org/wiki/Oracle_Database).
-* I helped to migrate existing websites to [PaperThin CommonSpot](https://www.paperthin.com/products/commonspot-cms.cfm)
+* I developed and maintained the College of Letters and Science's portfolio of custom business automation systems.
+	* They used ColdFusion and Oracle RDBMS.
+* I helped to migrate existing websites to PaperThin CommonSpot
 * I hired, trained, and managed a team of web application developers
 * I developed the annual departmental budget
 
@@ -111,7 +119,7 @@ next: false
 </div>
 
 
-**Tools and Frameworks:** Git, PyTorch, scikit-learn, Vue, React, jQuery, Node.js, Laravel, Lit, Firebase, MongoDB, Chroma DB, MariaDB, Oracle RDBMS, SQL Server, Shoelace, Bulma, Bootstrap, WordPress, Ollama
+**Tools and Frameworks:** [Git](https://jws.dev/experience.html#git), PyTorch, scikit-learn, [Vue.js](https://jws.dev/experience.html#vue-js), [React](https://jws.dev/experience.html#react), jQuery, [Node.js](https://jws.dev/experience.html#node-js), [Laravel](https://jws.dev/experience.html#laravel), Lit, Firebase ([Cloud Firestore](https://jws.dev/experience.html#firebase-cloud-firestore), Authentication, Cloud Functions), [MongoDB](https://jws.dev/experience.html#mongodb), [Chroma DB](https://jws.dev/experience.html#chroma-db), [MariaDB](https://jws.dev/experience.html#mysql-mariadb), [Oracle RDBMS](https://jws.dev/experience.html#oracle-rdbms), [SQL Server](https://jws.dev/experience.html#sql-server), [Shoelace](https://jws.dev/experience.html#shoelace-web-awesome), [Bulma](https://jws.dev/experience.html#bulma), [Bootstrap](https://jws.dev/experience.html#bootstrap), [WordPress](https://jws.dev/experience.html#wordpress), [Ollama](https://jws.dev/experience.html#ollama)
 
 ## Education
 
