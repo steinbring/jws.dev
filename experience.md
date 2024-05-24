@@ -17,7 +17,7 @@ next: false
 ### AngularJS
 
 - In 2013, I introduced my employer to AngularJS, began teaching my fellow developers about its promise for what it could do for us, and started using it with production applications.
-- In 2014 and 2015, I [wrote several articles about how to best leverage AngularJS](https://jws.news/tag/angularjs/) and wrote several small projects using it.
+- In 2014 and 2015, I [wrote several articles about how to leverage AngularJS best](https://jws.news/tag/angularjs/) and wrote several small projects using it.
 
 ### Rivets.js
 
@@ -31,7 +31,7 @@ next: false
 
 ### React
 
-- In 2024, I poked my head up and realized that React dominates the space, now.  I started exploring the topic and [published several articles on it](https://jws.news/tag/react/).
+- In 2024, I poked my head up and realized React dominates the space.  I started exploring the topic and [published several articles on it](https://jws.news/tag/react/).
 
 ### Node.js
 
@@ -39,15 +39,53 @@ next: false
 
 ## PHP
 
-- I have years of experience writing [PHP](https://jws.news/tag/php/), including [Laravel](https://jws.news/tag/laravel/).  I also have a decade of experience with [WordPress](https://jws.news/tag/wordpress/).
+- I have written a ton of PHP while at [Starkmedia](https://jws.dev/resume.html#senior-application-developer), [UW-Milwaukee](https://jws.dev/resume.html#web-application-engineer), and [Bader Rutter](https://jws.dev/resume.html#senior-full-stack-developer).
+- I have also written dozens of [PHP articles on my website](https://jws.news/tag/php/) and on [Dev](https://dev.to/steinbring).
+
+### Laravel
+
+- I started writing Laravel while working for [UW-Milwaukee](https://jws.dev/resume.html#web-application-engineer).
+- I started [writing about Laravel](https://jws.news/tag/laravel/) in 2022 while attempting to convince [Bader Rutter](https://jws.dev/resume.html#senior-full-stack-developer) to consider it.
+
+### WordPress
+
+- I built and maintained WordPress sites at [Starkmedia](https://jws.dev/resume.html#senior-application-developer), [UW-Milwaukee](https://jws.dev/resume.html#web-application-engineer), and [Bader Rutter](https://jws.dev/resume.html#senior-full-stack-developer).
+- [My own website](https://jws.news/) uses WordPress and has used it for over a decade.
 
 ## .NET
 
-- I was the .NET expert at BR.  We used both .NET Framework and .NET Classic.
+- I was the .NET expert at [BR](https://jws.dev/resume.html#senior-full-stack-developer).  We used both .NET Framework and .NET Classic.
+
+## CFML
+
+### Adobe ColdFusion
+
+- I wrote a ton of CFML at [UW-Milwaukee](https://jws.dev/resume.html#web-application-developer), [Kohler](https://jws.dev/resume.html#coldfusion-developer), [Starkmedia](https://jws.dev/resume.html#senior-application-developer), and [QM Quality Matters](https://jws.dev/resume.html#application-developer).
+- I have written a few [ColdFusion blog posts](https://jws.news/tag/coldfusion/) but not as many as you would expect.
+
+### Lucee
+
+- If you don't have $8,000 for an Adobe ColdFusion license, Lucee is a great option.  I have used it a lot to play around with CFML outside of work.
 
 ## CSS
 
 - I have 15 years of experience writing [CSS](https://jws.news/tag/css/).
+
+### Bootstrap
+
+- I used it at [UW-Milwaukee](https://jws.dev/resume.html#web-application-developer), [Kohler](https://jws.dev/resume.html#coldfusion-developer), [Starkmedia](https://jws.dev/resume.html#senior-application-developer), [QM Quality Matters](https://jws.dev/resume.html#application-developer), and [Bader Rutter](https://jws.dev/resume.html#senior-full-stack-developer).
+
+### Bulma
+
+- I used it at [UW-Milwaukee](https://jws.dev/resume.html#web-application-engineer) and [Bader Rutter](https://jws.dev/resume.html#senior-full-stack-developer).
+
+### Vuetify
+
+- I used it at [Bader Rutter](https://jws.dev/resume.html#senior-full-stack-developer).
+
+### Shoelace / Web Awesome
+
+- I discovered this in early 2024 and I am kind of excited about it.
 
 ## SQL
 
@@ -59,15 +97,47 @@ next: false
 
 ## Relational Databases
 
-- I have experience with Oracle RDBMS, MySQL / MariaDB, SQL Server, and PostgreSQL.
+### Oracle RDBMS
+
+- I used it at [UW-Milwaukee](https://jws.dev/resume.html#web-application-developer) and [Kohler](https://jws.dev/resume.html#coldfusion-developer).
+
+### MySQL / MariaDB
+
+- I used it at [UW-Milwaukee](https://jws.dev/resume.html#web-application-developer), [Starkmedia](https://jws.dev/resume.html#senior-application-developer), [QM Quality Matters](https://jws.dev/resume.html#application-developer), and [Bader Rutter](https://jws.dev/resume.html#senior-full-stack-developer).
+
+### SQL Server
+
+- I used it at [Starkmedia](https://jws.dev/resume.html#senior-application-developer) and [QM Quality Matters](https://jws.dev/resume.html#application-developer).
+
+### PostgreSQL
+
+- I have used this in the past for a few side projects, over the years.
 
 ## NoSQL Databases
 
-- I have experience with [CouchDB](https://jws.news/tag/couchdb/), [MongoDB](https://jws.news/tag/mongodb/), [Firebase](https://jws.news/tag/firebase/), and [Firebase Cloud Firestore](https://jws.news/tag/firebase/).  I think that Cloud Firestore is my favorite.
+### CouchDB
+
+- [I explored CouchDB in 2014](https://jws.news/tag/couchdb/).
+
+### MongoDB
+
+- [I explored MongoDB in 2021](https://jws.news/tag/mongodb/) and we used it for a project at [Bader Rutter](https://jws.dev/resume.html#senior-full-stack-developer).
+
+### Firebase
+
+- I explored the original Firebase back while working for [Starkmedia](https://jws.dev/resume.html#senior-application-developer).
+
+### Firebase Cloud Firestore
+
+- We used this a lot at [Bader Rutter](https://jws.dev/resume.html#senior-full-stack-developer) with systems for clients and internal tools.
+- At [the October 2023 Hack and Tell](https://hackandtell.rocks/events/2023-10/), I wrote "[Job Tracker](https://joes-job-tracker.web.app/)" that used Cloud Firestore and Firebase Authentication.
+- In early 2024, I wrote [an app](https://boilerplate.jws.app/) [that uses Vue, Pinia, the composition API, Firebase Authentication, and Firebase Cloud Firestore](https://jws.news/2024/wrote-a-thing-with-vue-and-firebase/).  The plan was to use it as a "boilerplate" for other things.
 
 ## Vector Databases
 
-- I have experience with Chroma DB in the context of embedding
+### Chroma DB
+
+- I have written [a bit about it on my website](https://jws.news/tag/Chroma-DB/) and have [talked about it in webinars](https://that.us/activities/Z1OU4WMZonDxDDk2L1t2).
 
 ## Web Components
 
@@ -84,3 +154,13 @@ next: false
 ### ChatGPT
 
 - I have used [ChatGPT](https://jws.news/tag/ChatGPT/)'s APIs to develop [a personal project](https://botsin.space/@MKELimerick).
+
+## Code Version Control
+
+### Git
+
+- I used it at [UW-Milwaukee](https://jws.dev/resume.html#web-application-developer), [Starkmedia](https://jws.dev/resume.html#senior-application-developer), and [Bader Rutter](https://jws.dev/resume.html#senior-full-stack-developer).
+
+### Subversion
+
+- I used it at [Kohler](https://jws.dev/resume.html#coldfusion-developer) and [QM Quality Matters](https://jws.dev/resume.html#application-developer).
