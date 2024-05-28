@@ -8,7 +8,7 @@ next: false
 
 ## Job
 
-* I have been looking for a new job since being laid off in February.  Let me know if you have something for me.
+* I work as a software engineer for the Division of Student Affairs at the University of Wisconsin-Milwaukee.
 
 ## Education
 
@@ -33,7 +33,6 @@ next: false
 
 ## Projects
 
-* Since being laid off in February, I have been spending a lot of time learning new things.
 * I started building [my own AI system](https://jws.news/category/llm-ml/) [on old hardware](https://jws.news/2024/hp-z4-g4-workstation/) using [Ollama](https://jws.news/tag/ollama/) and [Tailscale](https://jws.news/tag/tailscale/).
 
 ## Travel
