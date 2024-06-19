@@ -149,11 +149,9 @@ next: false
 
 - I introduced [Ollama](https://jws.news/tag/Ollama/) to BR and used it to help them develop an embedding solution.
 - I have written many articles on [how to integrate it into your Node.js and Python systems](https://jws.news/tag/ollama/).
-- I am presenting a "Crafting Intelligent Python Apps with Retrieval-Augmented Generation" webinar on May 31, 2024, and June 28, 2024.
+- I am presenting a "Crafting Intelligent Python Apps with Retrieval-Augmented Generation" webinar on June 28, 2024. I presented the same thing on May 31, 2024.
+- I am presenting "The Scoop on Embedding: Teaching Large Language Models the 'Flavor of the Day' at Culvers" at [DevCon Midwest](https://events.nvisia.com/conference/be3edb0f-815e-48dd-9826-9b62f6fbc93a) on August 23, 2024.
 
-### ChatGPT
-
-- I have used [ChatGPT](https://jws.news/tag/ChatGPT/)'s APIs to develop [a personal project](https://botsin.space/@MKELimerick).
 
 ## Code Version Control
 
