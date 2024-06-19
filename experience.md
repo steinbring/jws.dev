@@ -162,3 +162,13 @@ next: false
 ### Subversion
 
 - I used it at [Kohler](https://jws.dev/resume.html#coldfusion-developer) and [QM Quality Matters](https://jws.dev/resume.html#application-developer).
+
+## Fediverse
+
+### Mastodon
+
+- I run the [Mastodon](https://jws.news/tag/mastodon/) instance [Toot Works](https://toot.works/).
+
+### GoToSocial
+
+- I run the [GoToSocial](https://jws.news/tag/gotosocial/) instance [JWS Social](https://jws.social/).

@@ -9,9 +9,9 @@ next: false
 * I live in [Glendale, Wisconsin](http://www.glendale-wi.org/).
 	* It is a suburb of [Milwaukee](https://city.milwaukee.gov/).
 	* [Glendale](https://en.wikipedia.org/wiki/Glendale,_Wisconsin) is a lovely place to live.
-* I ride a 2013 Honda nc700x and really like it.
+* I ride a Honda nc700x and really like it.
 * I am a habitual hobby collector ([photography](https://pixelfed.social/steinbring), motorcycling, lock picking, etc).
-* I have two [dogs](https://jws.news/tag/dogs/) and a [cat](https://jws.news/tag/cat/).
+* I have two dogs and a cat.
 * I enjoy [international travel](/travel).
 	* I enjoy travel hacking, too (it is how I afford the trip).
 * I am a web application developer.

@@ -20,7 +20,7 @@ Looking for my email address?  It is my first name at this domain name.
 * <a rel="me" href="https://toot.works/@joe">Mastodon</a>
 * <a rel="me" href="https://www.instagram.com/joesteinbring/">Instagram</a>
 * <a rel="me" href="https://codepen.io/steinbring">CodePen</a>
-* <a rel="me" href="https://kbin.social/u/steinbring">kbin</a>
+* <a rel="me" href="https://midwest.social/u/steinbring">Lemmy</a>
 * <a rel="me" href="https://signal.me/#eu/wYx/v3zx0aPCt1RvLXBtCTcrKGWK0hJiIw2JpsQatK5UCSN9YMpDurXTeZ11atLj">Signal</a>
 
 ### Fed by bots
