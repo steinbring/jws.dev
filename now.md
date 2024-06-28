@@ -28,7 +28,7 @@ next: false
 ### Talks
 
 * August 23, 2024 -- [The Scoop on Embedding: Teaching Large Language Models the “Flavor of the Day” at Culvers](https://events.nvisia.com/conference/be3edb0f-815e-48dd-9826-9b62f6fbc93a)
-* July 23, 2024 -- [The Scoop on Embedding: Teaching Large Language Models the “Flavor of the Day” at Culvers](https://teams.microsoft.com/l/meetup-join/19%3Ameeting_NDg0NDQ5MzYtZWU4NC00NjRiLWE0OWYtOTFkODQzNzg1YWUx%40thread.v2/0?context=%7B%22Tid%22%3A%227175147e-72d7-4dc5-84ee-34e665aeadec%22%2C%22Oid%22%3A%22018d672a-e04a-4189-8aae-ade621a907f7%22%7D)
+* July 23, 2024 -- The Scoop on Embedding: Teaching Large Language Models the “Flavor of the Day” at Culvers
 * June 28, 2024 -- [🦙 Crafting Intelligent Python Apps with Retrieval-Augmented Generation](https://that.us/activities/5EI62c1gogbMFYMqilkP)
 * May 31, 2024 -- [🦙 Crafting Intelligent Python Apps with Retrieval-Augmented Generation](https://that.us/activities/Z1OU4WMZonDxDDk2L1t2)
 
