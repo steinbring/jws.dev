@@ -32,22 +32,5 @@ features:
     </svg>'
     details: I have demonstrated significant expertise in leveraging products like Ollama to enhance AI-driven projects, showcasing my ability to integrate cutting-edge conversational models effectively. My deep understanding of these platforms enables me to develop sophisticated AI solutions that significantly improve user interaction and business processes.
 
-meta:
-  - name: description
-    content: "Discover the unique blend of development and AI insights with Joe Steinbring, your guide to the world of coding, AI innovations, and global traveling experiences."
-  - name: keywords
-    content: "Joe Steinbring, Joseph Steinbring, Steinbring, Machine Learning, AI, Artificial Intelligence, Milwaukee Developer, Milwaukee, Vue.js, Vue, React, AngularJS, JavaScript, Ollama, Travel"
-  - property: og:title
-    content: "Joe Steinbring - Milwaukeean, Developer, AI Expert, and Traveler"
-  - property: og:description
-    content: "Explore the professional world of Joe Steinbring where technology meets adventure. Dive into articles on AI, software development, and travel experiences."
-  - property: og:image
-    content: "https://jws.dev/images/Full-Sized-Joe-NoBG.png"
-  - property: og:url
-    content: "https://jws.dev"
-  - property: og:type
-    content: "website"
-  - property: og:site_name
-    content: "Joe Steinbring"
 ---
 

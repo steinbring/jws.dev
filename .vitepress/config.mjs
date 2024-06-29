@@ -70,5 +70,18 @@ export default defineConfig({
         rel: 'me'
       },
     ]
-  }
+  },
+  head: [
+    ['meta', { property: 'og:title', content: 'Joe Steinbring - Milwaukeean, Developer, AI Expert, and Traveler' }],
+    ['meta', { property: 'og:description', content: 'Joe Steinbring is your guide to the world of coding, AI innovations, and global traveling experiences in Milwaukee.' }],
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:url', content: 'https://jws.dev' }],
+    ['meta', { property: 'og:image', content: 'https://jws.dev/logo.png' }],
+    ['meta', { property: 'og:site_name', content: 'Joe Steinbring - Milwaukeean, Developer, AI Expert, and Traveler' }],
+    ['meta', { property: 'og:locale', content: 'en_US' }],
+    ['meta', { property: 'keywords', content: 'Joe Steinbring, Joseph Steinbring, Steinbring, Machine Learning, AI, Artificial Intelligence, Milwaukee Developer, Milwaukee, Vue.js, Vue, React, AngularJS, JavaScript, Ollama, Travel' }],
+    // Twitter
+    ['meta', { property: 'twitter:title', content: 'Joe Steinbring - Milwaukeean, Developer, AI Expert, and Traveler' }],
+    ['meta', { property: 'twitter:description', content: 'Joe Steinbring is your guide to the world of coding, AI innovations, and global traveling experiences in Milwaukee.' }],
+  ],
 })
