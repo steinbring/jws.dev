@@ -77,7 +77,7 @@ export default defineConfig({
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:url', content: 'https://jws.dev' }],
     ['meta', { property: 'og:image', content: 'https://jws.dev/logo.png' }],
-    ['meta', { property: 'og:site_name', content: 'Joe Steinbring - Milwaukeean, Developer, AI Expert, and Traveler' }],
+    ['meta', { property: 'og:site_name', content: 'Joe Steinbring | Milwaukeean, Developer, AI Expert, and Traveler' }],
     ['meta', { property: 'og:locale', content: 'en_US' }],
     ['meta', { property: 'keywords', content: 'Joe Steinbring, Joseph Steinbring, Steinbring, JWS, Machine Learning, AI, Artificial Intelligence, Milwaukee Developer, Milwaukee, Vue.js, Vue, React, AngularJS, JavaScript, Ollama, Travel' }],
     // Twitter
