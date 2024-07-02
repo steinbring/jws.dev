@@ -86,5 +86,7 @@ export default defineConfig({
     ['meta', { property: 'twitter:image', content: 'https://jws.dev/logo.png' }],
     ['meta', { property: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { property: 'twitter:site', content: '@steinbring' }],
+    // Fediverse
+    ['meta', { property: 'fediverse:creator', content: '@joe@jws.social' }],
   ],
 })
