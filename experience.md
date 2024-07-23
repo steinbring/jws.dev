@@ -150,8 +150,8 @@ next: false
 - I introduced [Ollama](https://jws.news/tag/Ollama/) to BR and used it to help them develop an embedding solution.
 - I have written many articles on [how to integrate it into your Node.js and Python systems](https://jws.news/tag/ollama/).
 - I presented a "Crafting Intelligent Python Apps with Retrieval-Augmented Generation" webinar on [May 31, 2024](https://that.us/activities/Z1OU4WMZonDxDDk2L1t2) and [June 28, 2024](https://that.us/activities/5EI62c1gogbMFYMqilkP).
-- I am presenting "The Scoop on Embedding: Teaching Large Language Models the “Flavor of the Day” at Culvers" on July 23, 2024 at the La Crosse, WI Software Developer Meetup Group
-- I am presenting "The Scoop on Embedding: Teaching Large Language Models the 'Flavor of the Day' at Culvers" at [DevCon Midwest](https://events.nvisia.com/conference/be3edb0f-815e-48dd-9826-9b62f6fbc93a) on August 23, 2024.
+- I am presenting "[The Scoop on Embedding: Teaching Large Language Models the “Flavor of the Day” at Culvers](https://github.com/steinbring/python-rag-demo)" on July 23, 2024 at the [La Crosse, WI Software Developer Meetup Group](https://lacrossedevelopers.com/)
+- I am presenting "[The Scoop on Embedding: Teaching Large Language Models the 'Flavor of the Day' at Culvers](https://github.com/steinbring/python-rag-demo)" at [DevCon Midwest](https://events.nvisia.com/conference/be3edb0f-815e-48dd-9826-9b62f6fbc93a) on August 23, 2024.
 
 
 ## Code Version Control
