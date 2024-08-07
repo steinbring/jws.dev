@@ -15,6 +15,7 @@ next: false
 * I enjoy [international travel](/travel).
 	* I enjoy travel hacking, too (it is how I afford the trip).
 * I am a web application developer.
+	* I work for the Division of Student Affairs at the University of Wisconsin-Milwaukee.
 * In 2005, I received a BBA in Management Information Systems from the [University of Wisconsin-Milwaukee - Lubar School of Business](https://uwm.edu/business/).
 * In 2012, I received an MBA from [Cardinal Stritch University](https://stritch.edu/).
 * I post to [my blog](https://jws.news/) fairly often.
