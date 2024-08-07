@@ -17,7 +17,8 @@ Looking for my email address?  It is my first name at this domain name.
 
 * <a rel="me" href="https://jws.news">Blog</a>
 * <a rel="me" href="https://pixelfed.social/i/web/profile/11244">Pixelfed</a>
-* <a rel="me" href="https://toot.works/@joe">Mastodon</a>
+* <a rel="me" href="https://toot.works/@joe">Toot Works (Federated)</a>
+* <a rel="me" href="https://jws.social/@joe">JWS Social (Federated)</a>
 * <a rel="me" href="https://www.instagram.com/joesteinbring/">Instagram</a>
 * <a rel="me" href="https://codepen.io/steinbring">CodePen</a>
 * <a rel="me" href="https://midwest.social/u/steinbring">Lemmy</a>
