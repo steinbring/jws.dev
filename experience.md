@@ -214,3 +214,7 @@ next: false
 ### Firebase Hosting
 
 - Client websites at BR were hosted on [Firebase Hosting](https://firebase.google.com/docs/hosting)
+
+### Heroku
+
+- Client websites at BR were hosted on [Heroku](https://www.heroku.com/)
