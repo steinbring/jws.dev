@@ -16,16 +16,16 @@ next: false
 ## Asia
 
 * <s>China</s> ([2018](https://pixelfed.social/c/536397307579209415))
-* South Korea
-	* The DMZ
-* Japan
+* <s>South Korea ([2024](https://pixelfed.social/c/744968977236437359))</s>
+	* <s>The DMZ</s>
+* <s>Japan</s> ([2024](https://pixelfed.social/c/744968977236437359))
 * Thailand
 * Vietnam
 * <s>India</s> ([2022](https://pixelfed.social/c/535890454923960601))
 	* <s>Taj Mahal</s> ([2022](https://photos.jws.app/search/label/Agra))
 * <s>Nepal</s> ([2022](https://pixelfed.social/c/536753354915262382))
 	* <s>Kathmandu</s> ([2022](https://photos.jws.app/search/label/Kathmandu))
-* Taiwan
+* <s>Taiwan</s> ([2024](https://pixelfed.social/c/744731025071327380))
 * Jordan
 	* Petra
 * Singapore
