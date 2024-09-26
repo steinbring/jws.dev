@@ -32,4 +32,4 @@ next: false
 
 ## Travel
 
-* I plan on seeing Taiwan, Japan, and South Korea in 2024.
+* I saw Taiwan, Japan, and South Korea in 2024.
