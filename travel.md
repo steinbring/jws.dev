@@ -16,7 +16,7 @@ next: false
 ## Asia
 
 * <s>China</s> ([2018](https://pixelfed.social/c/536397307579209415))
-* <s>South Korea ([2024](https://pixelfed.social/c/744968977236437359))</s>
+* <s>South Korea</s> ([2024](https://pixelfed.social/c/744968977236437359))
 	* <s>The DMZ</s> (2024)
 * <s>Japan</s> ([2024](https://pixelfed.social/c/744968977236437359))
 * Thailand
