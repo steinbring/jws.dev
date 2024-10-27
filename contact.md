@@ -28,6 +28,9 @@ Looking for my email address?  It is my first name at this domain name.
 
 * <a rel="me" href="https://photos.jws.app">Photo Blog</a>
 * <a rel="me" href="https://www.flickr.com/photos/joesteinbring/">Flickr</a>
+* <a rel="me" href="https://bsky.app/profile/jws.news">Bluesky (Follow the blog)</a>
+* <a rel="me" href="https://bsky.app/profile/joe.toot.works.ap.brid.gy">Bluesky (Bridged to Toot Works)</a>
+* <a rel="me" href="https://bsky.app/profile/joe.jws.social.ap.brid.gy">Bluesky (Bridged to JWS Social)</a>
 
 ### Rarely used
 
@@ -45,5 +48,4 @@ Looking for my email address?  It is my first name at this domain name.
 * WeChat
 * Keybase
 * Byte
-* BlueSky (Although [the blog has an account](https://bsky.app/profile/jws.news))
 * Threads
