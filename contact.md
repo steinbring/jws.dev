@@ -16,6 +16,7 @@ Looking for my email address?  It is my first name at this domain name.
 ### Fed by Joe
 
 * <a rel="me" href="https://jws.news">Blog</a>
+* <a rel="me" href="https://jws.pictures">Photo Blog</a>
 * <a rel="me" href="https://pixelfed.social/i/web/profile/11244">Pixelfed (Federated)</a>
 * <a rel="me" href="https://toot.works/@joe">Toot Works (Federated)</a>
 * <a rel="me" href="https://jws.social/@joe">JWS Social (Federated)</a>
@@ -26,11 +27,11 @@ Looking for my email address?  It is my first name at this domain name.
 
 ### Fed by bots
 
-* <a rel="me" href="https://photos.jws.app">Photo Blog</a>
+* <a rel="me" href="https://photos.jws.app">Blogger</a>
 * <a rel="me" href="https://www.flickr.com/photos/joesteinbring/">Flickr</a>
-* <a rel="me" href="https://bsky.app/profile/jws.news">Bluesky (Follow the blog)</a>
-* <a rel="me" href="https://bsky.app/profile/joe.toot.works.ap.brid.gy">Bluesky (Bridged to Toot Works)</a>
-* <a rel="me" href="https://bsky.app/profile/joe.jws.social.ap.brid.gy">Bluesky (Bridged to JWS Social)</a>
+* <a rel="me" href="https://bsky.app/profile/jws.news">Bluesky (Feed from the blog)</a>
+* <a rel="me" href="https://bsky.app/profile/joe.toot.works.ap.brid.gy">Bluesky (Bridged from Toot Works)</a>
+* <a rel="me" href="https://bsky.app/profile/joe.jws.social.ap.brid.gy">Bluesky (Bridged from JWS Social)</a>
 
 ### Rarely used
 
