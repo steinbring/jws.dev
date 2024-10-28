@@ -12,10 +12,9 @@ next: false
 
 ## Education
 
-### 2024 Conferences
+### 2025 Conferences
 
-* I was at [Cyphercon 7.0](https://cyphercon.com/)
-* I was at [DevCon Midwest](https://events.nvisia.com/conference/be3edb0f-815e-48dd-9826-9b62f6fbc93a)
+* None scheduled at the moment
 
 ### What I am learning
 
@@ -28,8 +27,8 @@ next: false
 
 ## Projects
 
-* I am want to explore image recognition using [TensorFlow](https://www.tensorflow.org/js)
+* I want to explore image recognition using [TensorFlow](https://www.tensorflow.org/js)
 
 ## Travel
 
-* I saw Taiwan, Japan, and South Korea in 2024.
+* None scheduled at the moment for 2025.
