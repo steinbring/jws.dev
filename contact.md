@@ -29,7 +29,7 @@ Looking for my email address?  It is my first name at this domain name.
 
 * <a rel="me" href="https://photos.jws.app">Blogger</a>
 * <a rel="me" href="https://www.flickr.com/photos/joesteinbring/">Flickr</a>
-* <a rel="me" href="https://bsky.app/profile/jws.news">Bluesky (Feed from the blog)</a>
+* <a rel="me" href="https://bsky.app/profile/jws.news">Bluesky (Fed from the blog)</a>
 * <a rel="me" href="https://bsky.app/profile/joe.toot.works.ap.brid.gy">Bluesky (Bridged from Toot Works)</a>
 * <a rel="me" href="https://bsky.app/profile/joe.jws.social.ap.brid.gy">Bluesky (Bridged from JWS Social)</a>
 
