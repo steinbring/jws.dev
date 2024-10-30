@@ -82,7 +82,12 @@ export default defineConfig({
     ['meta', { property: 'twitter:image', content: 'https://jws.dev/logo.png' }],
     ['meta', { property: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { property: 'twitter:site', content: '@steinbring' }],
-    // Fediverse
-    ['meta', { property: 'fediverse:creator', content: '@joe@jws.social' }],
+    // Me links
+    ['link', { rel: 'me', href: 'https://github.com/steinbring' }],
+    ['link', { rel: 'me', href: 'https://jws.social/@joe' }],
+    ['link', { rel: 'me', href: 'https://jws.news' }],
+    ['link', { rel: 'me', href: 'https://jws.dev' }],
+    ['link', { rel: 'me', href: 'https://toot.works/@joe' }],
+    ['link', { rel: 'me', href: 'https://jws.pictures' }]
   ],
 })
