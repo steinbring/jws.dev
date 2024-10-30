@@ -84,10 +84,13 @@ export default defineConfig({
     ['meta', { property: 'twitter:site', content: '@steinbring' }],
     // Me links
     ['link', { rel: 'me', href: 'https://github.com/steinbring' }],
+    ['link', { rel: 'me', href: 'https://www.linkedin.com/in/steinbring/' }],
+    ['link', { rel: 'me', href: 'https://codepen.io/steinbring' }],
     ['link', { rel: 'me', href: 'https://jws.social/@joe' }],
     ['link', { rel: 'me', href: 'https://jws.news' }],
     ['link', { rel: 'me', href: 'https://jws.dev' }],
     ['link', { rel: 'me', href: 'https://toot.works/@joe' }],
-    ['link', { rel: 'me', href: 'https://jws.pictures' }]
+    ['link', { rel: 'me', href: 'https://jws.pictures' }],
+    ['link', { rel: 'me', href: 'https://signal.me/#eu/wYx/v3zx0aPCt1RvLXBtCTcrKGWK0hJiIw2JpsQatK5UCSN9YMpDurXTeZ11atLj' }]
   ],
 })
