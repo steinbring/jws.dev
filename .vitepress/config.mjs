@@ -94,5 +94,7 @@ export default defineConfig({
     ['link', { rel: 'me', href: 'https://signal.me/#eu/wYx/v3zx0aPCt1RvLXBtCTcrKGWK0hJiIw2JpsQatK5UCSN9YMpDurXTeZ11atLj' }],
     ['link', { rel: 'me', href: 'https://bsky.app/profile/joe.jws.social.ap.brid.gy' }],
     ['link', { rel: 'me', href: 'https://bsky.app/profile/joe.toot.works.ap.brid.gy' }],
+    // Fediverse creator tag
+    ['meta', { name: 'fediverse:creator', content: '@joe@jws.social' }]
   ],
 })
