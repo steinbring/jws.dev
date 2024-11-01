@@ -99,7 +99,7 @@ next: false
 
 #### Lucee
 
-- If you don't have $8,000 for an Adobe ColdFusion license, Lucee is a great option.  I have used it a lot to play around with CFML outside of work.
+- If you don't have $8,000 for an Adobe ColdFusion license, Lucee is an excellent option.  I have used it often to play around with CFML outside of work.
 
 ## Databases
 
@@ -119,7 +119,7 @@ next: false
 
 #### PostgreSQL
 
-- I have used this in the past for a few side projects, over the years.
+- I have used this for a few side projects over the years.
 
 ### NoSQL Databases
 
