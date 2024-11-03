@@ -12,7 +12,7 @@ next: false
 
 ## Education
 
-### 2025 Conferences
+### Conferences
 
 * None scheduled at the moment
 
