@@ -10,7 +10,7 @@ next: false
 
 ### CSS
 
-- I have 15 years of experience writing [CSS](https://jws.news/tag/css/).
+- I have 15+ years of experience writing [CSS](https://jws.news/tag/css/).
 
 #### Bootstrap
 
@@ -24,17 +24,21 @@ next: false
 
 - I used it at [Bader Rutter](resume.html#senior-full-stack-developer).
 
+#### PrimeVue
+
+- I wrote [JWS Pictures](https://jws.pictures/) using it.
+
 #### Shoelace / Web Awesome
 
 - I discovered this in early 2024 and am excited about it.
 
 ### HTML
 
-- I have 15 years of experience writing HTML.
+- I have 15+ years of experience writing HTML.
 
 ### SQL
 
-- I have 15 years of experience writing SQL.
+- I have 15+ years of experience writing SQL.
 
 ### JavaScript
 
@@ -47,11 +51,11 @@ next: false
 #### AngularJS
 
 - In 2013, I introduced my employer to AngularJS, began teaching my fellow developers about its promise for what it could do for us, and started using it with production applications.
-- In 2014 and 2015, I [wrote several articles about how to leverage AngularJS best](https://jws.news/tag/angularjs/) and wrote several small projects using it.
+- In 2014 and 2015, I [wrote several articles about leveraging AngularJS best](https://jws.news/tag/angularjs/) and wrote several small projects using it.
 
 #### Rivets.js
 
-- I discovered Rivets.js in 2015 after joining [Quality Matters](resume.html#application-developer).  Their product needed a binding and templating solution and I couldn't justify adding AngularJS.  Rivets was lightweight and robust enough to fit the need since it is only 6.2kb minified and gzipped (including dependencies).
+- I discovered Rivets.js in 2015 after joining [Quality Matters](resume.html#application-developer).  Their product needed a binding and templating solution, and I couldn't justify adding AngularJS.  Rivets was lightweight and robust enough to fit the need since it is only 6.2kb minified and gzipped (including dependencies).
 - I [published several articles on Rivets in 2015 and 2016](https://jws.news/tag/rivets-js/) and presented about it at [MilwaukeeJS](https://www.meetup.com/milwaukeejs/).
 
 #### Vue.js
@@ -65,7 +69,7 @@ next: false
 
 #### Node.js
 
-- Since 2014, I have written Node for multiple shops in multiple contexts.  I have run it in [Heroku](https://jws.news/tag/heroku/), [Azure](https://jws.news/tag/azure/), and [Google Cloud](https://jws.news/tag/google-cloud/).  For one client, I ran it in [Firebase Functions](https://firebase.google.com/docs/functions/functions-and-firebase).  I like it a lot.
+Since 2014, I have written Node for multiple shops in multiple contexts. I have run it in [Heroku] (https://jws.news/tag/heroku/), [Azure] (https://jws.news/tag/azure/), and [Google Cloud] (https://jws.news/tag/google-cloud/). For one client, I ran it in [Firebase Functions](https://firebase.google.com/docs/functions/functions-and-firebase). I like it a lot.
 
 ### PHP
 
@@ -129,7 +133,7 @@ next: false
 
 #### MongoDB
 
-- [I explored MongoDB in 2021](https://jws.news/tag/mongodb/) and we used it for a project at [Bader Rutter](resume.html#senior-full-stack-developer).
+- [I explored MongoDB in 2021](https://jws.news/tag/mongodb/), and we used it for a project at [Bader Rutter](resume.html#senior-full-stack-developer).
 
 #### Firebase
 
@@ -153,6 +157,10 @@ next: false
 
 - I used it at [UW-Milwaukee](resume.html#web-application-developer), [Starkmedia](resume.html#senior-application-developer), and [Bader Rutter](resume.html#senior-full-stack-developer).
 
+#### CI/CD pipelines
+
+- I wrote [JWS Pictures](https://jws.pictures/) to use [GitHub Actions](https://github.com/features/actions).  I wrote [an article about how it does what it does](https://jws.news/2024/the-final-form-for-my-photo-blog/). When the developer commits an image file to the repository, it creates six new versions of the image and writes the EXIF data to six data files.
+
 ### Subversion
 
 - I used it at [Kohler](resume.html#coldfusion-developer) and [QM Quality Matters](resume.html#application-developer).
@@ -164,7 +172,7 @@ next: false
 - I introduced [Ollama](https://jws.news/tag/Ollama/) to BR and used it to help them develop an embedding solution.
 - I have written many articles on [how to integrate it into your Node.js and Python systems](https://jws.news/tag/ollama/).
 - I presented a "Crafting Intelligent Python Apps with Retrieval-Augmented Generation" webinar on [May 31, 2024](https://that.us/activities/Z1OU4WMZonDxDDk2L1t2) and [June 28, 2024](https://that.us/activities/5EI62c1gogbMFYMqilkP).
-- I presented "[The Scoop on Embedding: Teaching Large Language Models the “Flavor of the Day” at Culvers](https://github.com/steinbring/python-rag-demo)" on July 23, 2024 at the [La Crosse, WI Software Developer Meetup Group](https://lacrossedevelopers.com/)
+- I presented "[The Scoop on Embedding: Teaching Large Language Models the “Flavor of the Day” at Culver's](https://github.com/steinbring/python-rag-demo)" on July 23, 2024 at the [La Crosse, WI Software Developer Meetup Group](https://lacrossedevelopers.com/)
 - I presented "[The Scoop on Embedding: Teaching Large Language Models the 'Flavor of the Day' at Culvers](https://github.com/steinbring/python-rag-demo)" at [DevCon Midwest](https://events.nvisia.com/conference/be3edb0f-815e-48dd-9826-9b62f6fbc93a) on August 23, 2024.
 
 ## Fediverse
