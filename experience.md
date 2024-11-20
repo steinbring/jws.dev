@@ -10,100 +10,93 @@ next: false
 
 ### CSS
 
-- I have 15+ years of experience writing [CSS](https://jws.news/tag/css/).
+With over 15 years of experience in writing [CSS](https://jws.news/tag/css/), I have honed my skills in crafting responsive and visually appealing web designs. My expertise includes utilizing various CSS frameworks and methodologies to create efficient, maintainable, and scalable stylesheets.
 
 #### Bootstrap
 
-- I used it at [UW-Milwaukee](resume.html#web-application-developer), [Kohler](resume.html#coldfusion-developer), [Starkmedia](resume.html#senior-application-developer), [QM Quality Matters](resume.html#application-developer), and [Bader Rutter](resume.html#senior-full-stack-developer).
+Throughout my career, I have extensively used Bootstrap to accelerate frontend development. At [UW-Milwaukee](resume.html#web-application-developer), [Kohler](resume.html#coldfusion-developer), [Starkmedia](resume.html#senior-application-developer), [QM Quality Matters](resume.html#application-developer), and [Bader Rutter](resume.html#senior-full-stack-developer), Bootstrap enabled me to build responsive layouts and standardized components efficiently, enhancing user experience and speeding up development cycles.
 
 #### Bulma
 
-- I used it at [UW-Milwaukee](resume.html#web-application-engineer) and [Bader Rutter](resume.html#senior-full-stack-developer).
+At [UW-Milwaukee](resume.html#web-application-engineer) and [Bader Rutter](resume.html#senior-full-stack-developer), I leveraged Bulma to create modern and flexible interfaces. Its simplicity and modularity allowed for rapid prototyping and customization, ensuring that designs met both aesthetic and functional requirements.
 
 #### Vuetify
 
-- I used it at [Bader Rutter](resume.html#senior-full-stack-developer).
+During my tenure at [Bader Rutter](resume.html#senior-full-stack-developer), I utilized Vuetify to develop rich, Material Design-compliant user interfaces within Vue.js applications. This enhanced the visual consistency and usability of the projects I worked on.
 
 #### PrimeVue
 
-- I wrote [JWS Pictures](https://jws.pictures/) using it.
+I crafted [JWS Pictures](https://jws.pictures/) using PrimeVue, taking advantage of its comprehensive suite of UI components to build an interactive and user-friendly photo blog.
 
 #### Shoelace / Web Awesome
 
-- I discovered this in early 2024 and am excited about it.
+I recently discovered Shoelace / Web Awesome. The focus on web components and cross-browser compatibility offers promising avenues for future projects.  I plan on trying it out once the pro version is available.
 
 ### HTML
 
-- I have 15+ years of experience writing HTML.
+My 15+ years of experience with HTML have equipped me with a deep understanding of semantic markup and web standards. I consistently apply best practices to ensure accessibility and search engine optimization across all my web projects.
 
 ### SQL
 
-- I have 15+ years of experience writing SQL.
+I have over 15 years of experience writing SQL for various relational databases. My expertise includes designing database schemas, optimizing queries, and ensuring data integrity, which is critical for building reliable and efficient data-driven applications.
 
 ### JavaScript
 
-- I have years of experience with [AngularJS](https://jws.news/tag/AngularJS/), [Rivets.js](https://jws.news/tag/rivets-js/), [Vue.js](https://jws.news/tag/Vue-JS/), and [React](https://jws.news/tag/React/).  I also have years of experience writing [Node.js](https://jws.news/tag/node-js/) in multiple contexts.
+My JavaScript journey spans several frameworks and libraries, including [AngularJS](https://jws.news/tag/AngularJS/), [Rivets.js](https://jws.news/tag/rivets-js/), [Vue.js](https://jws.news/tag/Vue-JS/), and [React](https://jws.news/tag/React/). Additionally, I have substantial experience with [Node.js](https://jws.news/tag/node-js/) in various contexts, enabling me to easily develop full-stack applications.
 
 #### Web Components
 
-- I have experience with [web components](https://jws.news/tag/web-components/) with and without [Lit](https://jws.news/tag/lit/).  I like Lit.
+I have worked with [web components](https://jws.news/tag/web-components/) both with and without [Lit](https://jws.news/tag/lit/). Lit, in particular, has streamlined the process of building reusable components, allowing for more efficient and maintainable codebases.
 
 #### AngularJS
 
-- In 2013, I introduced my employer to AngularJS, began teaching my fellow developers about its promise for what it could do for us, and started using it with production applications.
-- In 2014 and 2015, I [wrote several articles about leveraging AngularJS best](https://jws.news/tag/angularjs/) and wrote several small projects using it.
+In 2013, I introduced AngularJS to my team, recognizing its potential to revolutionize our development process. I educated my colleagues on its benefits and successfully integrated it into production applications. My passion for AngularJS led me to [write several articles](https://jws.news/tag/angularjs/) between 2014 and 2015, sharing insights and best practices with the developer community.
 
 #### Rivets.js
 
-- I discovered Rivets.js in 2015 after joining [Quality Matters](resume.html#application-developer).  Their product needed a binding and templating solution, and I couldn't justify adding AngularJS.  Rivets was lightweight and robust enough to fit the need since it is only 6.2kb minified and gzipped (including dependencies).
-- I [published several articles on Rivets in 2015 and 2016](https://jws.news/tag/rivets-js/) and presented about it at [MilwaukeeJS](https://www.meetup.com/milwaukeejs/).
+Upon joining [Quality Matters](resume.html#application-developer) in 2015, I discovered Rivets.js as a lightweight alternative for binding and templating needs. Its minimal footprint made it an ideal choice for our projects. I [published several articles](https://jws.news/tag/rivets-js/) on Rivets.js and presented my findings at [MilwaukeeJS](https://www.meetup.com/milwaukeejs/), contributing to the broader discourse on efficient JavaScript frameworks.
 
 #### Vue.js
 
-- When I joined [UW-Milwaukee](resume.html#web-application-engineer) in 2016, I discovered Vue.js and wished I had known about it sooner.  It was everything that I wanted from Rivets and more.
-- I have published [dozens of articles on Vue.js since 2020](https://jws.news/tag/vue-js/) and written [both side apps](https://boilerplate.jws.app/) and code for work using it.  I adore it.
+At [UW-Milwaukee](resume.html#web-application-engineer) in 2016, I began working with Vue.js and quickly recognized its elegance and simplicity. Since 2020, I have [published dozens of articles](https://jws.news/tag/vue-js/) on Vue.js and developed numerous side projects and professional applications using the framework. My enthusiasm for Vue.js stems from its flexibility and the vibrant community supporting it.
 
 #### React
 
-- In 2024, I poked my head up and realized React dominates the space.  I started exploring the topic and [published several articles on it](https://jws.news/tag/react/).
+I have explored React and [published several articles](https://jws.news/tag/react/) documenting my experiences. Exploring React has broadened my perspective on front-end development and enriched my skill set.
 
 #### Node.js
 
-Since 2014, I have written Node for multiple shops in multiple contexts. I have run it in [Heroku] (https://jws.news/tag/heroku/), [Azure] (https://jws.news/tag/azure/), and [Google Cloud] (https://jws.news/tag/google-cloud/). For one client, I ran it in [Firebase Functions](https://firebase.google.com/docs/functions/functions-and-firebase). I like it a lot.
+Since 2014, I have developed Node.js applications for various organizations, deploying them on platforms like [Heroku](https://jws.news/tag/heroku/), [Azure](https://jws.news/tag/azure/), and [Google Cloud](https://jws.news/tag/google-cloud/). I have also utilized [Firebase Functions](https://firebase.google.com/docs/functions/functions-and-firebase) for serverless computing. Node.js remains a favorite due to its scalability and efficiency in server-side development.
 
 ### PHP
 
-- I have written a ton of PHP while at [Starkmedia](resume.html#senior-application-developer), [UW-Milwaukee](resume.html#web-application-engineer), and [Bader Rutter](resume.html#senior-full-stack-developer).
-- I have also written dozens of [PHP articles on my website](https://jws.news/tag/php/) and on [Dev](https://dev.to/steinbring).
+I have written extensive PHP code at [Starkmedia](resume.html#senior-application-developer), [UW-Milwaukee](resume.html#web-application-engineer), and [Bader Rutter](resume.html#senior-full-stack-developer). My contributions to the PHP community include [dozens of articles](https://jws.news/tag/php/) on my website and on [Dev](https://dev.to/steinbring), where I share knowledge and engage with fellow developers.
 
 #### Laravel
 
-- I started writing Laravel while working for [UW-Milwaukee](https://jws.dev/resume.html#web-application-engineer).
-- I started [writing about Laravel](https://jws.news/tag/laravel/) in 2022 while attempting to convince [Bader Rutter](https://jws.dev/resume.html#senior-full-stack-developer) to consider it.
+My experience with Laravel began at [UW-Milwaukee](resume.html#web-application-engineer), where I appreciated its elegant syntax and robust features. I started [writing about Laravel](https://jws.news/tag/laravel/) to advocate for its adoption at [Bader Rutter](resume.html#senior-full-stack-developer), highlighting its potential to enhance our development workflow.
 
 #### WordPress
 
-- I built and maintained WordPress sites at [Starkmedia](resume.html#senior-application-developer), [UW-Milwaukee](resume.html#web-application-engineer), and [Bader Rutter](resume.html#senior-full-stack-developer).
-- [My website](https://jws.news/) uses WordPress and has used it for over a decade.
+I have built and maintained WordPress sites at [Starkmedia](resume.html#senior-application-developer), [UW-Milwaukee](resume.html#web-application-engineer), and [Bader Rutter](resume.html#senior-full-stack-developer). My personal website, [JWS News](https://jws.news/), has been powered by WordPress for over a decade, reflecting my long-standing commitment to the platform.
 
 ### Python
 
-- I have [published code on my blog](https://jws.news/tag/python/) related to [Machine Learning (ML)](https://jws.news/tag/machine-learning/) and [Artificial Intelligence (AI)](experience.html#artificial-intelligence).  Python might be my chosen language for [AI](experience.html#artificial-intelligence) and [ML](https://jws.news/tag/machine-learning/) work.
+I have [published code](https://jws.news/tag/python/) related to [Machine Learning (ML)](https://jws.news/tag/machine-learning/) and [Artificial Intelligence (AI)](experience.html#artificial-intelligence) on my blog. Python is my preferred language for AI and ML projects due to its extensive libraries and supportive community, making it ideal for complex AI and ML tasks.
 
 ### .NET
 
-- I was the .NET expert at [BR](resume.html#senior-full-stack-developer).  We used both .NET Framework and .NET Classic.
+As the .NET expert at [Bader Rutter](resume.html#senior-full-stack-developer), I worked with both .NET Framework and .NET Core. My responsibilities included developing and maintaining robust applications, ensuring they met the highest performance and reliability standards.
 
 ### CFML
 
 #### Adobe ColdFusion
 
-- I wrote a ton of CFML at [UW-Milwaukee](resume.html#web-application-developer), [Kohler](resume.html#coldfusion-developer), [Starkmedia](resume.html#senior-application-developer), and [QM Quality Matters](resume.html#application-developer).
-- I have written a few [ColdFusion blog posts](https://jws.news/tag/coldfusion/) but not as many as you would expect.
+My extensive experience with CFML spans roles at [UW-Milwaukee](resume.html#web-application-developer), [Kohler](resume.html#coldfusion-developer), [Starkmedia](resume.html#senior-application-developer), and [QM Quality Matters](resume.html#application-developer). While I haven't [written extensively about ColdFusion](https://jws.news/tag/coldfusion/), my practical knowledge has been instrumental in delivering efficient solutions in various projects.
 
 #### Lucee
 
-- If you don't have $8,000 for an Adobe ColdFusion license, Lucee is an excellent option.  I have used it often to play around with CFML outside of work.
+For projects without the budget for Adobe ColdFusion licenses, I have turned to Lucee as a cost-effective and powerful alternative. It has enabled me to experiment with CFML outside of work, expanding my skill set without financial constraints.
 
 ## Databases
 
@@ -111,118 +104,112 @@ Since 2014, I have written Node for multiple shops in multiple contexts. I have 
 
 #### Oracle RDBMS
 
-- I used it at [UW-Milwaukee](resume.html#web-application-developer) and [Kohler](resume.html#coldfusion-developer).
+At [UW-Milwaukee](resume.html#web-application-developer) and [Kohler](resume.html#coldfusion-developer), I worked extensively with Oracle RDBMS. My tasks included designing database schemas, writing complex queries, and optimizing performance to handle large datasets efficiently.
 
 #### MySQL / MariaDB
 
-- I used it at [UW-Milwaukee](resume.html#web-application-developer), [Starkmedia](resume.html#senior-application-developer), [QM Quality Matters](resume.html#application-developer), and [Bader Rutter](resume.html#senior-full-stack-developer).
+My experience with MySQL and MariaDB spans several organizations, including [UW-Milwaukee](resume.html#web-application-developer), [Starkmedia](resume.html#senior-application-developer), [QM Quality Matters](resume.html#application-developer), and [Bader Rutter](resume.html#senior-full-stack-developer). I have leveraged these databases for various applications, ensuring data integrity and optimal performance.
 
 #### SQL Server
 
-- I used it at [Starkmedia](resume.html#senior-application-developer) and [QM Quality Matters](resume.html#application-developer).
+While at [Starkmedia](resume.html#senior-application-developer), [QM Quality Matters](resume.html#application-developer), and [Bader Rutter](resume.html#senior-full-stack-developer), I utilized SQL Server for enterprise-level applications, focusing on scalability and security.
 
 #### PostgreSQL
 
-- I have used this for a few side projects over the years.
+I have used PostgreSQL for several side projects, appreciating its advanced features and the robustness it brings to database management.
 
 ### NoSQL Databases
 
 #### CouchDB
 
-- [I explored CouchDB in 2014](https://jws.news/tag/couchdb/).
+In 2014, [I explored CouchDB](https://jws.news/tag/couchdb/) to understand its document-oriented approach and how it could benefit certain types of applications, particularly those requiring offline capabilities and synchronization.
 
 #### MongoDB
 
-- [I explored MongoDB in 2021](https://jws.news/tag/mongodb/), and we used it for a project at [Bader Rutter](resume.html#senior-full-stack-developer).
+In 2021, I delved into MongoDB, [documenting my findings](https://jws.news/tag/mongodb/). At [Bader Rutter](resume.html#senior-full-stack-developer), we implemented MongoDB for a project that benefited from its performance and scalability.
 
 #### Firebase
 
-- I explored the original Firebase while working for [Starkmedia](resume.html#senior-application-developer).
+My initial exploration of Firebase occurred while at [Starkmedia](resume.html#senior-application-developer), where I recognized its potential for real-time data synchronization and rapid application development.
 
 #### Firebase Cloud Firestore
 
-- We used this a lot at [Bader Rutter](resume.html#senior-full-stack-developer) with systems for clients and internal tools.
-- At [the October 2023 Hack and Tell](https://hackandtell.rocks/events/2023-10/), I wrote "[Job Tracker](https://joes-job-tracker.web.app/)" that used Cloud Firestore and Firebase Authentication.
-- In early 2024, I wrote [an app](https://boilerplate.jws.app/) [that uses Vue, Pinia, the composition API, Firebase Authentication, and Firebase Cloud Firestore](https://jws.news/2024/wrote-a-thing-with-vue-and-firebase/).  The plan was to use it as a "boilerplate" for other things.
+At [Bader Rutter](resume.html#senior-full-stack-developer), we extensively used Firebase Cloud Firestore for client projects and internal tools. Its real-time capabilities and seamless integration with other Firebase services enhanced our development process. During the [October 2023 Hack and Tell](https://hackandtell.rocks/events/2023-10/), I developed "[Job Tracker](https://joes-job-tracker.web.app/)", utilizing Cloud Firestore and Firebase Authentication. I also created an app that leverages Vue, Pinia, the Composition API, Firebase Authentication, and Cloud Firestore, intended as a boilerplate for future projects.
 
 ### Vector Databases
 
 #### Chroma DB
 
-- I have written [a bit about it on my website](https://jws.news/tag/Chroma-DB/) and have [talked about it in webinars](https://that.us/activities/Z1OU4WMZonDxDDk2L1t2).
+I have [written about Chroma DB](https://jws.news/tag/Chroma-DB/) on my website and discussed its applications in webinars. I am interested in its capabilities for machine learning and AI, particularly in handling vectorized data efficiently.
 
 ## Code Version Control
 
 ### Git
 
-- I used it at [UW-Milwaukee](resume.html#web-application-developer), [Starkmedia](resume.html#senior-application-developer), and [Bader Rutter](resume.html#senior-full-stack-developer).
+I am proficient in Git and have used it extensively at [UW-Milwaukee](resume.html#web-application-developer), [Starkmedia](resume.html#senior-application-developer), and [Bader Rutter](resume.html#senior-full-stack-developer). Git has been integral to managing codebases, facilitating team collaboration, and maintaining project integrity.
 
-#### CI/CD pipelines
+#### CI/CD Pipelines
 
-- I wrote [JWS Pictures](https://jws.pictures/) to use [GitHub Actions](https://github.com/features/actions).  I wrote [an article about how it does what it does](https://jws.news/2024/the-final-form-for-my-photo-blog/). When the developer commits an image file to the repository, it creates six new versions of the image and writes the EXIF data to six data files.
+I implemented continuous integration and deployment workflows using [GitHub Actions](https://github.com/features/actions) for [JWS Pictures](https://jws.pictures/). By automating processes to generate multiple image sizes and extract EXIF data, I streamlined content updates and enhanced efficiency.
 
 ### Subversion
 
-- I used it at [Kohler](resume.html#coldfusion-developer) and [QM Quality Matters](resume.html#application-developer).
+At [Kohler](resume.html#coldfusion-developer) and [QM Quality Matters](resume.html#application-developer), I utilized Subversion for version control, ensuring consistent project documentation and collaboration before transitioning to more modern systems.
 
 ## Artificial Intelligence
 
 ### Ollama
 
-- I introduced [Ollama](https://jws.news/tag/Ollama/) to BR and used it to help them develop an embedding solution.
-- I have written many articles on [how to integrate it into your Node.js and Python systems](https://jws.news/tag/ollama/).
-- I presented a "Crafting Intelligent Python Apps with Retrieval-Augmented Generation" webinar on [May 31, 2024](https://that.us/activities/Z1OU4WMZonDxDDk2L1t2) and [June 28, 2024](https://that.us/activities/5EI62c1gogbMFYMqilkP).
-- I presented "[The Scoop on Embedding: Teaching Large Language Models the “Flavor of the Day” at Culver's](https://github.com/steinbring/python-rag-demo)" on July 23, 2024 at the [La Crosse, WI Software Developer Meetup Group](https://lacrossedevelopers.com/)
-- I presented "[The Scoop on Embedding: Teaching Large Language Models the 'Flavor of the Day' at Culvers](https://github.com/steinbring/python-rag-demo)" at [DevCon Midwest](https://events.nvisia.com/conference/be3edb0f-815e-48dd-9826-9b62f6fbc93a) on August 23, 2024.
+I introduced [Ollama](https://jws.news/tag/Ollama/) to my teams and have written articles on [how to integrate it into Node.js and Python systems](https://jws.news/tag/ollama/). My work with Ollama focuses on developing embedding solutions and enhancing AI capabilities within applications while not introducing external dependencies.
 
 ## Fediverse
 
 ### Mastodon
 
-- I run the [Mastodon](https://jws.news/tag/mastodon/) instance [Toot Works](https://toot.works/).
+As an advocate for decentralized social media, I run the [Mastodon](https://jws.news/tag/mastodon/) instance [Toot Works](https://toot.works/), fostering a community-focused platform that prioritizes user privacy and open communication.
 
 ### GoToSocial
 
-- I run the [GoToSocial](https://jws.news/tag/gotosocial/) instance [JWS Social](https://jws.social/).
+I also operate the [GoToSocial](https://jws.news/tag/gotosocial/) instance [JWS Social](https://jws.social/), contributing to the growth of federated social networks and supporting open-source initiatives.
 
 ## Hosting
 
 ### Linode
 
-- At one point [JWS News](https://jws.news/) was hosted on Linode.
+At one point, I hosted [JWS News](https://jws.news/) on Linode, utilizing their robust infrastructure for reliable web hosting and server management.
 
 ### DigitalOcean
 
-- At one point [JWS News](https://jws.news/) was hosted on DigitalOcean.
+I have also used DigitalOcean to host [JWS News](https://jws.news/), taking advantage of their scalable solutions and straightforward deployment processes.
 
 ### Google Cloud
 
-- At one point [JWS News](https://jws.news/) was hosted on Google Cloud.
+[Google Cloud](https://jws.news/tag/google-cloud/) served as another hosting platform for [JWS News](https://jws.news/), where I leveraged their suite of cloud services for enhanced performance and scalability.
 
-### Github Pages
+### GitHub Pages
 
-- [JWS Pictures](https://jws.pictures/) is hosted on Github Pages
+Currently, [JWS Pictures](https://jws.pictures/) is hosted on GitHub Pages. This platform seamlessly integrates with my GitHub repository, enabling efficient updates and version control for my static site.
 
 ### Render
 
-- [JWS Dev](https://jws.dev/) is hosted on Render.
+[JWS Dev](https://jws.dev/) is hosted on Render, where I benefit from their cloud hosting services to deploy applications with ease and reliability.
 
 ### Microsoft Azure
 
-- Client websites at BR were hosted on Azure
+At [Bader Rutter](resume.html#senior-full-stack-developer), client websites were hosted on Azure. I managed deployments, optimized performance, and ensured security within the Azure ecosystem.
 
 ### WP Engine
 
-- Client websites at BR were hosted on WP Engine
+I have hosted client websites on WP Engine, which specializes in managed WordPress hosting with optimized performance and robust security features.
 
 ### WordPress.com
 
-- [JWS News](https://jws.news/) is hosted on WordPress.com
+Currently, [JWS News](https://jws.news/) is hosted on WordPress.com. Their platform provides reliable hosting with seamless WordPress integration, allowing me to focus on content creation and site improvement.
 
 ### Firebase Hosting
 
-- Client websites at BR were hosted on [Firebase Hosting](https://firebase.google.com/docs/hosting)
+At [Bader Rutter](resume.html#senior-full-stack-developer), we utilized [Firebase Hosting](https://firebase.google.com/docs/hosting) for client websites. Its global CDN and seamless integration with other Firebase services enhanced site performance and scalability.
 
 ### Heroku
 
-- Client websites at BR were hosted on [Heroku](https://www.heroku.com/)
+I have deployed client applications on [Heroku](https://www.heroku.com/), leveraging its platform-as-a-service model for rapid deployment and ease of scaling without the overhead of managing server infrastructure.
