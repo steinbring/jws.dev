@@ -213,3 +213,22 @@ At [Bader Rutter](resume.html#senior-full-stack-developer), we utilized [Firebas
 ### Heroku
 
 I have deployed client applications on [Heroku](https://www.heroku.com/), leveraging its platform-as-a-service model for rapid deployment and ease of scaling without the overhead of managing server infrastructure.
+
+### VMWare vSphere 
+
+vSphere lets you manage virtual machines that are hosted in VMWare. When I started at [UWM](https://jws.dev/resume.html#software-engineer-developer-iv), all of the virtual machines were hosted in VMware and managed in vSphere.
+In addition to my work with VMWare at [UWM](https://jws.dev/resume.html#software-engineer-developer-iv), I also use VMWare workstation at home to host a Windows VM on my Ubuntu-based server.
+
+### Microsoft Hyper-V
+
+Hyper-V is a direct competitor to VMWare. [UWM](https://jws.dev/resume.html#software-engineer-developer-iv) moved away from VMWare in 2025 in favor of Hyper-V.
+In addition to my work with Hyper-V at [UWM](https://jws.dev/resume.html#software-engineer-developer-iv), I also have it running on a Windows 10 computer at home.  I set it up to run a Windows Server install while learning .Net at [Bader Rutter](https://jws.dev/resume.html#senior-full-stack-developer).
+
+### Docker
+
+I am running docker on my home server to host a number of [Node.js](https://jws.dev/experience.html#node-js) and [Python](https://jws.dev/experience.html#python) scripts connected to [JWS Social](https://jws.social/).
+One of the first things that I was asked to write at [UWM](https://jws.dev/resume.html#software-engineer-developer-iv) was a script that could turn an arbitrary [Laravel](https://jws.dev/experience.html#laravel) application that was being hosted across a series of virtual machines into a collection of containers that could run on Kubernetes.  I used Docker as a local placeholder for Kubernetes in my testing.
+
+### Kubernetes
+
+In 2025, [UWM](https://jws.dev/resume.html#software-engineer-developer-iv) started moving web applications that they were hosting on a series of virtual machines into a new Kubernetes environment.
