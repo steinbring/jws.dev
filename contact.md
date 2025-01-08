@@ -20,7 +20,6 @@ Looking for my email address?  It is my first name at this domain name.
 * <a rel="me" href="https://pixelfed.social/i/web/profile/11244">Pixelfed (Federated)</a>
 * <a rel="me" href="https://toot.works/@joe">Toot Works (Federated)</a>
 * <a rel="me" href="https://jws.social/@joe">JWS Social (Federated)</a>
-* <a rel="me" href="https://www.instagram.com/joesteinbring/">Instagram</a>
 * <a rel="me" href="https://codepen.io/steinbring">CodePen</a>
 * <a rel="me" href="https://midwest.social/u/steinbring">Lemmy (Federated)</a>
 * <a rel="me" href="https://signal.me/#eu/wYx/v3zx0aPCt1RvLXBtCTcrKGWK0hJiIw2JpsQatK5UCSN9YMpDurXTeZ11atLj">Signal</a>
@@ -45,7 +44,7 @@ Looking for my email address?  It is my first name at this domain name.
 * Facebook
 * Twitter/X
 * 500px
-* TikTok
+* Instagram
 * WeChat
 * Keybase
 * Byte
