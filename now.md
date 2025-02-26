@@ -14,7 +14,7 @@ next: false
 
 ### Conferences
 
-* None scheduled at the moment
+* [CypherCon](https://cyphercon.com/)
 
 ### What I am learning
 
