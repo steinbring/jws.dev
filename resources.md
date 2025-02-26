@@ -112,7 +112,7 @@ Every now and then, I find something interesting that I want to share.
 
 ### Services
 
-- [Google Fi](https://g.co/fi/r/2PCAEE) -- It's great because you can get 10 free data sims
+- [Google Fi](https://g.co/fi/r/2PCAEE) -- It's great because you can get four free data sims (it was 10)
 
 ### Learning Resources
 
